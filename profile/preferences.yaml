@@ -1,0 +1,121 @@
+# Master Profile — Preferences & Criteria
+# Filled via hybrid bootstrap. Edit freely.
+# Last updated: 2026-07-21
+
+# ============================================================
+# TARGET ROLE TYPES
+# Roles you're actively pursuing.
+# ============================================================
+target_roles:
+  - CTO
+  - VP / Head of Engineering
+  - CEO / COO / President
+  - Fractional CTO
+  - Advisory / Board
+  - EIR / FIR (Entrepreneur / Founder in Residence)
+  - Founder (new startup)
+
+# ============================================================
+# GEOGRAPHIES
+# Where you'll work. Nairobi-only is included as a baseline.
+# ============================================================
+geographies:
+  - Nairobi (on-site / hybrid)
+  - Remote — anywhere
+  - Remote — Africa/Europe timezone overlap
+  - North America (relocation or remote)
+  - Europe (relocation or remote)
+  - APAC (relocation or remote)
+
+# Geographies explicitly NOT in scope (revisit if circumstances change):
+# - Other African cities outside Nairobi (Lagos, Cape Town, Cairo, Accra, etc.)
+# - Middle East (Dubai, UAE, Saudi)
+
+# ============================================================
+# WORK MODE
+# ============================================================
+work_mode:
+  on_site_nairobi: true
+  hybrid: true
+  remote: true
+
+# ============================================================
+# SECTORS — INTERESTED
+# ============================================================
+sectors_interested:
+  - Fintech (payments, lending, banking, remittances, wallets)
+  - Marketplaces / e-commerce (two-sided, B2B platforms, classifieds)
+  - Healthtech (digital health, telemedicine, health-for-impact)
+  - Media / content (streaming, creator tools, content platforms)
+  - AI / ML platforms (LLM platforms, agent platforms, ML tooling)
+  - Consumer social / social commerce
+  - B2B SaaS / devtools
+  - Impact / climate / edtech / govtech
+
+# Sectors with experience but NOT actively targeting:
+sectors_inactive:
+  - Telecom (extensive prior experience, not actively seeking more)
+
+# ============================================================
+# SECTORS — REFUSE OUTRIGHT
+# ============================================================
+sectors_refuse:
+  - Crypto / web3 (pure-play exchanges, DeFi, NFT platforms)
+  - Gambling / betting / lottery
+
+# All other sectors: open to consider case-by-case.
+
+# ============================================================
+# COMPANY STAGE
+# ============================================================
+company_stage:
+  - Seed
+  - Series A
+  - Series B-C
+  - Series D+
+  - Public
+  - Non-profit / NGO
+
+# Stage NOT targeting:
+# - Pre-seed (idea stage, <10 people, pre-PMF)
+
+# ============================================================
+# COMPENSATION
+# Private — fill in directly. Agent NEVER echoes these in artifacts.
+# ============================================================
+compensation:
+  # Fill in your actual numbers below. These are private.
+  # The agent will read them to filter applications but will NEVER
+  # include them in CVs, cover letters, emails, or other artifacts.
+  floor_base_usd: 5000       # minimum base salary you'd accept (USD equivalent)
+  target_base_usd: 15000      # what you'd actually want
+  floor_equity_pct: 1     # minimum equity for early-stage roles
+  target_equity_pct: 10    # what you'd actually want
+  floor_cash_comp_usd: 20000  # floor on total cash (base + bonus)
+  currency_assumption: "USD-equivalent; convert local currency at market rate"  # e.g., "USD-equivalent; convert local currency at market rate"
+  relocation_budget_usd: # if relevant
+  notes:                 # any comp-specific preferences ("no below-market cash for high-equity", etc.)
+
+# ============================================================
+# HARD RED LINES — refuse to consider opportunities where:
+# ============================================================
+red_lines:
+  - "Pure-play crypto / web3 / gambling sectors"
+  - "On-site roles outside Nairobi without strong relocation package"
+  - "Roles with no budget for the engineering org"
+  # Add more as you identify them:
+  # - "Founders with no technical co-founder for an engineering-leader role (sign of misaligned expectations)"
+  # - "Companies without product-market-fit hiring a senior engineering leader"
+  # - "Compensation below the floor above (fill in floor first)"
+
+# ============================================================
+# NICE-TO-HAVES (boost desirability but not required)
+# ============================================================
+nice_to_haves:
+  - "Founder-led company (you work directly with founders)"
+  - "AI-native product (LLMs/agents at the core)"
+  - "Cross-border or multi-country scope"
+  - "Strong technical CEO who values engineering"
+  - "Mission-driven (impact alongside commercial)"
+  - "Modern stack (Ruby/Kotlin/Elixir/TypeScript preferred over .NET/PHP/Perl)"
+  - "Engineering culture investment (conference budgets, learning time, OSS contribution encouraged)"

@@ -16,10 +16,10 @@ Technology executive with 15+ years of multi-national experience in marketplaces
 ### Mira | Nairobi, Kenya  
 #### 🌐 [https://withmira.co](https://withmira.co)
 **Co-founder & CEO** | Jul 2025 – Present  
-AI team member for people who sell on Instagram, Facebook and WhatsApp
+AI team member handling customer experience in DMs for people who sell on Instagram
 - Mira handles comments and DMs, providing great customer experience for product and stock inquiries, orders, payments and deliveries
 - Currently in pre-launch GTM, recruiting design partners for validation
-- Oct 2025 go-live
+- Live at https://withmira.co
 
 ---
 
