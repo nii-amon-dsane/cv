@@ -58,47 +58,62 @@
 
 ## Directory layout
 
-### Skill (cross-harness, installed once)
+> **Note**: design originally called for skill at `~/.agents/skills/job-application-agent/` and state in the repo. Implementation merged them — the skill lives **inside** the repo so file edits work without permission friction, and `~/.agents/skills/job-application-agent/SKILL.md` is a thin pointer that redirects here. See "Actual layout" below.
+
+### Original design (skill separate from repo)
+
+```
+~/.agents/skills/job-application-agent/   # skill files
+/Users/niiamon/work/cv/                   # personal data + state
+```
+
+### Actual layout (skill inside repo)
 
 ```
 ~/.agents/skills/job-application-agent/
-├── SKILL.md                      # Harness-loaded instructions
-├── README.md                     # Human-facing usage doc
-├── profile/                      # Symlink or copy from the repo (see below)
+└── SKILL.md                      # Thin pointer → /Users/niiamon/work/cv/SKILL.md
+
+/Users/niiamon/work/cv/                  # Skill + state (versioned together)
+├── SKILL.md                             # Master skill instructions (authoritative)
+├── README.md                            # Human-facing usage
+├── DESIGN.md                            # This file
+├── Nii-Amon-Dsane-CV-2025-SEP-public.pdf
+├── nii-amon-sep-2025-short.md
+├── CLAUDE.md
 ├── templates/
 │   ├── pandoc/
-│   │   ├── cv_template.md
-│   │   └── cover_letter_template.md
+│   │   └── minimal.typ                  # v2 styling hook (v1 uses pandoc defaults)
 │   ├── match_analysis.md.tmpl
 │   ├── cv.md.tmpl
 │   ├── cover_letter.md.tmpl
 │   ├── recruiter_email.txt.tmpl
 │   ├── linkedin_message.txt.tmpl
 │   └── interview_prep.md.tmpl
-└── scripts/
-    ├── new_application.py        # Scaffold application directory
-    ├── render_pdfs.sh            # Pandoc MD → PDF
-    ├── regenerate_tracker.py     # Scan apps/, write tracker.md
-    └── update_status.py          # Update meta.json + regenerate tracker
-```
-
-### Repo (versioned, lives at /Users/niiamon/work/cv)
-
-```
-/Users/niiamon/work/cv/
-├── Nii-Amon-Dsane-CV-2025-SEP-public.pdf   # Original
+├── scripts/
+│   ├── new_application.py               # Scaffold application directory
+│   ├── render_pdfs.sh                   # Pandoc MD → PDF (via typst)
+│   ├── regenerate_tracker.py            # Scan apps/, write tracker.md
+│   └── update_status.py                 # Update meta.json + regenerate tracker
+├── share/
+│   ├── chatgpt-mega-prompt.md           # Self-contained prompt for ChatGPT friends
+│   └── README.md                        # How to share
 ├── profile/
-│   ├── cv.md                     # Full CV extracted from PDF (master source)
-│   ├── preferences.yaml          # Target roles, geo, sectors, stage, comp floor, red lines
-│   ├── achievements.md           # Quantified achievements library (enriches over time)
-│   ├── narrative_themes.md       # 2-3 story arcs
-│   ├── style_guide.md            # Voice rules
-│   └── voice_samples/            # Writing samples (paste-in)
-├── applications/                 # Per-app dirs created on use
+│   ├── cv.md                            # Full CV extracted from PDF (master source)
+│   ├── preferences.yaml                 # Target roles, geo, sectors, stage, comp floor, red lines
+│   ├── achievements.md                  # Quantified achievements library (enriches over time)
+│   ├── narrative_themes.md              # 4 story arcs
+│   ├── style_guide.md                   # Voice rules (refined from samples)
+│   └── voice_samples/                   # Writing samples (paste-in)
+│       ├── README.md
+│       ├── sample_01_email_to_demand_settlement.md
+│       ├── sample_01_email_to_lawyer.md
+│       ├── sample_01_email_to_recruiter.md
+│       └── peach-cars-case-studies.pdf
+├── applications/                        # Per-app dirs created on use
 │   └── <company>__<role-slug>__<YYYY-MM-DD>/
-│       ├── meta.json             # Source of truth for this app
-│       ├── jd.txt                # Original JD as pasted
-│       ├── match_analysis.md     # 5-part report
+│       ├── meta.json                    # Source of truth for this app
+│       ├── jd.txt                       # Original JD as pasted
+│       ├── match_analysis.md            # 5-part report
 │       ├── cv.md
 │       ├── cv.pdf
 │       ├── cover_letter.md
@@ -106,7 +121,7 @@
 │       ├── recruiter_email.txt
 │       ├── linkedin_message.txt
 │       └── interview_prep.md
-└── tracker.md                    # Derived view, auto-regenerated
+└── tracker.md                           # Derived view, auto-regenerated
 ```
 
 ## meta.json schema

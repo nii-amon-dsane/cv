@@ -1,0 +1,45 @@
+# Tailored CV: {{COMPANY}} — {{ROLE}}
+
+> **Source**: derived from `profile/cv.md`, tailored per JD with moderate aggressiveness.
+> **Length cap**: 2 pages.
+> **Hard rules**: never invent skills/dates/companies/metrics. Weave JD keywords using truth only.
+> **Voice**: keep Nii's voice per `profile/style_guide.md`.
+
+## Structure to produce
+
+```markdown
+# Nii Amon Dsane
+**[Headline — tailored to JD, 6-10 words]**
+
+[Location • Email • Phone • LinkedIn]
+
+## Summary
+[3-4 bullets max. Lead with the recommended angle from match_analysis.md. Mirror the JD's must-haves using truth only.]
+
+## Capabilities
+[Reordered per JD priorities. Drop irrelevant bullets. Keep section headings aligned with JD language where possible.]
+
+## Experience
+[For each role, choose emphasis per match_analysis.md "Roles to feature prominently". Compress others to 1-2 bullets.]
+
+### [Company] // [Location]
+**[Title]** | [Dates]
+- [Bullet — outcome-first, metric if available, JD-keyword-aware]
+- [Bullet]
+
+## Education
+[Standard]
+
+## [Optional: Selected Projects / Speaking / etc. if relevant to JD]
+```
+
+## Tailoring rules
+
+1. **Headline** under the name should shift per JD (e.g., "Fintech Engineering Leader" for fintech roles, "Marketplace CTO" for marketplace roles, "AI Product Builder" for AI roles). Must be truth — Nii has done all of these.
+2. **Summary** should mirror the JD's must-haves in the first 2 bullets.
+3. **Capabilities** section reorders to put JD's top must-haves first.
+4. **Experience** bullets get rewritten for impact (tighter phrasing, stronger verbs), not invented.
+5. **Drop** experience bullets that are irrelevant to this JD.
+6. **Compress** roles that aren't featured into 1-2 lines.
+7. **Metric rules**: reuse from `profile/cv.md` and `profile/achievements.md` only. If a metric is plausible but unsourced, mark `[estimated — verify]`.
+8. **ATS weave**: if `meta.json.ats_optimize == true`, weave JD keywords into bullets using truth only.

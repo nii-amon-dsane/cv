@@ -1,0 +1,65 @@
+# Recruiter Email: {{COMPANY}} — {{ROLE}}
+
+> **Source-specific**: tone and length depend on `meta.json.source`. See below.
+> **Voice**: keep Nii's voice per `profile/style_guide.md`.
+> **Hard rules**: never invent anything.
+
+## Output format
+
+Plain text, no markdown. Format:
+
+```
+Subject: [subject line]
+
+[Body — plain text, single line breaks between paragraphs]
+
+— 
+Nii Amon Dsane
+[Phone]
+[Email]
+[LinkedIn]
+```
+
+## Source-specific shape
+
+### source = recruiter_cold
+- **Length**: 100-150 words body
+- **Subject**: pattern like "VP Engineering candidate — fintech + marketplace background" or "[Role] — 3 quick reasons I'd be a fit"
+- **Opening**: 1 sentence on why you're reaching out (specific to recruiter or company)
+- **Body**: 3 bullets mapping top 3 JD must-haves to specific past outcomes (use real metrics)
+- **Close**: low-friction CTA ("Worth a 15-min call this week?")
+- **Tone**: confident, direct, no fluff
+
+### source = warm_intro
+- **Length**: 50-75 words body
+- **Subject**: pattern like "Re: intro from [Connector] — [Role] conversation"
+- **Opening**: 1 sentence thanking the connector by name
+- **Body**: 1-2 sentences on the headline fit
+- **Close**: low-friction CTA ("Open to a quick call?")
+- **Tone**: warm, brief
+
+### source = referral
+- **Length**: 75-100 words body
+- **Subject**: pattern like "[Referrer] suggested I reach out — [Role]"
+- **Opening**: 1 sentence naming the referrer
+- **Body**: 2-3 sentences on fit
+- **Close**: low-friction CTA
+- **Tone**: warm, brief
+
+### source = direct_outreach
+- **Length**: 100-150 words body
+- **Subject**: pattern like "[Role] — quick note from a [domain] builder"
+- **Opening**: 1 sentence on why them specifically (founder, product, recent news)
+- **Body**: 2-3 sentences on why this role and why you
+- **Close**: low-friction CTA
+- **Tone**: personalized, confident
+
+### source = portal
+- **Skip**: portal applications don't need an outreach email. Generate a placeholder note instead: "Portal application — no outreach email needed."
+
+## Banned phrases
+- "I hope this email finds you well"
+- "I am writing to express my interest"
+- "Please find attached my resume"
+- "Passionate", "results-driven", "synergy"
+- "Leverage" (verb)

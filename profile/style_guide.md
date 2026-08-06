@@ -29,6 +29,42 @@ This is the v1 style guide derived from your CV's voice + sensible senior-exec d
    - Mira (current): "I'm building an AI agent for social commerce sellers."
    - Peach (prior): "I directed the Technology Group at Peach."
 
+## Signature patterns confirmed by samples
+
+These patterns appear in Nii's actual writing (3 email samples). Reproduce them.
+
+**Greeting**: `Hi [First name],` — first name, casual comma. Never "Dear" in email. Never "Dear Hiring Manager" if name is known; if name unknown, "Hi [Team] [Company]," or "Hi hiring team at [Company],".
+
+**Opening pleasantry** (1 short sentence max, then straight to point):
+- ✅ "Thanks for getting in touch."
+- ✅ "Apologies for the delayed response."
+- ✅ "Thanks for taking the time to chat."
+- ✅ "I'm great thanks! Hope you're doing good too."
+- ❌ "I hope this email finds you well."
+- ❌ "I am writing to apply for..."
+
+**Acknowledging the other side before delivering hard messages**: when declining or pushing back, acknowledge effort first, then deliver the position directly. No hedging.
+- ✅ "Thanks for sharing the proposal. I appreciate the effort you've put into this. Unfortunately, this is not acceptable to me."
+
+**Specific proposals over vague availability**: when proposing next steps, give concrete options not "let me know what works".
+- ✅ "I have some time next week Monday between 1300-1500 EAT. Does that window work for you?"
+- ❌ "Let me know what time works for you."
+
+**Direct position-taking**: state the position plainly without softening.
+- ✅ "this is not acceptable to me"
+- ✅ "I would love to chat some more about this"
+- ❌ "I was hoping we might perhaps consider..."
+- ❌ "I respectfully disagree"  (just say what you actually think)
+
+**Sign-off** (consistent across all 3 samples): `Many thanks,\nNii Amon`
+- ✅ "Many thanks, / Nii Amon"
+- ❌ "Best, / Nii"
+- ❌ "Sincerely, / Nii Amon Dsane"
+- ❌ "Regards, / Nii"
+- ❌ "Warmly, / Nii Amon"
+
+Use `Many thanks, / Nii Amon` as default sign-off in all emails and LinkedIn messages unless context demands otherwise (ultra-formal letter → "Sincerely, / Nii Amon Dsane").
+
 ## Banned words and phrases
 
 The agent must not use these. They smell AI-generated or generic.
@@ -61,12 +97,14 @@ The agent must not use these. They smell AI-generated or generic.
 - "Led team of 12 across development and digital transformation at Radio Africa."
 - "Architected music streaming service with microservices + Akka pipeline + serverless."
 
-**Paragraph opener (cover letter)**: `[Specific hook about company/role]. [Why it connects to you]. [What you'll show in this letter].`
-- "Acme's pivot to AI-native logistics caught my attention — I'm currently shipping an AI agent for social commerce sellers at Mira, and the patterns translate. Below: three outcomes from my last three roles that map to what you're hiring for."
+**Paragraph opener (cover letter)**: `[Acknowledge something specific about the company/role in 1 sentence]. [Connect it to you in 1 sentence]. [Tell them what's coming next.]`
+- Example pattern: "Acme's pivot to AI-native logistics caught my attention. I'm currently shipping an AI agent for social commerce sellers at Mira — the patterns translate. Three outcomes from my last three roles that map to what you're hiring for:"
 
-**Email opener (cold outreach)**: `[One sentence on why them specifically]. [Three bullets mapping their must-haves to your outcomes]. [Low-friction CTA].`
+**Email opener (cold outreach)**: `[Hi Name,] [1-line pleasantry or context hook]. [Three bullets mapping their must-haves to your outcomes]. [Specific next-step proposal with concrete time/options]. [Many thanks, / Nii Amon]`
 
-**LinkedIn connection note**: `[Who you are in 6 words]. [Why connecting is mutually valuable in 1 sentence]. [Optional CTA].` Must fit 300 chars.
+**Email opener (warm reply)**: `[Hi Name,] [Acknowledge their message in 1 short sentence]. [Your position or response — direct, no hedging]. [Specific next-step proposal]. [Many thanks, / Nii Amon]`
+
+**LinkedIn connection note**: `[Hi Name,] [Who you are in 6 words]. [Why connecting is mutually valuable in 1 sentence]. [Optional concrete CTA]. [Many thanks, / Nii Amon]` — must fit 300 chars total.
 
 ## Tone by context
 

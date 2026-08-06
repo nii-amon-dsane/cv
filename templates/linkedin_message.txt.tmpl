@@ -1,0 +1,53 @@
+# LinkedIn Message: {{COMPANY}} — {{ROLE}}
+
+> **Type**: connection note / InMail / DM (per `meta.json.linkedin_type`, default: connection_note + DM pair)
+> **Voice**: keep Nii's voice per `profile/style_guide.md`.
+
+## Output format
+
+Plain text, no markdown. Output BOTH variants (connection note + DM) separated by a clear divider, unless the user specified one type.
+
+```
+=== CONNECTION NOTE (300 chars max) ===
+[connection note text]
+
+=== DM (200 words max) ===
+[dm text]
+```
+
+## Length caps
+
+- **Connection note**: 300 characters (LinkedIn hard limit)
+- **InMail**: 500 words (paid; use for high-value targets only)
+- **DM**: 200 words (existing connection)
+
+## Shape by type
+
+### Connection note (cold outreach to recruiter or HM)
+- 1 sentence: who you are (headline — tailored to their domain)
+- 1 sentence: why connecting is mutually valuable (specific, not generic)
+- 1 sentence (optional): low-friction CTA
+- MUST fit in 300 chars including spaces
+
+### InMail
+- Subject line: 5-8 words, specific
+- Body: 150-300 words
+- Structure: hook → 3 bullets on fit → CTA
+- Use real metrics from CV
+
+### DM (existing connection)
+- 1 sentence: warm opener referencing prior interaction or shared context
+- 1-2 sentences: the ask (specific role, specific question)
+- 1 sentence: low-friction CTA
+
+## Banned phrases
+- "I hope you're doing well"
+- "I wanted to reach out"
+- "I'd love to connect" (generic)
+- "Synergy", "leverage", "passionate"
+
+## Defaults
+- If `meta.json.source` = `recruiter_cold` → lead with connection note
+- If `meta.json.source` = `warm_intro` → DM to the connector, no cold note
+- If `meta.json.source` = `direct_outreach` → connection note + follow-up DM
+- If `meta.json.source` = `portal` → skip LinkedIn message
