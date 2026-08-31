@@ -1,0 +1,97 @@
+- The business is currently run by Yvonne across all functions  
+- Current product line:  
+  - Body butter  
+  - Body oil  
+  - Lip balm  
+- There’s a 50% gross margin on sales  
+- The aim this year is to increase the gross margin to 70% \- 80%  
+- Yvonne currently handles all aspects of the business including:  
+  - Formulation  
+  - Manufacture  
+  - Labelling   
+  - Delivery and logistics  
+  - Accounting  
+  - Data and insights  
+  - Social media management  
+- Yvonne needs help with the following:  
+  - Customer engagement  
+    - Surveys  
+    - Cohort analysis  
+    - Customer data management  
+  - Social media management   
+    - Tiktok  
+      - Account setup  
+      - Product reviews  
+      - Micro-influencer strategy  
+    - Instagram  
+      - Product reviews  
+      - Micro-influencer strategy  
+  - Business management  
+    - Accounting  
+      - System setup  
+      - Sourcing book keeper  
+    - Finance  
+      - Inflows and outflows  
+      - Unit economics  
+    - Data and insights  
+  - Ecommerce  
+    - Search engine optimisation  
+    - Search and discovery  
+    - Ecommerce store  
+  - Branding and labelling design  
+- Yvonne intends to keep handling the Product and logistics aspects, which includes:  
+  - New product development and testing  
+  - Formulations  
+  - Manufacture  
+  - Delivery and logistics  
+  - Sourcing inputs  
+- Yvonne intends to introduce a couple of new products:  
+  - Shimmer body oil  
+  - Product for eczema  
+- Nii Amon suggested that Yvonne consider men’s care products because:  
+  - The market is growing rapidly  
+  - The market is underserved by local producers  
+  - Economically, men have larger disposable incomes due to disparities in compensation  
+  - The Beard Gang meme turned me on to the need for hair products: from hair to skin could be a small step  
+- Yvonne’s expansion plan  
+  - Geographic expansion:  
+    - Phase 1: shipping out of Nairobi  
+      - What is the logistics setup required to provide the same experience as pertains today?  
+    - Phase 2: neighbouring countries  
+      - Rwanda  
+      - Uganda  
+      - Tanzania  
+    - Phase 3: out of East Africa  
+      - US (due to large population of Kenyan expats)  
+      - UK (due to large population of Kenyan expats)  
+  - Product line expansion:  
+    - Shimmer body oil  
+    - Eczema solution  
+    - Bath products  
+    - Cleansers and scrubs  
+  - Yvonne wants to source:  
+    - Oils from India  
+    - Herbal products and shower nets from Ghana  
+- Plan to reduce input costs and increase margin:  
+  - Cut out middlemen in sourcing inputs: source directly from India  
+  - Buy a labelling machine  
+- Unit economics:  
+  - Body butter  
+    - Total cost to customer (?): KES 500  
+    - Retails at: KES 1000  
+    - Return on costs: 100%  
+  - Body oil  
+    - Total cost to customer (?): KES 500  
+    - Retails at: KES 1000  
+    - Return on costs: 100%  
+- Distribution  
+  - Sampling bar at Lavington Mall  
+  - Pickup in CBD  
+  - Direct shipping  
+- Customer data:  
+  - Women: 95% / Men: 5%  
+  - Age range: 22 \- 34  
+  - About 80% of customers are return customers  
+    - We need to understand what keeps bringing them back  
+    - Perhaps a survey would make sense here  
+    - Typically, return customers make a purchase worth KES 2000 every 3 to 4 weeks

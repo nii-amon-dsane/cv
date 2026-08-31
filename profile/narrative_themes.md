@@ -9,7 +9,7 @@ You take products from zero to launch. Pre-PMF, MVP, founder-mode. You're happie
 **When to lead with this**: pre-seed / seed roles; founder-CEO roles; greenfield product initiatives inside larger orgs; EIR/FIR roles; founder-of-new-venture roles.
 
 **Roles to feature**:
-- Mira (current) — co-founder, AI agent product 0→1
+- Sellogram (current) — co-founder and CEO, AI agent product 0→1
 - Bridge Technologies — rebuilt engineering, delivered consumer apps + merchant app + APIs in 3 months
 - Kwara — core banking platform, technical roadmap from scratch
 
@@ -19,7 +19,7 @@ You take products from zero to launch. Pre-PMF, MVP, founder-mode. You're happie
 **Proof metrics**:
 - 70M potential MTN subscribers reached by Bridge cross-border product
 - 3-month delivery of 2 consumer apps + 1 merchant app + API suite at Bridge
-- Mira 0→1 from idea to live with paying design partners
+- Sellogram 0→1 from idea to a product for social-commerce sellers
 
 ---
 
@@ -27,20 +27,20 @@ You take products from zero to launch. Pre-PMF, MVP, founder-mode. You're happie
 
 You design and ship products with LLMs at their core. Not AI-as-feature — AI-as-product. You understand RAG, context engines, prompt optimization (DSPy), and agent workflows (LangGraph), and you ship.
 
-**When to lead with this**: AI/ML platform roles; AI-native product company leadership; any role where "AI strategy" is in the JD; Mira-type ventures; LLM-tooling companies.
+**When to lead with this**: AI/ML platform roles; AI-native product company leadership; any role where "AI strategy" is in the JD; AI-native ventures; LLM-tooling companies.
 
 **Roles to feature**:
-- Mira (current) — AI agent for social commerce, live product
+- Sellogram (current) — AI agent for social commerce
 - Bridge / Peach — applied AI in production systems (expand here with achievements library)
 
 **CV headline pattern**: "AI-Native Product Builder · Engineering Executive"
-**Hook pattern**: "I'm currently building [Mira] — an AI agent that [does X]. Before that, [proof point], [proof point]. I don't theorize about AI; I ship it."
+**Hook pattern**: "I'm currently building [Sellogram] — an AI agent that [does X]. Before that, [proof point], [proof point]. I don't theorize about AI; I ship it."
 
 **Proof to lean on**:
-- Current Mira work (real, live, not theoretical)
+- Current Sellogram work
 - Capabilities section AI bullets (LLMs, RAG, DSPy, LangGraph, context engines)
 
-**Note**: This theme's proof depends heavily on what you add to `achievements.md` over time. As you ship more AI work at Mira, this becomes your strongest angle.
+**Note**: This theme's proof depends heavily on what you add to `achievements.md` over time. As you ship more AI work at Sellogram, this becomes your strongest angle.
 
 ---
 
@@ -78,7 +78,7 @@ You're not just an engineering leader — you partner with the CEO on company st
 - Bridge — partner with founders on strategic planning, governance, risk
 - Living Goods — partnered with C-Suite on strategy
 - Radio Africa — advisory to Group CEO and C-level on digital transformation
-- Mira — co-founder, CEO-strategy partner role
+- Sellogram — co-founder and CEO
 
 **CV headline pattern**: "Technology Executive · Strategic Partner to CEO"
 **Hook pattern**: "I sit on executive teams, not engineering silos. At [company] I partnered with the CEO on [specific strategic outcome], not just [engineering metric]."
@@ -86,7 +86,7 @@ You're not just an engineering leader — you partner with the CEO on company st
 **Proof**:
 - Executive Team membership at Peach
 - C-Suite collaboration at Living Goods
-- Founder partnerships at Bridge, Mira
+- Founder partnerships at Bridge and Sellogram
 - C-level advisory at Radio Africa
 
 ---

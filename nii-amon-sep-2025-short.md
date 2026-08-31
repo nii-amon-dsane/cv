@@ -1,9 +1,9 @@
 # Nii Amon Dsane
-**Product Technology Executive | Software Engineering Leader**  
+**AI Product & Technology Executive | CTO / VP Engineering | Product and Organisation Leader**
 📍 Nairobi, Kenya | 🌐 [LinkedIn](https://www.linkedin.com/in/nii-amon-dsane-69737031a/) | ✉ jazzyy@gmail.com
 
 ## Summary  
-Technology executive with 15+ years of multi-national experience in marketplaces, fintech, telco, banking, media, and digital health. Proven success in building and scaling engineering teams, delivering complex platforms, and aligning technology strategy with business goals. Skilled in architecture, integration, and hands-on development.  
+AI product and technology executive with 15+ years in marketplaces, fintech, banking, media and digital health. Co-founder and CEO of Sellogram, an AI product for social-commerce sellers. Experienced in product strategy, organisation design, platform architecture and hands-on delivery.
 
 ## Key Skills  
 - **Leadership:** Tech & product strategy, executive collaboration, organizational design, team building  
@@ -13,13 +13,11 @@ Technology executive with 15+ years of multi-national experience in marketplaces
 
 ## Experience  
 
-### Mira | Nairobi, Kenya  
-#### 🌐 [https://withmira.co](https://withmira.co)
+### Sellogram | Nairobi, Kenya
 **Co-founder & CEO** | Jul 2025 – Present  
-AI team member handling customer experience in DMs for people who sell on Instagram
-- Mira handles comments and DMs, providing great customer experience for product and stock inquiries, orders, payments and deliveries
-- Currently in pre-launch GTM, recruiting design partners for validation
-- Live at https://withmira.co
+AI agent for people who sell on Instagram, Facebook and WhatsApp.
+- Leads product strategy and delivery for an agent that handles customer conversations, product and stock questions, orders, payments and deliveries
+- Uses shop posts and reels to build product context and support social sales teams
 
 ---
 

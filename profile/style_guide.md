@@ -26,7 +26,7 @@ This is the v1 style guide derived from your CV's voice + sensible senior-exec d
    - CV: "Led team of 12" (no "I")
    - Cover letter: "I led a team of 12" (with "I")
 8. **Present tense for current role, past tense for prior.**
-   - Mira (current): "I'm building an AI agent for social commerce sellers."
+   - Sellogram (current): "I'm building an AI agent for social commerce sellers."
    - Peach (prior): "I directed the Technology Group at Peach."
 
 ## Signature patterns confirmed by samples
@@ -98,7 +98,7 @@ The agent must not use these. They smell AI-generated or generic.
 - "Architected music streaming service with microservices + Akka pipeline + serverless."
 
 **Paragraph opener (cover letter)**: `[Acknowledge something specific about the company/role in 1 sentence]. [Connect it to you in 1 sentence]. [Tell them what's coming next.]`
-- Example pattern: "Acme's pivot to AI-native logistics caught my attention. I'm currently shipping an AI agent for social commerce sellers at Mira — the patterns translate. Three outcomes from my last three roles that map to what you're hiring for:"
+- Example pattern: "Acme's pivot to AI-native logistics caught my attention. I'm currently building an AI agent for social commerce sellers at Sellogram — the patterns translate. Three outcomes from my last three roles that map to what you're hiring for:"
 
 **Email opener (cold outreach)**: `[Hi Name,] [1-line pleasantry or context hook]. [Three bullets mapping their must-haves to your outcomes]. [Specific next-step proposal with concrete time/options]. [Many thanks, / Nii Amon]`
 

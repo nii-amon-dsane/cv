@@ -15,54 +15,70 @@ Mark uncertain metrics with `[estimated]`. The agent will flag `[estimated — v
 
 ---
 
-## Empty — populate as you use the agent
+## Achievements
 
-The first time you customize an application and the agent reaches for a metric that isn't here, it will pause and ask you to add it. Over the first 3-5 applications, this fills out and the agent becomes dramatically better.
+### Built an AI agent for social-commerce sellers @ Sellogram | Jul 2025 – present
+- Metric: 3 supported sales channels: Instagram, Facebook and WhatsApp
+- Context: Co-founded and lead product strategy and delivery for an agent that handles customer conversations, product and stock questions, orders, payments and deliveries.
+- Source: `profile/cv.md`; user-confirmed role and company name
+- Verifiable: partially
 
-### Hints for what to add when you have time
+### Added product context from social content @ Sellogram | Jul 2025 – present
+- Metric: 2 source formats: posts and reels
+- Context: Built a product approach that extracts product information and enriches product metadata from seller content to support social sales teams.
+- Source: `profile/cv.md`
+- Verifiable: partially
 
-Think about each role and try to capture:
+### Led Product, Engineering and IT @ Peach Tech | Dec 2023 – Mar 2025
+- Metric: 3 technology functions
+- Context: Served on the executive team and defined technology and product strategy across Product, Engineering and IT.
+- Source: `profile/cv.md`
+- Verifiable: partially
 
-**Mira (current)**
-- # of design partners signed
-- # of conversations handled by the agent
-- % of off-hours contacts captured that would otherwise be lost
-- Time saved per seller per week
+### Delivered the marketplace operating system @ Peach Tech | Dec 2023 – Mar 2025
+- Metric: 4 delivered system areas: web app, vehicle intake and assessment, system of record, and internal process tools
+- Context: Led delivery of a new web app and tools for listings, yard management and other operating processes.
+- Source: `profile/cv.md`
+- Verifiable: partially
 
-**Peach Tech**
-- Inventory turnaround improvement
-- Listings automation rate
-- Vehicle intake assessment speed-up
-- Internal process hours saved per week
+### Reached a 70M-user launch opportunity @ Bridge Technologies | Jul 2022 – Jan 2023
+- Metric: 70M potential MTN subscribers in Nigeria
+- Context: Delivered a partner integration for MTN Group and MFS Africa for network-wide cross-border remittances.
+- Source: `profile/cv.md`
+- Verifiable: partially
 
-**Bridge Technologies**
-- 70M MTN subscribers (already in CV — keep)
-- # of consumer apps shipped, # of APIs shipped, timeline
-- Time-to-launch improvement vs. baseline
-- Team size recruited in what timeframe
+### Reached 80% of a multi-product release in 3 months @ Bridge Technologies | Jul 2022 – Jan 2023
+- Metric: 80% completion; 2 consumer apps, 1 merchant app and an API suite
+- Context: Assessed existing Brij products, identified engineering gaps, recruited a team and led the release effort.
+- Source: `profile/cv.md`
+- Verifiable: partially
 
-**Living Goods**
-- # of countries the team spanned
-- # of community health workers supported (population health scale)
-- # of direct reports / total org size
-- Cycle time reduction after agile/CD introduction
+### Enabled outbound remittances to Nigeria @ Bridge Technologies | Jul 2022 – Jan 2023
+- Metric: 1 banking integration with KCB
+- Context: Delivered the KCB integration that enabled outbound remittances to Nigeria.
+- Source: `profile/cv.md`
+- Verifiable: partially
 
-**Kwara**
-- # of CFIs onboarded during tenure
-- Product enhancements shipped
+### Built a distributed delivery organisation @ Living Goods | Oct 2019 – Apr 2021
+- Metric: 6 disciplines: engineering, data science, QA, design, product and project management
+- Context: Grew a geographically distributed team and defined an agile software delivery lifecycle with continuous delivery and improvement.
+- Source: `profile/cv.md`
+- Verifiable: partially
 
-**Radio Africa**
-- 12-person team (already in CV)
-- Music streaming service: # of tracks, # of users, concurrency handled
-- Payment system transaction volume
+### Led a 12-person digital-product team @ Radio Africa | Jun 2016 – Oct 2018
+- Metric: 12 developers, designers and web administrators
+- Context: Led shared development services for group-wide digital products and advised executive leaders on digital transformation.
+- Source: `profile/cv.md`
+- Verifiable: partially
 
-**Earlier roles (Genkey, CoreNett, Rancard, Consulting)**
-- Scale of the biometric registration (number of voters registered)
-- Transaction volumes on CoreNett payment systems
-- West African Idols vote volume (Rancard)
+### Led a five-person product and engineering team @ Kwara | Oct 2018 – May 2019
+- Metric: 5 developers and designers
+- Context: Set technical objectives, provided architecture and mentoring, and supported product, marketing, sales and people decisions.
+- Source: `profile/cv.md`
+- Verifiable: partially
 
----
-
-## Achievements (add below this line as you recall them)
-
-_(none yet — see hints above)_
+### Delivered three payment-platform product lines @ CoreNett | Mar 2007 – Sep 2010
+- Metric: 3 product lines: card payments and vouchers, cardless ATM, and mobile wallet
+- Context: Owned software architecture and product development for payment, cash access and mobile-money services.
+- Source: `profile/cv.md`
+- Verifiable: partially

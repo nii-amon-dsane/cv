@@ -1,6 +1,6 @@
 # Nii Amon Dsane
 
-**Product Technology Executive | Software Engineering Leader**
+**AI Product & Technology Executive | CTO / VP Engineering | Product and Organisation Leader**
 
 - Location: Nairobi, Kenya
 - Email: jazzyy@gmail.com
@@ -9,9 +9,9 @@
 
 ## Summary
 
-- Technology executive and software engineering leader with multi-national experience working with startups in finTech, telco, banking, media and digital health markets
-- Experienced in creating technology strategy, tactical execution and management, aligning tech orgs with org goals, tracking and measuring team performance, interfacing tech and other org functions such as product and operations
-- Roles include executive, strategic and team leadership, product development, technical design, architecture and writing code
+- AI product and technology executive with multi-national experience across social commerce, fintech, banking, media and digital health
+- Leads product and technology strategy, execution and organisation design with founders, executive teams and operating leaders
+- Brings executive leadership, product development, technical architecture and hands-on engineering experience to new ventures and scale-ups
 
 ## Capabilities
 
@@ -29,15 +29,13 @@ Kotlin, Java, Ruby, TypeScript, Python, Erlang/OTP, Elixir, Spring Boot, node.js
 
 ## Work Experience
 
-### Mira // Nairobi, Kenya
-**Co-founder** | Jul 2025 – present
-https://withmira.co
+### Sellogram // Nairobi, Kenya
+**Co-founder & CEO** | Jul 2025 – present
 
-- Mira is an AI agent for solopreneurs and teams selling on Instagram, Facebook and WhatsApp
-- Mira handles comments and DMs, providing instant responses and always-on customer contact handling for product and stock inquiries and queries, order and payment processing and deliveries
-- Mira frees up busy sellers on social platforms by extracting products from posts and reels, enriching product metadata and expanding sales team capacity and capability
-- Mira works around the clock, taking orders and handling customer contacts during off hours and holidays
-- Currently in pre-launch GTM, recruiting design partners for validation; Oct 2025 go-live
+- Sellogram is an AI agent for solopreneurs and teams selling on Instagram, Facebook and WhatsApp
+- Builds product strategy and delivery for an agent that handles comments and DMs, product and stock questions, orders, payments and deliveries
+- Uses posts and reels to extract product information, enrich product metadata and expand the capacity of social sales teams
+- Provides always-on customer-contact handling during off hours and holidays
 
 ### Peach Tech Ltd // Nairobi, Kenya
 **CTO** | Dec 2023 – Mar 2025
