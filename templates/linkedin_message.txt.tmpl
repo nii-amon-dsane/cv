@@ -5,7 +5,7 @@
 
 ## Output format
 
-Plain text, no markdown. Output BOTH variants (connection note + DM) separated by a clear divider, unless the user specified one type.
+Plain text, no markdown. Output both variants only when useful for the source and requested workflow.
 
 ```
 === CONNECTION NOTE (300 chars max) ===
@@ -17,37 +17,40 @@ Plain text, no markdown. Output BOTH variants (connection note + DM) separated b
 
 ## Length caps
 
-- **Connection note**: 300 characters (LinkedIn hard limit)
-- **InMail**: 500 words (paid; use for high-value targets only)
-- **DM**: 200 words (existing connection)
+- **Connection note**: 300 characters
+- **InMail**: up to 500 words, but prefer much shorter when possible
+- **DM**: up to 200 words
 
-## Shape by type
+## Guidance by type
 
-### Connection note (cold outreach to recruiter or HM)
-- 1 sentence: who you are (headline — tailored to their domain)
-- 1 sentence: why connecting is mutually valuable (specific, not generic)
-- 1 sentence (optional): low-friction CTA
-- MUST fit in 300 chars including spaces
+### Connection note
+- Say why you are connecting in normal language.
+- Mention the role, company or shared context if useful.
+- Do not squeeze a personal-brand headline into the note.
 
 ### InMail
-- Subject line: 5-8 words, specific
-- Body: 150-300 words
-- Structure: hook → 3 bullets on fit → CTA
-- Use real metrics from CV
+- Use a short, specific subject.
+- State why the conversation is relevant.
+- Use one or two concrete facts from Nii's work.
+- End with a clear question or next step.
+- Do not force a hook, three bullets or a pitch formula.
 
-### DM (existing connection)
-- 1 sentence: warm opener referencing prior interaction or shared context
-- 1-2 sentences: the ask (specific role, specific question)
-- 1 sentence: low-friction CTA
+### DM
+- Reference the existing context when there is one.
+- State the ask directly.
+- Keep it short.
 
-## Banned phrases
-- "I hope you're doing well"
-- "I wanted to reach out"
-- "I'd love to connect" (generic)
-- "Synergy", "leverage", "passionate"
+## Rules
+
+- Do not claim the connection is “mutually valuable”.
+- Do not use `I'd love to connect` as a generic filler line.
+- Do not use personal-brand labels such as `AI-native product builder`, `0→1 builder` or `org scaler`.
+- Do not attribute AI/LLM work to Peach Tech or Bridge Technologies.
+- Avoid `I hope you're doing well`, `I wanted to reach out`, `synergy`, `leverage` and `passionate`.
 
 ## Defaults
-- If `meta.json.source` = `recruiter_cold` → lead with connection note
-- If `meta.json.source` = `warm_intro` → DM to the connector, no cold note
-- If `meta.json.source` = `direct_outreach` → connection note + follow-up DM
-- If `meta.json.source` = `portal` → skip LinkedIn message
+
+- `recruiter_cold` → connection note when LinkedIn is the useful channel
+- `warm_intro` → DM to the introduced contact
+- `direct_outreach` → connection note and follow-up DM only when both are useful
+- `portal` → skip unless there is a separate reason to contact someone

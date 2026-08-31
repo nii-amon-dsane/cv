@@ -1,12 +1,12 @@
 # Nii Amon Dsane
 
-**VP / Head of Engineering | CTO | Engineering Organisation Builder**
+**VP / Head of Engineering | CTO | Engineering Leadership**
 
 Nairobi, Kenya | jazzyy@gmail.com | +254 700 689874 | linkedin.com/in/nii-amon-dsane-69737031a
 
 ## Summary
 
-Engineering leader with 15+ years building teams, delivery systems and software platforms across fintech, marketplaces, digital health and media. I have led Product, Engineering and IT at executive level, recruited teams, introduced delivery discipline and shipped complex customer and operations products. I am now the co-founder and CEO of Sellogram, an AI product company.
+Engineering leader with 15+ years building teams, delivery systems and software platforms across fintech, marketplaces, digital health and media. I have led Product, Engineering and IT at executive level, recruited teams and delivered customer and operations products. I am now the co-founder and CEO of Sellogram.
 
 ## Focus
 
@@ -17,14 +17,14 @@ Engineering strategy • Organisation design • Hiring and leadership developme
 ### Sellogram | Nairobi, Kenya
 **Co-founder & CEO** | Jul 2025 – Present
 
-- Lead the company, product strategy and technical delivery of an AI agent for social-commerce sellers.
+- Lead the company, product strategy and technical delivery for a work agent used by social-commerce sellers.
 - Build systems that use seller content to answer customer questions and support orders, payments and deliveries.
 
 ### Peach Tech Ltd | Nairobi, Kenya
 **Chief Technology Officer** | Dec 2023 – Mar 2025
 
 - Led Product, Engineering and IT within the Technology Group and set technology and product strategy with the executive team.
-- Led teams delivering a web app, vehicle intake and assessment tooling, and internal operating systems.
+- Led research and product design for a broader marketplace operating system and delivery of a web app, vehicle intake, assessment and yard-management tools.
 
 ### Bridge Technologies Limited | Nairobi, Kenya
 **CTO & VP of Engineering** | Jul 2022 – Jan 2023
@@ -43,7 +43,7 @@ Engineering strategy • Organisation design • Hiring and leadership developme
 **Group Head of Development** | Jun 2016 – Oct 2018
 
 - Led a shared-services team of 12 developers, designers and web administrators.
-- Directed digital product development and advised the Group CEO and executive leaders on digital transformation.
+- Directed digital product development and advised the Group CEO and executive leaders during the transition to a digital-first media business.
 
 ### Earlier leadership experience
 

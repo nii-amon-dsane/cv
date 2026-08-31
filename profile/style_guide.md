@@ -1,157 +1,158 @@
 # Style Guide — Nii's Voice
 
-This guide shapes how the agent writes on your behalf. The agent reads this before generating any artifact.
-
-This is the v1 style guide derived from your CV's voice + sensible senior-exec defaults. It will be refined as you provide writing samples and as you flag things that "don't sound like you" in generated artifacts.
+This guide shapes how the agent writes on Nii's behalf. The writing samples in `profile/voice_samples/` are the primary reference. They outrank generic career-writing conventions.
 
 ## Voice principles
 
-1. **Short sentences.** Average 12-18 words. Break long ones.
-2. **Outcome first.** Lead with what happened, not what you did.
-   - ✅ "Delivered cross-border remittance product serving 70M MTN subscribers."
-   - ❌ "Was responsible for the delivery of a cross-border remittance product that served 70M MTN subscribers."
-3. **Active voice.** No passive constructions.
-   - ✅ "Led team of 12."
-   - ❌ "Team of 12 was led by me."
-4. **Concrete over abstract.** Numbers, names, scales.
-   - ✅ "Reached 80% completion in 3 months."
-   - ❌ "Made significant progress in a short timeframe."
-5. **Industry precision.** Use the right technical terms — they signal competence.
-   - ✅ "Microservices orchestrated via AMQP message queues."
-   - ❌ "Service-based architecture using messaging."
-6. **No filler.** Cut adjectives and adverbs that don't carry weight.
-   - ✅ "Built payment system."
-   - ❌ "Successfully built a robust, scalable payment system."
-7. **First person in cover letters/emails, implied in CV.**
-   - CV: "Led team of 12" (no "I")
-   - Cover letter: "I led a team of 12" (with "I")
-8. **Present tense for current role, past tense for prior.**
-   - Sellogram (current): "I'm building an AI agent for social commerce sellers."
-   - Peach (prior): "I directed the Technology Group at Peach."
+1. **Be direct and literal.** Say what happened, what the product does or what is being asked.
+2. **Prefer facts to labels.** Use names, numbers, products, systems, users and outcomes instead of claims about being a type of leader or builder.
+3. **Use normal language.** Avoid startup shorthand, career-brand slogans and polished phrases that Nii would not normally say.
+4. **Keep sentences economical.** Short sentences are useful, but do not force a fixed word count or rhythm.
+5. **Use active voice when it is natural.** Do not rewrite a clear sentence only to satisfy a formula.
+6. **Use technical terms when they add information.** LLM, RAG, RabbitMQ, Rails and similar terms are useful when they describe real work.
+7. **Do not oversell.** If the evidence shows design, say design. If it shows partial delivery, say partial delivery. Do not turn it into launch or completion.
+8. **Current role in present tense; prior roles in past tense.**
 
-## Signature patterns confirmed by samples
+## AI and LLM language
 
-These patterns appear in Nii's actual writing (3 email samples). Reproduce them.
+Use `AI`, `LLM`, `agent`, `generative` or related terms only when they describe a specific product behaviour, technical decision or skill.
 
-**Greeting**: `Hi [First name],` — first name, casual comma. Never "Dear" in email. Never "Dear Hiring Manager" if name is known; if name unknown, "Hi [Team] [Company]," or "Hi hiring team at [Company],".
+Current sourced AI/LLM work is at Sellogram. There was no AI/LLM work at Peach Tech or Bridge Technologies. Never use those roles as evidence of AI experience.
 
-**Opening pleasantry** (1 short sentence max, then straight to point):
-- ✅ "Thanks for getting in touch."
-- ✅ "Apologies for the delayed response."
-- ✅ "Thanks for taking the time to chat."
-- ✅ "I'm great thanks! Hope you're doing good too."
-- ❌ "I hope this email finds you well."
-- ❌ "I am writing to apply for..."
+Do not use AI as a personal-brand label. Avoid phrases such as:
+- AI-native product builder
+- AI product executive
+- AI leader
+- AI-first leader
+- AI-as-product
+- I don't theorize about AI; I ship it
 
-**Acknowledging the other side before delivering hard messages**: when declining or pushing back, acknowledge effort first, then deliver the position directly. No hedging.
-- ✅ "Thanks for sharing the proposal. I appreciate the effort you've put into this. Unfortunately, this is not acceptable to me."
+For Sellogram, prefer the concrete product description first: a work agent for people who sell on social platforms. Add LLM terminology only when the context calls for technical detail.
 
-**Specific proposals over vague availability**: when proposing next steps, give concrete options not "let me know what works".
-- ✅ "I have some time next week Monday between 1300-1500 EAT. Does that window work for you?"
-- ❌ "Let me know what time works for you."
+## Career-brand language to avoid
 
-**Direct position-taking**: state the position plainly without softening.
-- ✅ "this is not acceptable to me"
-- ✅ "I would love to chat some more about this"
-- ❌ "I was hoping we might perhaps consider..."
-- ❌ "I respectfully disagree"  (just say what you actually think)
+Do not turn career history into archetypes or slogans. Avoid these unless quoting a job description:
 
-**Sign-off** (consistent across all 3 samples): `Many thanks,\nNii Amon`
-- ✅ "Many thanks, / Nii Amon"
-- ❌ "Best, / Nii"
-- ❌ "Sincerely, / Nii Amon Dsane"
-- ❌ "Regards, / Nii"
-- ❌ "Warmly, / Nii Amon"
-
-Use `Many thanks, / Nii Amon` as default sign-off in all emails and LinkedIn messages unless context demands otherwise (ultra-formal letter → "Sincerely, / Nii Amon Dsane").
+| Avoid | Use instead |
+|---|---|
+| 0→1 builder | describe the product started or delivered |
+| org scaler | describe the team or organisation led |
+| strategic partner to CEO | describe the executive work and decisions |
+| high-performing teams | give team size, disciplines or delivery facts |
+| product systems | name the product, platform or operating tools |
+| digital transformation | describe the actual change, such as a shift to digital-first media |
+| business leverage | state the business result or decision |
+| founder-mode | describe the responsibilities |
+| greenfield visionary | describe what was built from scratch |
 
 ## Banned words and phrases
 
-The agent must not use these. They smell AI-generated or generic.
+The agent must not use these in generated artifacts unless they are part of a proper noun or direct quote.
 
 | Banned | Reason |
-|--------|--------|
-| "passionate" | cliché, AI-smelling |
-| "results-driven" | cliché, empty |
-| "proven track record" | show, don't claim |
-| "synergy" / "synergies" | empty corporate-speak |
-| "leverage" (verb) | overused |
-| "thrive" / "thriving" | cliché |
-| "I am writing to apply for" | overused cover letter opener |
-| "I hope this email finds you well" | spam-smelling |
-| "please find attached my resume" | obvious, replace with substance |
-| "delve into" | AI-smelling |
-| "in today's fast-paced world" | filler |
-| "unlock" (figurative) | overused |
-| "seamlessly" | overused |
-| "robust" | empty |
-| "scalable" (without proof) | claim without evidence — instead, show the scale |
-| "world-class" | unsubstantiated |
-| "cutting-edge" | cliché |
-| "best-in-class" | cliché |
+|---|---|
+| passionate | cliché |
+| results-driven | empty claim |
+| proven track record | show the evidence |
+| synergy / synergies | empty corporate language |
+| leverage (verb) | overused |
+| thrive / thriving | cliché |
+| I am writing to apply for | generic opener |
+| I hope this email finds you well | generic opener |
+| please find attached my resume | obvious |
+| delve into | AI-smelling |
+| in today's fast-paced world | filler |
+| unlock (figurative) | overused |
+| seamlessly | overused |
+| robust | usually empty |
+| scalable without evidence | unsupported claim |
+| world-class | unsupported |
+| cutting-edge | cliché |
+| best-in-class | cliché |
+| AI-native | usually a label rather than information |
+| game-changing | empty claim |
+| transformative | usually vague |
 
-## Sentence structure patterns (use these)
+## Email patterns confirmed by samples
 
-**Bullet pattern (CV)**: `[Strong verb] [specific thing] [metric or scope] [optional context].`
-- "Delivered cross-border remittance product for MTN Group, reaching 70M subscribers in Nigeria."
-- "Led team of 12 across development and digital transformation at Radio Africa."
-- "Architected music streaming service with microservices + Akka pipeline + serverless."
+**Greeting:** `Hi [First name],`
 
-**Paragraph opener (cover letter)**: `[Acknowledge something specific about the company/role in 1 sentence]. [Connect it to you in 1 sentence]. [Tell them what's coming next.]`
-- Example pattern: "Acme's pivot to AI-native logistics caught my attention. I'm currently building an AI agent for social commerce sellers at Sellogram — the patterns translate. Three outcomes from my last three roles that map to what you're hiring for:"
+Use a short acknowledgement when one is natural:
+- `Thanks for getting in touch.`
+- `Apologies for the delayed response.`
+- `Thanks for taking the time to chat.`
 
-**Email opener (cold outreach)**: `[Hi Name,] [1-line pleasantry or context hook]. [Three bullets mapping their must-haves to your outcomes]. [Specific next-step proposal with concrete time/options]. [Many thanks, / Nii Amon]`
+Do not add a pleasantry merely because an email template expects one.
 
-**Email opener (warm reply)**: `[Hi Name,] [Acknowledge their message in 1 short sentence]. [Your position or response — direct, no hedging]. [Specific next-step proposal]. [Many thanks, / Nii Amon]`
+**Direct position-taking:** state the position without padding.
+- `this is not acceptable to me`
+- `I would love to chat some more about this`
 
-**LinkedIn connection note**: `[Hi Name,] [Who you are in 6 words]. [Why connecting is mutually valuable in 1 sentence]. [Optional concrete CTA]. [Many thanks, / Nii Amon]` — must fit 300 chars total.
+**Specific next steps:** prefer a concrete proposal when possible.
+- `I have some time next week Monday between 1300 - 1500 EAT. Does that window work for you?`
 
-## Tone by context
+**Default sign-off:**
 
-| Context | Tone |
-|---------|------|
-| CV | Confident, factual, terse |
-| Cover letter | Confident, warm but not effusive, specific |
-| Cold email | Direct, respectful of time, no fluff |
-| Warm intro follow-up | Brief, gracious to connector, low-friction |
-| LinkedIn message | Brief, personalized, conversational |
-| Interview prep | Internal thinking, can be candid |
+`Many thanks,`
+`Nii Amon`
 
-## Capitalization, punctuation, formatting
+Do not force recruiter or outreach emails into three bullets or a fixed pitch structure. Write the shortest normal email that does the job.
 
-- Sentence case for headings (not Title Case For Every Word)
-- One space after periods
-- Em-dashes (—) with no spaces around them, or en-dashes with spaces — pick one, be consistent. Use em-dashes without spaces (matches CV).
-- Bullets in CV use `-` (hyphen)
-- No Oxford comma unless needed for clarity
-- Numbers under 10 spelled out in prose ("three months", "five developers"), numerals in CV bullets ("3 months", "5 developers")
+## CV and cover-letter writing
 
-## What "doesn't sound like you"
+### CV
 
-You'll catch this in the review loop. Common patterns to flag and request revision:
-- "It sounds like ChatGPT" → too many em-dashes, too many "leverages", too many compound sentences
-- "Too formal" → likely using "utilize" / "facilitate" / "endeavor"
-- "Too casual" → likely using contractions in cover letter (cover letters should not use "don't" / "can't" / "won't")
-- "Too generic" → no specific company name, no specific metric, no specific role from your past
+- Factual and terse.
+- Use normal role titles rather than branded headlines.
+- Prioritise relevant evidence, but do not make the CV mimic the JD.
+- Rewrite for clarity and relevance, not for drama.
+- Do not force every bullet into an accomplishment formula.
+- Use metrics when they are real and useful.
+
+### Cover letter
+
+- Write as a short letter from a person, not as a sales page.
+- Start with the reason the role is relevant when there is a real reason to state.
+- Use a small number of specific facts from the career history.
+- Do not force `hook → proof → gap → close` or other canned structures.
+- Address a gap only when it materially matters.
+- Contractions are fine when they sound natural.
+
+### LinkedIn and recruiter outreach
+
+- Brief and conversational.
+- Do not introduce Nii with a slogan or six-word personal brand.
+- State the role or context, one or two relevant facts, and a concrete next step when useful.
+- Do not claim a connection is “mutually valuable”.
+
+## Punctuation and formatting
+
+- Sentence case for headings.
+- Use ordinary punctuation.
+- Use em dashes sparingly; do not make them a signature style.
+- Bullets in CV use `-`.
+- Keep formatting simple.
+
+## What does not sound like Nii
+
+Common failure modes:
+- language that sounds like a LinkedIn personal-brand post
+- generic executive labels instead of facts
+- AI terminology added where it does not explain anything
+- polished three-part slogans
+- excessive em dashes
+- forced accomplishment formulas
+- adjectives that are not supported by evidence
+- claims that expand design or partial delivery into completion
 
 ## Refining this guide
 
-This guide is a living document. As you flag generated artifacts that "don't sound like you", the agent should:
-1. Identify the pattern that missed
-2. Add a rule here that prevents it next time
-3. Update this file
+When Nii flags generated text as not sounding like him:
+1. Identify the concrete pattern that caused the problem.
+2. Compare it with the actual writing samples.
+3. Add or amend a rule here only when the pattern is likely to recur.
+4. Prefer the writing samples over prior generated copy.
 
-Over the first 10 applications, this guide becomes tightly calibrated to your voice.
+## Reference samples
 
----
-
-## Samples needed
-
-To calibrate further, the agent needs 3-5 writing samples from you. Best sources:
-- Past cover letters
-- LinkedIn posts (yours, not recirculated)
-- Blog posts (yours)
-- Emails you've sent (to colleagues, recruiters, founders)
-- Even a thoughtful Slack message capturing how you write informally
-
-Place samples in `profile/voice_samples/` as markdown files (`sample_01_cover_letter.md`, etc.).
+Use the material in `profile/voice_samples/`, including emails and longer product/strategy writing. Longer samples are useful because they show how Nii explains ideas without reducing them to career-brand language.

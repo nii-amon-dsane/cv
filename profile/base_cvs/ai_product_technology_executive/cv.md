@@ -1,31 +1,32 @@
 # Nii Amon Dsane
 
-**AI Product & Technology Executive | CTO / VP Engineering**
+**Product & Technology Executive | CTO / VP Engineering**
 
 Nairobi, Kenya | jazzyy@gmail.com | +254 700 689874 | linkedin.com/in/nii-amon-dsane-69737031a
 
 ## Summary
 
-Technology executive with 15+ years building products, platforms and teams across social commerce, fintech, marketplaces, digital health and media. Co-founder and CEO of Sellogram, an AI agent for social-commerce sellers. I lead AI product strategy, 0→1 delivery, product development and engineering organisations.
+Technology executive with 15+ years building products, platforms and teams across social commerce, fintech, marketplaces, digital health and media. Co-founder and CEO of Sellogram, where I lead product strategy and delivery for a work agent used by social-commerce sellers. My current product work includes LLM-based customer conversations, context retrieval and agent workflows.
 
 ## Focus
 
-AI product strategy • Agent and LLM product delivery • Product roadmaps • 0→1 execution • Engineering leadership • Multi-partner integrations • Payments and marketplaces
+LLM product development • Product strategy • Product roadmaps • New product delivery • Engineering leadership • Multi-partner integrations • Payments and marketplaces
 
 ## Experience
 
 ### Sellogram | Nairobi, Kenya
 **Co-founder & CEO** | Jul 2025 – Present
 
-- Lead product strategy and delivery for an AI agent that supports sellers on Instagram, Facebook and WhatsApp.
-- Built the product approach for customer conversations, product and stock questions, orders, payments and deliveries.
+- Lead product strategy and delivery for a work agent that supports sellers on Instagram, Facebook and WhatsApp.
+- Build customer-conversation workflows for product and stock questions, orders, payments and deliveries.
 - Use posts and reels to extract product information and build product context for social sales teams.
 
 ### Peach Tech Ltd | Nairobi, Kenya
 **Chief Technology Officer** | Dec 2023 – Mar 2025
 
 - Led Product, Engineering and IT as an executive-team member for a managed used-car marketplace.
-- Led delivery of a new web app, vehicle intake and assessment tools, and a unified system of record for listings and yard management.
+- Led functional, user and ethnographic research and product design for a broader marketplace operating system.
+- Led delivery of a new web app and vehicle intake, assessment and yard-management tools.
 
 ### Bridge Technologies Limited | Nairobi, Kenya
 **CTO & VP of Engineering** | Jul 2022 – Jan 2023
@@ -37,7 +38,7 @@ AI product strategy • Agent and LLM product delivery • Product roadmaps • 
 ### Living Goods | Nairobi, Kenya
 **Director, Software Engineering** | Oct 2019 – Apr 2021
 
-- Executed technology strategy for direct operations and technical-assistance programmes in digital health.
+- Led technology strategy execution for direct operations and technical-assistance programmes in digital health.
 - Grew a distributed team across engineering, data science, QA, design, product and project management.
 
 ### Earlier leadership experience

@@ -17,7 +17,7 @@ Mark uncertain metrics with `[estimated]`. The agent will flag `[estimated — v
 
 ## Achievements
 
-### Built an AI agent for social-commerce sellers @ Sellogram | Jul 2025 – present
+### Built a work agent for social-commerce sellers @ Sellogram | Jul 2025 – present
 - Metric: 3 supported sales channels: Instagram, Facebook and WhatsApp
 - Context: Co-founded and lead product strategy and delivery for an agent that handles customer conversations, product and stock questions, orders, payments and deliveries.
 - Source: `profile/cv.md`; user-confirmed role and company name
@@ -35,10 +35,10 @@ Mark uncertain metrics with `[estimated]`. The agent will flag `[estimated — v
 - Source: `profile/cv.md`
 - Verifiable: partially
 
-### Delivered the marketplace operating system @ Peach Tech | Dec 2023 – Mar 2025
-- Metric: 4 delivered system areas: web app, vehicle intake and assessment, system of record, and internal process tools
-- Context: Led delivery of a new web app and tools for listings, yard management and other operating processes.
-- Source: `profile/cv.md`
+### Designed the marketplace operating system and delivered its first components @ Peach Tech | Dec 2023 – Mar 2025
+- Metric: 4 delivered areas: web app, vehicle intake, assessment and yard management
+- Context: Led functional, user and ethnographic research and product design for the broader marketplace operating system. The unified system of record was not completed before departure.
+- Source: `profile/linkedin.md`; user-confirmed correction
 - Verifiable: partially
 
 ### Reached a 70M-user launch opportunity @ Bridge Technologies | Jul 2022 – Jan 2023
@@ -67,7 +67,7 @@ Mark uncertain metrics with `[estimated]`. The agent will flag `[estimated — v
 
 ### Led a 12-person digital-product team @ Radio Africa | Jun 2016 – Oct 2018
 - Metric: 12 developers, designers and web administrators
-- Context: Led shared development services for group-wide digital products and advised executive leaders on digital transformation.
+- Context: Led shared development services for group-wide digital products and advised executive leaders during the transition to a digital-first media business.
 - Source: `profile/cv.md`
 - Verifiable: partially
 

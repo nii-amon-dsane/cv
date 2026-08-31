@@ -31,13 +31,17 @@ If the user mentions a company they've applied to or are considering, check `/Us
 
 ## Hard rules — NEVER violate
 
-These are non-negotiable. Violating them destroys trust.
+These are non-negotiable.
 
-1. **Never invent skills, job titles, dates, companies, degrees, or languages.** Use only what is in `profile/cv.md` or `profile/achievements.md`.
-2. **Never invent metrics.** Reuse numbers from the CV/achievements library only. If a metric seems plausible but isn't sourced, mark it `[estimated — verify]` so the user can confirm or remove.
-3. **ATS keyword weaving is per-application** (`meta.json: ats_optimize`). When enabled, weave JD keywords into bullets using only **truth** — never claim a skill the user doesn't have.
-4. **Voice**: keep the user's voice. Do not mimic the target company's voice. See `profile/style_guide.md`.
+1. **Never invent skills, job titles, dates, companies, degrees, languages, responsibilities or outcomes.** Use only what is in `profile/cv.md`, `profile/achievements.md` or material the user has explicitly supplied.
+2. **Never invent metrics.** Reuse numbers from the CV/achievements library only. If a metric is not sourced, do not use it as fact.
+3. **ATS keyword use is per-application** (`meta.json: ats_optimize`). When enabled, use JD terminology only when it truthfully and naturally describes the user's work.
+4. **Voice**: keep the user's voice. Do not mimic the target company's voice. See `profile/style_guide.md` and `profile/voice_samples/`.
 5. **Comp floor**: never mention, echo, or imply the comp floor from `profile/preferences.yaml` in any generated artifact.
+6. **Do not invent AI experience.** Current sourced AI/LLM work is at Sellogram. There was no AI/LLM work at Peach Tech or Bridge Technologies.
+7. **Peach factual constraint**: the unified system of record was not delivered. Use the research, product-design and delivered-tool evidence in the source profile instead.
+8. **Do not invent a personal brand.** Never turn career history into slogans or archetypes such as `AI-native product builder`, `0→1 builder`, `org scaler` or `strategic partner to CEO`.
+9. **Do not inflate the evidence.** Design is not delivery. Partial delivery is not completion. Responsibility is not automatically an outcome.
 
 ## Workflow per application
 
@@ -56,8 +60,8 @@ Follow these steps in order. Do not skip steps. Pause for user input where indic
 
 **Read everything in the folder:**
 - `jd.*` (txt/md/pdf/docx/html) — the job description. For PDF/DOCX, extract text via `pdftotext` or similar. If multiple JD-like files exist, prefer `jd.txt` → `jd.md` → others.
-- `notes.md` or `notes.txt` — user's structured notes (see format below). Optional.
-- Any other files (screenshots, email forwards as `.eml`, company research, etc.) — note them; for v1 don't OCR images, ask the user in chat if image-only context matters.
+- `notes.md` or `notes.txt` — user's structured notes. Optional.
+- Any other files — note them and use them only when they provide relevant application context.
 
 **Notes file format** (when present):
 ```markdown
@@ -66,174 +70,149 @@ Follow these steps in order. Do not skip steps. Pause for user input where indic
 source: portal | recruiter_cold | warm_intro | referral | direct_outreach
 recruiter_name: (optional)
 recruiter_linkedin: (optional)
-ats_optimize: true | false   # default: true for portal, false otherwise
+ats_optimize: true | false
 
 ## Context
-(free-text — anything you know about the company, the role, the hiring process, the team, etc.)
+(free-text)
 ```
 
 **Infer and fill gaps:**
 - Parse folder name for default company + role if notes file is missing.
 - Read all files for any other hints about source / recruiter.
-- If anything required is still missing (source is the most common gap), **ask the user in chat** before proceeding.
+- If anything required is still missing and cannot be inferred safely, ask the user before proceeding.
 
-**Create `meta.json`** in the folder if it doesn't exist, using inferred + parsed fields. Schema matches the original spec (see DESIGN.md).
+**Create `meta.json`** in the folder if it doesn't exist, using inferred + parsed fields. Schema matches `DESIGN.md`.
 
-**Normalize JD to text:** write `jd.txt` from whatever source format you read (so downstream steps always have a canonical text JD). Keep the original file alongside (e.g., `jd.pdf` stays, you also write `jd.txt`).
+**Normalize JD to text:** write `jd.txt` from whatever source format you read. Keep the original file alongside it.
 
 ### Step 2 — Company research
 
-Research the company online before running match analysis. The research feeds Step 3 (match analysis reads `company_research.md`) and Step 5 (cover letter + interview prep draw on it).
+Research the company online before running match analysis. The research feeds Step 3 and Step 5.
 
 **Depth dial** (user can override; default is `standard`):
-- `quick` (~30s, 1-2 fetches): company website + 1 news lookup. Snapshot only.
-- `standard` (~1-2 min, 4-6 fetches): website + careers + about + recent news + funding + key people. Full picture.
-- `deep` (~3-5 min, 8+ fetches): all of standard + engineering blog + GitHub + Glassdoor + competitor analysis.
+- `quick`: company website + one recent-news check
+- `standard`: website + careers + about + recent news + funding + key people
+- `deep`: standard + engineering signals + competitors + additional culture/company evidence
 
 **Skip rules:**
-- If `company_research.md` already exists in the folder and is < 30 days old, skip research and reuse it. (User can force-refresh with "research <company> again".)
-- If the company has no meaningful web presence (rare for venture-backed roles), note that and proceed with JD-only signal.
+- If `company_research.md` already exists and is < 30 days old, reuse it unless the user asks for a refresh.
+- If the company has little public information, note that and proceed with the available evidence.
 
-**Fetch strategy** — use `ctx_fetch_and_index` for content-heavy pages, `webfetch` for one-off lookups:
-1. Company website homepage + `/about` + `/careers` + `/blog` (if exists)
-2. Latest funding info: try `crunchbase.com/organization/<slug>` (public page) or recent TechCrunch / Sifted / Techpoint Africa articles
-3. Recent news (last 12 months): Google News RSS at `https://news.google.com/rss/search?q=<company>+<sector>&hl=en`
-4. LinkedIn company page (public view): `linkedin.com/company/<slug>`
-5. Engineering signals: search for `<company> engineering blog`, check GitHub orgs
-6. Culture signals: Glassdoor overview (`glassdoor.com/Overview/Working-at-<company>-...)`)
+**Research rules:**
+- Mark uncertain claims as `[unverified]`.
+- Never invent funding amounts, valuations or employee counts.
+- Distinguish company claims from third-party reports.
+- Prefer primary sources for recent company facts.
 
-For African tech companies, also try: TechCabal, Techpoint Africa, WeeTracker, MagAsh, Norrsken22 portfolio pages, Africa-focused VC portfolios.
-
-If the user provided a company URL in `notes.md`, start there. Otherwise ask once: "what's the company website?" before researching.
-
-**Write `company_research.md`** in the application folder using `/Users/niiamon/work/cv/templates/company_research.md.tmpl`. Include all 9 sections (snapshot, stage & funding, recent news, tech stack signals, market position, people, culture signals, why-this-role-open inferred, sources). Cite URLs in each section so the user can verify.
-
-**Hard rules for research:**
-- Mark anything uncertain as `[unverified]` rather than stating it as fact
-- Never invent funding amounts, valuations, or employee counts — if not found, say "not publicly disclosed"
-- Distinguish "company states X" from "third-party reports X"
-- Recent news section: prefer primary sources (company blog, official announcements) over secondary commentary
+Write `company_research.md` using `/Users/niiamon/work/cv/templates/company_research.md.tmpl`.
 
 ### Step 3 — Read profile and run match analysis
 
 Read in this order:
-1. `/Users/niiamon/work/cv/profile/cv.md` — full career history
-2. `/Users/niiamon/work/cv/profile/preferences.yaml` — must-haves, red lines, target criteria
-3. `/Users/niiamon/work/cv/profile/achievements.md` — quantified wins (may be thin early on)
-4. `/Users/niiamon/work/cv/profile/narrative_themes.md` — story arcs to lean on
-5. `/Users/niiamon/work/cv/profile/style_guide.md` — voice rules
-6. The application folder's `jd.txt` — the job description
-7. The application folder's `company_research.md` — output of Step 2 (company research). **Skip if missing — research is required before match analysis.**
+1. `/Users/niiamon/work/cv/profile/cv.md`
+2. `/Users/niiamon/work/cv/profile/preferences.yaml`
+3. `/Users/niiamon/work/cv/profile/achievements.md`
+4. `/Users/niiamon/work/cv/profile/narrative_themes.md`
+5. `/Users/niiamon/work/cv/profile/style_guide.md`
+6. Relevant files in `/Users/niiamon/work/cv/profile/voice_samples/` when producing user-facing writing
+7. The application folder's `jd.txt`
+8. The application folder's `company_research.md`
 
-Then write `match_analysis.md` in the application folder using the template at `/Users/niiamon/work/cv/templates/match_analysis.md.tmpl`. The report has 5 sections:
+Then write `match_analysis.md` using the template.
 
-1. **Fit score** (0-100) with breakdown:
-   - must_haves_met, must_haves_missed (counts)
-   - nice_to_haves_met (count)
-   - seniority_match: `below` / `lateral` / `exact` / `above`
-   - domain_match: `weak` / `moderate` / `strong` / `exact`
-   - stage_match: `weak` / `moderate` / `strong` / `exact`
-2. **Gap list** — for each gap (a JD requirement the user can't fully satisfy), provide a framing strategy: `de_emphasize` / `lean_on_adjacent` / `address_in_cover_letter` / `reframe_strength_as_proxy`. One sentence per gap.
-3. **Recommended angle** — 2-3 strengths to lead with, the narrative theme that best fits, which past roles to feature prominently vs. compress.
-4. **Risk flags** — e.g., short stints, missing big-co name, geographically distant. Mitigation per flag.
-5. **Application strategy** — based on `source`: which artifacts to prioritize, suggested tone, length caps to apply.
+The report has five sections:
+
+1. **Fit score** with must-haves, nice-to-haves, seniority, domain and stage.
+2. **Gap list** with a factual handling strategy for each meaningful gap.
+3. **Recommended angle** — the relevant career angle, evidence to lead with and roles to feature or compress.
+4. **Risk flags** — only concrete issues that could matter to the application.
+5. **Application strategy** — which artifacts matter for the source and how much tailoring is useful.
+
+Do not create a personal-brand label as part of the recommended angle.
 
 ### Step 4 — Confirm the angle with the user
 
-Present a concise summary of the match analysis (fit score, top 2 gaps + framings, recommended angle, application strategy). Ask the user:
-- Confirm the recommended angle, OR
-- Override (e.g., "lead with the MTN cross-border work instead", "de-emphasize Peach")
+Present a concise summary of the match analysis and ask the user to confirm or override the evidence and emphasis.
 
-Update `meta.json`:
-- `fit_score`, `fit_breakdown`, `gaps`, `angle_confirmed: true` once confirmed
+Update `meta.json` with the confirmed angle and fit data.
 
-### Step 5 — Generate all artifacts in batch
+### Step 5 — Generate artifacts
 
 Write these files using the templates in `templates/`:
 
-- `cv.md` — tailored CV (moderate rewrite per the customization rules below). Length cap: 2 pages.
-- `cover_letter.md` — cover letter. Length cap: 1 page.
-- `recruiter_email.txt` — plain text email with subject line. Length cap depends on source.
-- `linkedin_message.txt` — plain text LinkedIn message. Length cap depends on type.
-- `interview_prep.md` — prep doc: likely questions, suggested answers drawn from CV, questions to ask them.
+- `cv.md` — tailored CV, maximum 2 pages
+- `cover_letter.md` — cover letter, maximum 1 page
+- `recruiter_email.txt` — plain text email when useful for the source
+- `linkedin_message.txt` — LinkedIn message when useful for the source
+- `interview_prep.md` — likely questions, evidence from the CV and questions to ask
 
 Then render PDFs:
 ```bash
 bash /Users/niiamon/work/cv/scripts/render_pdfs.sh <application_dir>
 ```
-This produces `cv.pdf` and `cover_letter.pdf` from the `.md` sources via pandoc + typst.
 
 ### Step 6 — Review loop
 
-The user describes revisions in natural language. For each revision:
-1. Edit the relevant `.md` or `.txt` file in place
-2. Re-render affected PDFs (`render_pdfs.sh <application_dir>`)
-3. Show the user a diff (use `git diff` if the repo is git-tracked, or just describe what changed)
-4. Wait for next instruction
+For each revision:
+1. Edit the relevant source file.
+2. Re-render affected PDFs.
+3. Show the user the meaningful diff.
+4. Continue until the user says the application is done or submitted.
 
-Common revision patterns:
-- "tighten the cover letter" → reduce wordiness, hit length cap
-- "lead harder with <experience>" → restructure to feature that first
-- "more confident tone" → adjust voice per style guide
-- "regenerate the email from scratch" → full regen, discard previous
-
-When the user says "done" / "submitted" / "sent", move to Step 6.
+When revising language, use `profile/style_guide.md` and the actual writing samples rather than generic career-writing formulas.
 
 ### Step 7 — Log to tracker
 
-Update `meta.json`:
-- `status`: `submitted` (or `preparing` if not yet sent)
-- `key_dates.submitted`: today's date (if submitted)
-- `key_dates.next_follow_up`: today + 7 days (suggested)
-
-Then regenerate the tracker:
+Update `meta.json` with status and relevant dates, then regenerate the tracker:
 ```bash
 python3 /Users/niiamon/work/cv/scripts/regenerate_tracker.py
 ```
-Confirm to the user what was logged.
 
-## Status updates (any time)
+## Status updates
 
-When the user says "update <company>: <status>" or "moved to onsite at <company>":
+Use:
 ```bash
 python3 /Users/niiamon/work/cv/scripts/update_status.py <application_dir_or_company> <new_status> [--note "..."]
 ```
-Status values: `preparing` / `submitted` / `recruiter_screen` / `hiring_manager` / `onsite` / `offer` / `rejected` / `withdrawn`.
 
-Tracker is auto-regenerated.
+Status values: `preparing` / `submitted` / `recruiter_screen` / `hiring_manager` / `onsite` / `offer` / `rejected` / `withdrawn`.
 
 ## Tracker queries
 
 When the user asks "what's active" / "show tracker" / "what should I follow up on":
-- Read `/Users/niiamon/work/cv/tracker.md` and present a concise summary
-- For "what should I follow up on" specifically, filter by `key_dates.next_follow_up <= today` and `status in [submitted, recruiter_screen, hiring_manager]`
+- Read `/Users/niiamon/work/cv/tracker.md` and present a concise summary.
+- For follow-ups, use the tracked next-follow-up date and current status.
 
-## Customization rules — moderate aggressiveness
+## Customization rules — moderate
 
 The base CV in `profile/cv.md` is the source of truth. When tailoring per application, you may:
 
-- **Reorder** bullets and sections to match the JD's priorities
-- **Rewrite** bullets for impact (tighter phrasing, stronger verbs, clearer outcomes)
-- **Swap synonyms** for JD keywords (e.g., "engineering team" → "engineering org" if JD uses "org")
-- **Drop** bullets that are irrelevant to this JD
-- **Compress** less-relevant roles into fewer lines
-- **Restructure** the capabilities/summary sections to mirror the JD's must-haves
+- reorder bullets and sections when it improves relevance
+- rewrite for clarity, concision and relevance
+- use JD terminology when it is accurate and natural
+- drop irrelevant bullets
+- compress less-relevant roles
+- reorder supported capabilities
 
 You may NOT:
-- Add new skills, roles, or achievements not in the source
-- Invent metrics
-- Change dates or company names
-- Claim experience in domains the user hasn't worked in
+- add new skills, roles or achievements
+- invent metrics
+- change dates or company names
+- claim experience in domains the user has not worked in
+- create AI/LLM experience outside Sellogram from the current source profile
+- claim Peach delivered the unified system of record
+- create a branded identity or slogan for Nii
+- turn a gap into a claimed strength by wording alone
 
-## Length caps (defaults unless JD specifies otherwise)
+## Length caps
 
 | Artifact | Cap |
 |----------|-----|
 | CV | 2 pages |
 | Cover letter | 1 page |
 | Recruiter cold email | 150 words |
-| Warm intro follow-up | 75 words |
-| Referral thank-you | 100 words |
+| Warm intro follow-up | 100 words |
+| Referral thank-you | 120 words |
 | LinkedIn connection note | 300 chars |
 | LinkedIn InMail | 500 words |
 | LinkedIn DM | 200 words |
@@ -242,47 +221,42 @@ You may NOT:
 
 | Source | CV emphasis | Cover letter | Email/message priority |
 |--------|-------------|--------------|------------------------|
-| `portal` | ATS-optimized, full keyword weave, complete history | Full formal cover letter | None |
-| `recruiter_cold` | Crisp 1-page version, lead with headline fit | Optional 3-paragraph version | Short punchy outreach email is primary |
-| `warm_intro` | Standard tailored CV | Brief, references the intro | Short thank-you + why-excited email |
-| `referral` | Standard tailored CV | Brief, mentions referrer | Short thank-you to referrer + brief outreach to HM |
-| `direct_outreach` | Tight tailored CV | Optional | Personalized email emphasizing 1-2 fit points + LinkedIn message |
+| `portal` | ATS-aware, accurate, complete enough for the role | Full letter when required/useful | Usually none |
+| `recruiter_cold` | Crisp version focused on relevant evidence | Optional | Brief, direct outreach is primary |
+| `warm_intro` | Standard tailored CV | Brief when useful | Short follow-up referencing the introduction |
+| `referral` | Standard tailored CV | Brief when useful | Short note referencing the referrer |
+| `direct_outreach` | Tight tailored CV | Optional | Personalized email or LinkedIn message using specific evidence |
 
 ## LinkedIn message type
 
-Ask the user which type if unclear:
-- **connection note** (300 chars) — when connecting cold to a recruiter/HM
-- **InMail** (500 words) — when sending a longer pitch via LinkedIn
-- **DM** (200 words) — when following up with someone already connected
+Default to the channel and message type that fits the actual context. Do not generate both a connection note and DM automatically when only one is useful.
 
-Default: generate **connection note + DM** pair.
+## Bootstrap
 
-## Bootstrap (first run)
+If `profile/preferences.yaml` is missing or thin, run a focused bootstrap covering:
+- target roles
+- geographies
+- sectors
+- company stage
+- compensation constraints
+- red lines
+- career angles
+- writing samples
 
-If `profile/preferences.yaml` is missing or thin, run the bootstrap interview (see `BOOTSTRAP.md` in the skill directory). One focused session covering:
-- Target role types
-- Geographies
-- Sectors (consider vs. refuse)
-- Company stage preference
-- Comp floor (user enters privately)
-- Hard red lines
-- Narrative themes
-- Writing samples → style guide derivation
-
-Skip any section where the CV already answers it.
+Skip any section where the profile already answers it.
 
 ## Reference files
 
-- `profile/cv.md` — master CV
-- `profile/preferences.yaml` — must-haves, red lines, target criteria
-- `profile/achievements.md` — quantified achievements library (enrich over time)
-- `profile/narrative_themes.md` — 2-3 story arcs
+- `profile/cv.md` — master CV and factual source of truth
+- `profile/preferences.yaml` — must-haves, red lines and target criteria
+- `profile/achievements.md` — sourced achievement library
+- `profile/narrative_themes.md` — factual career angles
 - `profile/style_guide.md` — voice rules
-- `profile/voice_samples/*.md` — writing samples
+- `profile/voice_samples/*.md` — primary evidence for Nii's writing voice
 
 ## When the skill ends
 
 Always:
-- Confirm `meta.json` is up to date
-- Confirm `tracker.md` has been regenerated if any status changed
-- Summarize what was generated/revised in 1-3 lines
+- confirm `meta.json` is current when an application was changed
+- regenerate `tracker.md` when status changed
+- summarize what was generated or revised in 1-3 lines

@@ -1,104 +1,72 @@
-# Narrative Themes
+# Career angles
 
-The agent picks 1-2 themes per application based on the JD's signals. Themes are the story arcs you lean on; they shape the CV headline, summary, cover letter hook, and which roles get featured.
+Use these angles to decide which evidence to emphasise for an application. They are not personal brands or slogans. Do not copy the angle names into CV headlines, cover-letter hooks or outreach messages.
 
-## Theme 1: 0→1 Builder
+## Angle 1: Starting and building products
 
-You take products from zero to launch. Pre-PMF, MVP, founder-mode. You're happiest when the canvas is blank and the question is "what should we even build?".
+Use this when a role involves a new product, a new business line or substantial product definition.
 
-**When to lead with this**: pre-seed / seed roles; founder-CEO roles; greenfield product initiatives inside larger orgs; EIR/FIR roles; founder-of-new-venture roles.
+**Evidence to use:**
+- Sellogram — co-founded the company and lead product strategy and delivery
+- Bridge Technologies — recruited the team and reached 80% completion of two consumer apps, a merchant app and an API suite within 3 months
+- Kwara — led product and technical delivery for a core-banking and operations platform
 
-**Roles to feature**:
-- Sellogram (current) — co-founder and CEO, AI agent product 0→1
-- Bridge Technologies — rebuilt engineering, delivered consumer apps + merchant app + APIs in 3 months
-- Kwara — core banking platform, technical roadmap from scratch
-
-**CV headline pattern**: "0→1 Product Builder · Engineering Leader"
-**Hook pattern**: "I've shipped the v1 of [type of product] three times — most recently at [company]. The pattern is the same: blank page → shipped product in months, not years."
-
-**Proof metrics**:
-- 70M potential MTN subscribers reached by Bridge cross-border product
-- 3-month delivery of 2 consumer apps + 1 merchant app + API suite at Bridge
-- Sellogram 0→1 from idea to a product for social-commerce sellers
+**Useful facts:**
+- 70M potential MTN subscribers in Nigeria for the Bridge cross-border remittance integration
+- 3-month delivery period at Bridge
+- Current product-building work at Sellogram
 
 ---
 
-## Theme 2: AI-Native Product Builder
+## Angle 2: LLM product development at Sellogram
 
-You design and ship products with LLMs at their core. Not AI-as-feature — AI-as-product. You understand RAG, context engines, prompt optimization (DSPy), and agent workflows (LangGraph), and you ship.
+Use this when a role requires current LLM, agent or generative-model product experience.
 
-**When to lead with this**: AI/ML platform roles; AI-native product company leadership; any role where "AI strategy" is in the JD; AI-native ventures; LLM-tooling companies.
+**Evidence to use:**
+- Sellogram — current product work using LLM-based customer conversations, context retrieval and agent workflows
+- Sellogram — product and stock questions, orders, payments and deliveries supported through the product
+- Sellogram — product context extracted from posts and reels
+- Current technical skills: LLMs, RAG, context engines, DSPy and LangGraph
 
-**Roles to feature**:
-- Sellogram (current) — AI agent for social commerce
-- Bridge / Peach — applied AI in production systems (expand here with achievements library)
-
-**CV headline pattern**: "AI-Native Product Builder · Engineering Executive"
-**Hook pattern**: "I'm currently building [Sellogram] — an AI agent that [does X]. Before that, [proof point], [proof point]. I don't theorize about AI; I ship it."
-
-**Proof to lean on**:
-- Current Sellogram work
-- Capabilities section AI bullets (LLMs, RAG, DSPy, LangGraph, context engines)
-
-**Note**: This theme's proof depends heavily on what you add to `achievements.md` over time. As you ship more AI work at Sellogram, this becomes your strongest angle.
+**Source-of-truth rule:**
+All AI/LLM experience in the current profile comes from Sellogram. There was no AI/LLM work at Peach Tech or Bridge Technologies. Do not attribute AI work to those roles or use them as AI proof points.
 
 ---
 
-## Theme 3: Org Scaler
+## Angle 3: Building and leading engineering organisations
 
-You take engineering orgs from small team to multi-team with structure, process, and culture. You know how to recruit leaders, define SDLC, introduce agile practices, and grow geographically distributed teams.
+Use this when a role focuses on engineering leadership, hiring, delivery or organisation design.
 
-**When to lead with this**: Series A → Series C roles where the company has PMF and needs to scale; Director / VP / Head of Engineering roles; rebuilding-after-chaos situations.
-
-**Roles to feature**:
-- Living Goods — Director, Software Engineering; grew geographically distributed team; introduced agile + continuous delivery
-- Radio Africa — Group Head of Development; led team of 12
-- Peach Tech — directed Product + Engineering + IT as executive
-- Bridge — identified HR gaps, created org structure, recruited team
-
-**CV headline pattern**: "Engineering Leader · Org Builder & Scaler"
-**Hook pattern**: "I've built engineering orgs at [N] companies, growing teams from [small] to [larger] with structure that survives growth. Most recently at [company]: [outcome]."
-
-**Proof metrics**:
-- Team of 12 at Radio Africa
-- Distributed engineering org at Living Goods (engineering + data + product + QA + designers)
-- Recruited team and built org structure at Bridge from scratch
-- Directed cross-functional Product/Engineering/IT group at Peach
+**Evidence to use:**
+- Living Goods — grew a geographically distributed team across engineering, data science, QA, design, product and project management
+- Radio Africa — led a team of 12 developers, designers and web administrators
+- Peach Tech — led Product, Engineering and IT as an executive-team member
+- Bridge Technologies — identified staffing gaps, designed the organisation and recruited the team
+- Kwara — led five developers and designers
 
 ---
 
-## Theme 4: Strategic Tech Partner to CEO
+## Angle 4: Executive product and technology leadership
 
-You're not just an engineering leader — you partner with the CEO on company strategy. You sit on the executive team, shape product and business direction, and translate tech capabilities into business leverage.
+Use this when a role requires responsibility across product, engineering, business strategy or executive decision-making.
 
-**When to lead with this**: CTO / CEO / COO / President roles; executive-team-level positions; founder/CEO roles; advisory/board roles.
-
-**Roles to feature**:
-- Peach Tech — Executive Team member, defined technology + product strategy
-- Bridge — partner with founders on strategic planning, governance, risk
-- Living Goods — partnered with C-Suite on strategy
-- Radio Africa — advisory to Group CEO and C-level on digital transformation
+**Evidence to use:**
 - Sellogram — co-founder and CEO
-
-**CV headline pattern**: "Technology Executive · Strategic Partner to CEO"
-**Hook pattern**: "I sit on executive teams, not engineering silos. At [company] I partnered with the CEO on [specific strategic outcome], not just [engineering metric]."
-
-**Proof**:
-- Executive Team membership at Peach
-- C-Suite collaboration at Living Goods
-- Founder partnerships at Bridge and Sellogram
-- C-level advisory at Radio Africa
+- Peach Tech — executive-team member leading Product, Engineering and IT
+- Bridge Technologies — worked with founders on product and technology strategy and participated in senior-management governance
+- Living Goods — worked with C-Suite leaders on products and processes informed by programme data
+- Radio Africa — advised the Group CEO and executive leaders on digital product strategy
 
 ---
 
-## How the agent picks themes per application
+## Selection rules
 
-The agent reads the JD and `match_analysis.md` and picks 1-2 themes:
+The agent reads the JD and `match_analysis.md` and selects one or two angles based on the work the role actually requires.
 
-- **JD emphasizes 0→1 / greenfield / new product** → Theme 1
-- **JD emphasizes AI/ML/LLM/agents in the product** → Theme 2
-- **JD emphasizes scaling org/team/process for growth** → Theme 3
-- **JD emphasizes executive leadership, CEO partnership, board** → Theme 4
-- **JD is mixed** → combine (e.g., 1+2 for AI startup; 3+4 for scale-up CTO)
+- New product or greenfield work → Angle 1
+- LLM, agent or generative-model product work → Angle 2
+- Engineering leadership, hiring or organisation design → Angle 3
+- Executive product and technology responsibility → Angle 4
+- Mixed roles → combine only the relevant evidence
 
-The agent never invents themes. Only these 4 (until you add more).
+Do not invent a new persona, archetype or slogan. The angle exists only to choose facts and emphasis.

@@ -1,65 +1,58 @@
 # Recruiter Email: {{COMPANY}} — {{ROLE}}
 
-> **Source-specific**: tone and length depend on `meta.json.source`. See below.
+> **Source-specific**: tone and length depend on `meta.json.source`.
 > **Voice**: keep Nii's voice per `profile/style_guide.md`.
 > **Hard rules**: never invent anything.
 
 ## Output format
 
-Plain text, no markdown. Format:
+Plain text, no markdown:
 
 ```
-Subject: [subject line]
+Subject: [short, specific subject]
 
-[Body — plain text, single line breaks between paragraphs]
+Hi [First name],
 
-— 
-Nii Amon Dsane
-[Phone]
-[Email]
-[LinkedIn]
+[Body]
+
+Many thanks,
+Nii Amon
 ```
 
-## Source-specific shape
+Add phone, email or LinkedIn only when useful in context.
+
+## Source-specific guidance
 
 ### source = recruiter_cold
-- **Length**: 100-150 words body
-- **Subject**: pattern like "VP Engineering candidate — fintech + marketplace background" or "[Role] — 3 quick reasons I'd be a fit"
-- **Opening**: 1 sentence on why you're reaching out (specific to recruiter or company)
-- **Body**: 3 bullets mapping top 3 JD must-haves to specific past outcomes (use real metrics)
-- **Close**: low-friction CTA ("Worth a 15-min call this week?")
-- **Tone**: confident, direct, no fluff
+- **Length**: usually 75-150 words
+- State why you are contacting this person or company.
+- Use one or two specific facts that make the conversation relevant.
+- End with a concrete, low-friction next step when useful.
+- Do not force three bullets or a numbered pitch.
 
 ### source = warm_intro
-- **Length**: 50-75 words body
-- **Subject**: pattern like "Re: intro from [Connector] — [Role] conversation"
-- **Opening**: 1 sentence thanking the connector by name
-- **Body**: 1-2 sentences on the headline fit
-- **Close**: low-friction CTA ("Open to a quick call?")
-- **Tone**: warm, brief
+- **Length**: usually 50-100 words
+- Acknowledge the introduction naturally.
+- State the relevant role/context and propose a next step.
 
 ### source = referral
-- **Length**: 75-100 words body
-- **Subject**: pattern like "[Referrer] suggested I reach out — [Role]"
-- **Opening**: 1 sentence naming the referrer
-- **Body**: 2-3 sentences on fit
-- **Close**: low-friction CTA
-- **Tone**: warm, brief
+- **Length**: usually 60-120 words
+- Name the referrer where appropriate.
+- Use only the facts needed to explain the fit.
 
 ### source = direct_outreach
-- **Length**: 100-150 words body
-- **Subject**: pattern like "[Role] — quick note from a [domain] builder"
-- **Opening**: 1 sentence on why them specifically (founder, product, recent news)
-- **Body**: 2-3 sentences on why this role and why you
-- **Close**: low-friction CTA
-- **Tone**: personalized, confident
+- **Length**: usually 75-150 words
+- State why this person or role is relevant.
+- Use one or two concrete facts from Nii's work.
+- End with a specific question or next step.
 
 ### source = portal
-- **Skip**: portal applications don't need an outreach email. Generate a placeholder note instead: "Portal application — no outreach email needed."
+- **Skip** unless outreach is separately useful.
 
-## Banned phrases
-- "I hope this email finds you well"
-- "I am writing to express my interest"
-- "Please find attached my resume"
-- "Passionate", "results-driven", "synergy"
-- "Leverage" (verb)
+## Rules
+
+- Do not introduce Nii with a personal-brand slogan.
+- Do not use `AI-native`, `0→1 builder`, `org scaler`, `strategic partner to CEO` or similar labels.
+- Do not attribute AI/LLM work to Peach Tech or Bridge Technologies.
+- Do not use `I hope this email finds you well`, `I am writing to express my interest`, `Please find attached my resume`, `passionate`, `results-driven`, `synergy` or `leverage` as a verb.
+- Match the direct, normal tone in `profile/voice_samples/`.

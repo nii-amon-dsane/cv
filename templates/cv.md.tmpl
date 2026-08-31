@@ -2,44 +2,46 @@
 
 > **Source**: derived from `profile/cv.md`, tailored per JD with moderate aggressiveness.
 > **Length cap**: 2 pages.
-> **Hard rules**: never invent skills/dates/companies/metrics. Weave JD keywords using truth only.
+> **Hard rules**: never invent skills, dates, companies, metrics or experience. Use JD terminology only when it is true and natural.
 > **Voice**: keep Nii's voice per `profile/style_guide.md`.
 
 ## Structure to produce
 
 ```markdown
 # Nii Amon Dsane
-**[Headline — tailored to JD, 6-10 words]**
+**[Role-based headline using normal job titles; no slogan or archetype]**
 
 [Location • Email • Phone • LinkedIn]
 
 ## Summary
-[3-4 bullets max. Lead with the recommended angle from match_analysis.md. Mirror the JD's must-haves using truth only.]
+[2-4 concise statements using the most relevant evidence from match_analysis.md. Do not mirror the JD or turn the summary into a personal brand.]
 
 ## Capabilities
-[Reordered per JD priorities. Drop irrelevant bullets. Keep section headings aligned with JD language where possible.]
+[Use specific skill areas supported by the source profile. Reorder only when it helps the reader.]
 
 ## Experience
-[For each role, choose emphasis per match_analysis.md "Roles to feature prominently". Compress others to 1-2 bullets.]
+[Choose emphasis per match_analysis.md. Compress less-relevant roles without changing facts.]
 
 ### [Company] // [Location]
 **[Title]** | [Dates]
-- [Bullet — outcome-first, metric if available, JD-keyword-aware]
+- [Clear factual bullet; metric when useful and sourced]
 - [Bullet]
 
 ## Education
 [Standard]
 
-## [Optional: Selected Projects / Speaking / etc. if relevant to JD]
+## [Optional section only when supported and materially relevant]
 ```
 
 ## Tailoring rules
 
-1. **Headline** under the name should shift per JD (e.g., "Fintech Engineering Leader" for fintech roles, "Marketplace CTO" for marketplace roles, "AI Product Builder" for AI roles). Must be truth — Nii has done all of these.
-2. **Summary** should mirror the JD's must-haves in the first 2 bullets.
-3. **Capabilities** section reorders to put JD's top must-haves first.
-4. **Experience** bullets get rewritten for impact (tighter phrasing, stronger verbs), not invented.
-5. **Drop** experience bullets that are irrelevant to this JD.
-6. **Compress** roles that aren't featured into 1-2 lines.
-7. **Metric rules**: reuse from `profile/cv.md` and `profile/achievements.md` only. If a metric is plausible but unsourced, mark `[estimated — verify]`.
-8. **ATS weave**: if `meta.json.ats_optimize == true`, weave JD keywords into bullets using truth only.
+1. **Headline**: use standard role language that reflects Nii's actual history, such as `CTO | Product & Technology` or `VP Engineering | Engineering Leadership`. Do not invent labels such as `AI Product Builder`, `0→1 Builder`, `Org Scaler` or similar personal-brand language.
+2. **Summary**: select the facts most relevant to the role. Do not copy the JD's phrasing merely for similarity.
+3. **Capabilities**: use supported technical and leadership areas. Do not create a capability heading that implies experience not present in the profile.
+4. **Experience**: rewrite only for clarity, relevance and concision. Do not inflate design into delivery, partial delivery into completion, or responsibility into an outcome.
+5. **AI/LLM evidence**: current sourced AI/LLM work is at Sellogram. Do not attribute AI/LLM work to Peach Tech, Bridge Technologies or earlier roles.
+6. **Peach constraint**: the unified system of record was not delivered. Use the research/product-design and delivered-tool evidence in the source profile instead.
+7. **Drop** bullets that are irrelevant to the JD when space requires it.
+8. **Compress** less-relevant roles into 1-2 lines.
+9. **Metrics**: reuse only sourced numbers from `profile/cv.md` and `profile/achievements.md`.
+10. **ATS**: if `meta.json.ats_optimize == true`, use relevant JD terminology where it accurately describes Nii's work. Never trade accuracy or natural language for keyword density.
