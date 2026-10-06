@@ -9,7 +9,7 @@ You take products from zero to launch. Pre-PMF, MVP, founder-mode. You're happie
 **When to lead with this**: pre-seed / seed roles; founder-CEO roles; greenfield product initiatives inside larger orgs; EIR/FIR roles; founder-of-new-venture roles.
 
 **Roles to feature**:
-- Sellogram (current) — co-founder and CEO, AI agent product 0→1
+- Sellogram (current) — co-founder and CEO, work agent product 0→1
 - Bridge Technologies — rebuilt engineering, delivered consumer apps + merchant app + APIs in 3 months
 - Kwara — core banking platform, technical roadmap from scratch
 
@@ -23,24 +23,23 @@ You take products from zero to launch. Pre-PMF, MVP, founder-mode. You're happie
 
 ---
 
-## Theme 2: AI-Native Product Builder
+## Theme 2: LLM-Based Product Leadership
 
-You design and ship products with LLMs at their core. Not AI-as-feature — AI-as-product. You understand RAG, context engines, prompt optimization (DSPy), and agent workflows (LangGraph), and you ship.
+You design and ship products where language models are part of the core workflow. Use RAG, product context, DSPy and structured workflows when the product needs them.
 
-**When to lead with this**: AI/ML platform roles; AI-native product company leadership; any role where "AI strategy" is in the JD; AI-native ventures; LLM-tooling companies.
+**When to lead with this**: AI/ML platform roles; roles where LLM behaviour is central to the product; roles that name AI strategy, LLMs or agents.
 
 **Roles to feature**:
-- Sellogram (current) — AI agent for social commerce
-- Bridge / Peach — applied AI in production systems (expand here with achievements library)
+- Sellogram (current) — work agent for social commerce
 
-**CV headline pattern**: "AI-Native Product Builder · Engineering Executive"
-**Hook pattern**: "I'm currently building [Sellogram] — an AI agent that [does X]. Before that, [proof point], [proof point]. I don't theorize about AI; I ship it."
+**CV headline pattern**: "Product & Technology Executive · LLM-Based Products"
+**Hook pattern**: "I'm building Sellogram, a work agent for social-commerce sellers. It handles [workflow]. Before that, [proof point], [proof point]."
 
 **Proof to lean on**:
 - Current Sellogram work
-- Capabilities section AI bullets (LLMs, RAG, DSPy, LangGraph, context engines)
+- Capabilities section on language-model product delivery (LLMs, RAG, DSPy and LangGraph)
 
-**Note**: This theme's proof depends heavily on what you add to `achievements.md` over time. As you ship more AI work at Sellogram, this becomes your strongest angle.
+**Note**: This theme depends on evidence from Sellogram. Add an achievement only when you can support it with a source.
 
 ---
 
@@ -77,11 +76,11 @@ You're not just an engineering leader — you partner with the CEO on company st
 - Peach Tech — Executive Team member, defined technology + product strategy
 - Bridge — partner with founders on strategic planning, governance, risk
 - Living Goods — partnered with C-Suite on strategy
-- Radio Africa — advisory to Group CEO and C-level on digital transformation
+- Radio Africa — advisory to Group CEO and C-level on digital product development and the move to a digital-first business
 - Sellogram — co-founder and CEO
 
 **CV headline pattern**: "Technology Executive · Strategic Partner to CEO"
-**Hook pattern**: "I sit on executive teams, not engineering silos. At [company] I partnered with the CEO on [specific strategic outcome], not just [engineering metric]."
+**Hook pattern**: "I work with executive teams on product and business decisions. At [company], I partnered with the CEO on [specific strategic outcome]."
 
 **Proof**:
 - Executive Team membership at Peach

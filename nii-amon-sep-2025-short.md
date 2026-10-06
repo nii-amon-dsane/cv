@@ -1,9 +1,9 @@
 # Nii Amon Dsane
-**AI Product & Technology Executive | CTO / VP Engineering | Product and Organisation Leader**
+**Product & Technology Executive | CTO / VP Engineering | Product and Organisation Leader**
 📍 Nairobi, Kenya | 🌐 [LinkedIn](https://www.linkedin.com/in/nii-amon-dsane-69737031a/) | ✉ jazzyy@gmail.com
 
 ## Summary  
-AI product and technology executive with 15+ years in marketplaces, fintech, banking, media and digital health. Co-founder and CEO of Sellogram, an AI product for social-commerce sellers. Experienced in product strategy, organisation design, platform architecture and hands-on delivery.
+Product and technology executive with 15+ years in marketplaces, fintech, banking, media and digital health. Co-founder and CEO of Sellogram, a work agent for social-commerce sellers. Experienced in product strategy, organisation design, platform architecture and hands-on delivery.
 
 ## Key Skills  
 - **Leadership:** Tech & product strategy, executive collaboration, organizational design, team building  
@@ -15,8 +15,8 @@ AI product and technology executive with 15+ years in marketplaces, fintech, ban
 
 ### Sellogram | Nairobi, Kenya
 **Co-founder & CEO** | Jul 2025 – Present  
-AI agent for people who sell on Instagram, Facebook and WhatsApp.
-- Leads product strategy and delivery for an agent that handles customer conversations, product and stock questions, orders, payments and deliveries
+Work agent for people who sell on Instagram, Facebook and WhatsApp.
+- Leads product strategy and delivery for customer conversations, product and stock questions, orders, payments and deliveries
 - Uses shop posts and reels to build product context and support social sales teams
 
 ---
@@ -45,7 +45,7 @@ Fintech platform delivering payments, remittances, and merchant services.
 Digital health NGO supporting community health workers across Africa.  
 - Owned technology strategy execution for direct operations & technical assistance  
 - Grew geographically distributed teams (engineering, data, product, QA)  
-- Introduced agile practices, continuous delivery, and scalable health systems  
+- Introduced agile practices and continuous delivery across digital health systems
 
 ---
 
@@ -60,7 +60,7 @@ Core banking platform for cooperative financial institutions.
 ### Radio Africa Group | Nairobi, Kenya  
 **Group Head of Development** | Jun 2016 – Oct 2018  
 Leading media house transitioning to digital-first.  
-- Led team of 12 across software development and digital transformation  
+- Led a team of 12 across software development and digital product development
 - Built music streaming service with microservices & Akka pipeline  
 - Designed billing & payments system integrated with mobile money  
 

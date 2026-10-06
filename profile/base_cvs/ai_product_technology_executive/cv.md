@@ -6,18 +6,18 @@ Nairobi, Kenya | jazzyy@gmail.com | +254 700 689874 | linkedin.com/in/nii-amon-d
 
 ## Summary
 
-Technology executive with 15+ years building products, platforms and teams across social commerce, fintech, marketplaces, digital health and media. Co-founder and CEO of Sellogram, an AI agent for social-commerce sellers. I lead AI product strategy, 0→1 delivery, product development and engineering organisations.
+Technology executive with 15+ years building products, platforms and teams across social commerce, fintech, marketplaces, digital health and media. Co-founder and CEO of Sellogram, a work agent for social-commerce sellers. I lead product strategy, new-product delivery, product development and engineering organisations.
 
 ## Focus
 
-AI product strategy • Agent and LLM product delivery • Product roadmaps • 0→1 execution • Engineering leadership • Multi-partner integrations • Payments and marketplaces
+LLM-based product delivery • Product context and structured workflows • Product roadmaps • New-product delivery • Engineering leadership • Multi-partner integrations • Payments and marketplaces
 
 ## Experience
 
 ### Sellogram | Nairobi, Kenya
 **Co-founder & CEO** | Jul 2025 – Present
 
-- Lead product strategy and delivery for an AI agent that supports sellers on Instagram, Facebook and WhatsApp.
+- Lead product strategy and delivery for a work agent that supports sellers on Instagram, Facebook and WhatsApp.
 - Built the product approach for customer conversations, product and stock questions, orders, payments and deliveries.
 - Use posts and reels to extract product information and build product context for social sales teams.
 
@@ -25,7 +25,7 @@ AI product strategy • Agent and LLM product delivery • Product roadmaps • 
 **Chief Technology Officer** | Dec 2023 – Mar 2025
 
 - Led Product, Engineering and IT as an executive-team member for a managed used-car marketplace.
-- Led delivery of a new web app, vehicle intake and assessment tools, and a unified system of record for listings and yard management.
+- Led delivery of a new web app and vehicle intake and assessment tools, the first delivered components of the marketplace operating system.
 
 ### Bridge Technologies Limited | Nairobi, Kenya
 **CTO & VP of Engineering** | Jul 2022 – Jan 2023

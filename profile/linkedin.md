@@ -4,7 +4,7 @@ This file is the local source for the LinkedIn profile. Review and approve it be
 
 ## Positioning
 
-**Primary narrative:** Product & Technology Executive. I build products that combine generative AI and deterministic technology, lead product strategy and scale product and engineering organisations.
+**Primary narrative:** Product & Technology Executive. I build products, set product strategy, and lead product and engineering organisations.
 
 **Primary roles for recruiter search:** CTO, VP Engineering, Head of Engineering, VP Product and Head of Product.
 
@@ -12,14 +12,14 @@ This file is the local source for the LinkedIn profile. Review and approve it be
 
 ## Headline
 
-Product & Technology Executive | CTO / VP Engineering | 0→1 Products, Product Strategy & Organisation Building
+Product & Technology Executive | CTO / VP Engineering | Product Strategy & Organisation Building
 
 ## Banner
 
 Use a neutral personal banner. Do not use a company logo.
 
 ```text
-AI products • Product systems • High-performing teams
+Products that deliver real work outcomes • Systems that make them reliable • Teams that deliver them
 Nairobi / Remote
 ```
 
@@ -31,13 +31,13 @@ I am the Co-founder and CEO of Sellogram, a work agent for people who sell on In
 
 Before Sellogram, I was CTO at Peach Tech where I led Product, Engineering and IT.
 
-I led the functional, user and ethnographic research, and product design, for the marketplace operating system. Vehicle intake, assessment and yard-management tools were its first delivered components.
+I led the functional and ethnographic research, and product design, for the marketplace operating system. Vehicle intake, assessment and yard-management tools were its first delivered components.
 
 At Bridge Technologies, I led product and engineering for payments and cross-border remittances. This included an MTN Group and MFS Africa integration with potential reach to 70M subscribers in Nigeria, and a KCB integration for outbound remittances to Nigeria.
 
-I have 15+ years across fintech, marketplaces, digital health and media. I work with founders and executive teams on product strategy, 0→1 delivery, organisation design and software platforms. 
+I have 15+ years across fintech, marketplaces, digital health and media. I work with founders and executive teams on product strategy, new-product delivery, organisation design and software platforms.
 
-I combine generative models with deterministic systems for reliability and cost control.
+I design products with language models when they need interpretation or generation. I use conventional software where rules, reliability and cost control matter.
 
 I am open to CTO, VP or Head of Engineering, and product leadership conversations.
 
@@ -57,7 +57,7 @@ I am open to CTO, VP or Head of Engineering, and product leadership conversation
 
 - Led Product, Engineering and IT within the Technology Group as an executive-team member
 - Defined technology and product strategy for a managed used-car marketplace
-- Led delivery of a new web app, vehicle intake and assessment tools, and a unified system of record for listings, yard management and internal operations
+- Led delivery of a new web app and vehicle intake and assessment tools, the first delivered components of the marketplace operating system
 
 ### Bridge Technologies Limited | CTO & VP of Engineering
 
@@ -88,7 +88,7 @@ I am open to CTO, VP or Head of Engineering, and product leadership conversation
 **Jun 2016 – Oct 2018 | Nairobi, Kenya**
 
 - Led a shared-services team of 12 developers, designers and web administrators
-- Directed group-wide digital product delivery and advised the Group CEO and executive leaders on digital transformation
+- Directed group-wide digital product delivery and advised the Group CEO and executive leaders on digital product development and the move to a digital-first media business
 - Built music-streaming and mobile-money billing systems
 
 ### Consulting | Consultant
@@ -152,7 +152,7 @@ Add these in this order. Pin the first three.
 Add these only after each item is public and final.
 
 1. Sellogram public product page or short product demo.
-2. AI Product & Technology Executive CV PDF.
+2. Product & Technology Executive CV PDF.
 3. One-page case study: MTN cross-border remittance or Peach marketplace operating system.
 
 ## Job preferences

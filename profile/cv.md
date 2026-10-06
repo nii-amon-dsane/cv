@@ -1,6 +1,6 @@
 # Nii Amon Dsane
 
-**AI Product & Technology Executive | CTO / VP Engineering | Product and Organisation Leader**
+**Product & Technology Executive | CTO / VP Engineering | Product and Organisation Leader**
 
 - Location: Nairobi, Kenya
 - Email: jazzyy@gmail.com
@@ -9,7 +9,7 @@
 
 ## Summary
 
-- AI product and technology executive with multi-national experience across social commerce, fintech, banking, media and digital health
+- Product and technology executive with multi-national experience across social commerce, fintech, banking, media and digital health
 - Leads product and technology strategy, execution and organisation design with founders, executive teams and operating leaders
 - Brings executive leadership, product development, technical architecture and hands-on engineering experience to new ventures and scale-ups
 
@@ -18,8 +18,8 @@
 ### Technology and engineering leadership
 Technology and engineering strategy formulation and execution, collaborating with functional leaders at C-level to deliver key initiatives, recruiting and developing technology and engineering leaders and building high performance teams, product roadmapping and competitive analysis.
 
-### AI
-Experience reshaping product strategy with AI capabilities and designing and implementing with LLMs and adjacent technologies such as context engines, RAG, DSPy for automatic prompt optimization, LangGraph and other workflow platforms.
+### Language-model product delivery
+LLMs, RAG, DSPy and LangGraph for products that need language understanding, product context and structured workflows.
 
 ### Enterprise and integration architectures
 Using open source middleware and enterprise integration patterns. Experienced with architecture, documenting and implementing large-scale, multi-partner integration projects in Fintech, healthcare, media, government, telecoms sectors.
@@ -32,8 +32,8 @@ Kotlin, Java, Ruby, TypeScript, Python, Erlang/OTP, Elixir, Spring Boot, node.js
 ### Sellogram // Nairobi, Kenya
 **Co-founder & CEO** | Jul 2025 – present
 
-- Sellogram is an AI agent for solopreneurs and teams selling on Instagram, Facebook and WhatsApp
-- Builds product strategy and delivery for an agent that handles comments and DMs, product and stock questions, orders, payments and deliveries
+- Sellogram is a work agent for solopreneurs and teams selling on Instagram, Facebook and WhatsApp
+- Builds product strategy and delivery for customer conversations, product and stock questions, orders, payments and deliveries
 - Uses posts and reels to extract product information, enrich product metadata and expand the capacity of social sales teams
 - Provides always-on customer-contact handling during off hours and holidays
 
@@ -43,7 +43,7 @@ Kotlin, Java, Ruby, TypeScript, Python, Erlang/OTP, Elixir, Spring Boot, node.js
 - Peach Tech Ltd operates the #1 managed, closed-loop used car marketplace in Kenya
 - In charge of the Technology Group within the org, comprising Product, Engineering and IT
 - Executive Team member responsible for defining and delivering on technology and product strategy
-- Researched, designed and led delivery of improved web app, internal tools for process automation including vehicle intake and assessment app, unified system of record tracking listings, yard management and other internal tools
+- Researched, designed and led delivery of an improved web app and internal process-automation tools for vehicle intake and assessment. These were the first delivered components of the marketplace operating system
 
 ### Bridge Technologies Limited // Nairobi, Kenya
 **CTO & VP of Engineering** | Jul 2022 – Jan 2023
@@ -66,11 +66,10 @@ Kotlin, Java, Ruby, TypeScript, Python, Erlang/OTP, Elixir, Spring Boot, node.js
 ### Living Goods // Nairobi, Kenya
 **Director, Software Engineering** | Oct 2019 – Apr 2021
 
-- Living Goods aims to save lives at scale by supporting digitally empowered community health workers. Works with governments and partners to leverage smart mobile technology, rigorously strengthen performance, and relentlessly innovate to cost-effectively deliver high-quality, impactful health services
 - Responsible for tech strategy execution and monitoring towards improving technology offerings for direct operations and technical assistance programmes
 - Worked with C-Suite to discover new products and processes driven by analysis of the data collected from direct and technical assistance programs
 - Grew an effective, geographically-dispersed team of software engineers, data scientists, QA engineers, designers, product and project managers and contractors
-- Led the team to deliver high quality, available, reliable, secure and scalable systems
+- Led delivery of systems for direct operations and technical-assistance programmes
 - Defined the software delivery life cycle with a focus on agile methodologies, continuous delivery and improvement
 
 ### Kwaduara Limited // Nairobi, Kenya
@@ -88,13 +87,13 @@ Kotlin, Java, Ruby, TypeScript, Python, Erlang/OTP, Elixir, Spring Boot, node.js
 - Led a team of 12 developers, designers and web administrators
 - The team served as a shared services unit within the group providing software development, change management and production management services for new and existing digital products
 - Delivered digital products for all parts of the group as part of group-wide efforts at transitioning to a digital-first media business
-- Provided advisory services to Group CEO and C-level executives on digital transformation, digital product development
+- Provided advisory services to the Group CEO and C-level executives on digital product development and the move to a digital-first media business
 - Organized operations, cultivated culture and provided direction to digital innovation and development group
 - Provided high-level technical direction and architecture of digital product development within the group
 
 #### Deliverables
 
-- Architecture and development of a scalable music streaming service powered by micro-services orchestrated via message queues using technologies such as serverless computing, Akka, Spark and Kotlin
+- Architecture and development of a music streaming service powered by micro-services orchestrated via message queues using technologies such as serverless computing, Akka, Spark and Kotlin
 - Design of a content ingestion pipeline for music streaming service with built-in and configurable scaling via Akka
 - Design and buildout of a payment and billing service on top of Killbill which interfaces with Safaricom SDP and mobile money for powering payments within music streaming service
 - Organized and facilitates weekly technical training session to improve technical capabilities of team

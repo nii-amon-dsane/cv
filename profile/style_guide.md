@@ -26,8 +26,9 @@ This is the v1 style guide derived from your CV's voice + sensible senior-exec d
    - CV: "Led team of 12" (no "I")
    - Cover letter: "I led a team of 12" (with "I")
 8. **Present tense for current role, past tense for prior.**
-   - Sellogram (current): "I'm building an AI agent for social commerce sellers."
+   - Sellogram (current): "I'm building a work agent for social commerce sellers."
    - Peach (prior): "I directed the Technology Group at Peach."
+9. **Name the user, workflow, system, team or result before the technology.** Use AI, LLM, agent, generative or deterministic only when the term explains a specific product behaviour or technical decision.
 
 ## Signature patterns confirmed by samples
 
@@ -94,11 +95,11 @@ The agent must not use these. They smell AI-generated or generic.
 
 **Bullet pattern (CV)**: `[Strong verb] [specific thing] [metric or scope] [optional context].`
 - "Delivered cross-border remittance product for MTN Group, reaching 70M subscribers in Nigeria."
-- "Led team of 12 across development and digital transformation at Radio Africa."
+- "Led team of 12 across development and digital product delivery at Radio Africa."
 - "Architected music streaming service with microservices + Akka pipeline + serverless."
 
 **Paragraph opener (cover letter)**: `[Acknowledge something specific about the company/role in 1 sentence]. [Connect it to you in 1 sentence]. [Tell them what's coming next.]`
-- Example pattern: "Acme's pivot to AI-native logistics caught my attention. I'm currently building an AI agent for social commerce sellers at Sellogram — the patterns translate. Three outcomes from my last three roles that map to what you're hiring for:"
+- Example pattern: "Acme's work in logistics caught my attention. I'm currently building a work agent for social commerce sellers at Sellogram. Three outcomes from my last three roles that map to what you're hiring for:"
 
 **Email opener (cold outreach)**: `[Hi Name,] [1-line pleasantry or context hook]. [Three bullets mapping their must-haves to your outcomes]. [Specific next-step proposal with concrete time/options]. [Many thanks, / Nii Amon]`
 

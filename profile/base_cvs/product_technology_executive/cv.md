@@ -6,18 +6,18 @@ Nairobi, Kenya | jazzyy@gmail.com | +254 700 689874 | linkedin.com/in/nii-amon-d
 
 ## Summary
 
-Product and technology executive with 15+ years turning business goals into products, platforms and operating systems. I work with founders and executive teams on strategy, customer-facing products, operational tools and the organisations that deliver them. I am the co-founder and CEO of Sellogram, an AI product for social-commerce sellers.
+Product and technology executive with 15+ years turning business goals into products, platforms and operating systems. I work with founders and executive teams on strategy, customer-facing products, operational tools and the organisations that deliver them. I am the co-founder and CEO of Sellogram, a work agent for social-commerce sellers.
 
 ## Focus
 
-Product strategy • Product roadmaps • Marketplaces • Payments and remittances • AI-enabled products • Executive partnership • Operating systems • Technical architecture
+Product strategy • Product roadmaps • Marketplaces • Payments and remittances • Executive partnership • Operating systems • Technical architecture
 
 ## Experience
 
 ### Sellogram | Nairobi, Kenya
 **Co-founder & CEO** | Jul 2025 – Present
 
-- Lead the strategy and delivery of an AI agent for sellers on Instagram, Facebook and WhatsApp.
+- Lead the strategy and delivery of a work agent for sellers on Instagram, Facebook and WhatsApp.
 - Shape the product for customer conversations, product discovery, stock questions, orders, payments and deliveries.
 - Use shop posts and reels to extract product information and enrich product metadata.
 
@@ -25,7 +25,7 @@ Product strategy • Product roadmaps • Marketplaces • Payments and remittan
 **Chief Technology Officer** | Dec 2023 – Mar 2025
 
 - Led the Technology Group across Product, Engineering and IT and defined technology and product strategy as an executive-team member.
-- Led delivery of a web app, vehicle intake and assessment tools, and a system of record for listings, yard management and internal operations.
+- Led delivery of a web app and vehicle intake and assessment tools, the first delivered components of the marketplace operating system.
 
 ### Bridge Technologies Limited | Nairobi, Kenya
 **CTO & VP of Engineering** | Jul 2022 – Jan 2023
@@ -49,7 +49,7 @@ Product strategy • Product roadmaps • Marketplaces • Payments and remittan
 
 ## Technology
 
-AI product development, LLMs, product analytics, integration architecture, Ruby, Python, TypeScript, Kotlin, Java, Rails, Spring Boot and RabbitMQ.
+LLMs, product analytics, integration architecture, Ruby, Python, TypeScript, Kotlin, Java, Rails, Spring Boot and RabbitMQ.
 
 ## Education
 
