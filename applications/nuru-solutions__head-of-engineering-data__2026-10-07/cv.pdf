@@ -1,130 +1,93 @@
 %PDF-1.4
-% ASCII generated
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Count 2 /Kids [4 0 R 5 0 R] >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 6 0 R >> >> /Contents 9 0 R >>
+<<
+/Contents 9 0 R /MediaBox [ 0 0 612 792 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 5 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 6 0 R >> >> /Contents 10 0 R >>
+<<
+/Contents 10 0 R /MediaBox [ 0 0 612 792 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 6 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+<<
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+>>
+endobj
+7 0 obj
+<<
+/Author (Nii Amon Dsane) /CreationDate (D:20261007113106+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261007113106+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Nii Amon Dsane - Head of Engineering & Data CV) /Trapped /False
+>>
+endobj
+8 0 obj
+<<
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
+>>
 endobj
 9 0 obj
-<< /Length 5995 >>
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3109
+>>
 stream
-BT /F2 20.00 Tf 1 0 0 1 50.64 742.00 Tm (Nii Amon Dsane) Tj ET
-BT /F2 9.70 Tf 1 0 0 1 50.64 718.00 Tm (Product & Technology Executive | Engineering, Data & Platform Leadership) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 50.64 702.00 Tm (Nairobi, Kenya | jazzyy@gmail.com | +254 700 689874 | linkedin.com/in/nii-amon-dsane-69737031a) Tj ET
-BT /F2 11.60 Tf 1 0 0 1 50.64 680.00 Tm (Summary) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 50.64 664.00 Tm (Technology executive and hands-on engineer with 20 years of experience building digital products and production platforms) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 50.64 653.60 Tm (across fintech, digital health, marketplaces, media and national identity systems in Africa.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 50.64 640.20 Tm (Led Product, Engineering and IT, including distributed teams spanning software engineering, data science, QA, design and) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 50.64 629.80 Tm (product.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 50.64 616.40 Tm (Combines technology strategy and organisation leadership with hands-on architecture and software development across data) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 50.64 606.00 Tm (pipelines, APIs, multi-channel products and AI-enabled systems.) Tj ET
-BT /F2 11.60 Tf 1 0 0 1 50.64 592.60 Tm (Relevant strengths) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 50.64 576.60 Tm (- Technology strategy, product roadmaps and hands-on software architecture) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 50.64 565.50 Tm (- Leadership of Engineering Managers and distributed engineering, data, QA, design and product teams) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 50.64 554.40 Tm (- Data pipelines, APIs, systems integration and production workflow design) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 50.64 543.30 Tm (- Multi-channel product delivery across web, mobile, SMS, USSD and messaging) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 50.64 532.20 Tm (- Python, Java, Ruby / Rails, TypeScript, Kotlin and RabbitMQ / AMQP; current AI/LLM system architecture) Tj ET
-BT /F2 11.60 Tf 1 0 0 1 50.64 517.10 Tm (Experience) Tj ET
-BT /F2 9.80 Tf 1 0 0 1 50.64 500.10 Tm (Peach Tech Ltd | Nairobi, Kenya) Tj ET
-BT /F2 8.85 Tf 1 0 0 1 50.64 488.90 Tm (Chief Technology Officer | Dec 2023 - Mar 2025) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 477.40 Tm (- Led Product, Engineering and IT as an executive-team member for a managed used-car marketplace.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 466.50 Tm (- Defined product and technology strategy and led functional, user and ethnographic research for a broader marketplace) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 456.40 Tm (  operating system.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 445.50 Tm (- Led delivery of a new customer web application and vehicle intake and assessment tools.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 434.60 Tm (- Hired and managed Engineering Managers.) Tj ET
-BT /F2 9.80 Tf 1 0 0 1 50.64 419.20 Tm (Bridge Technologies Limited | Nairobi, Kenya) Tj ET
-BT /F2 8.85 Tf 1 0 0 1 50.64 408.00 Tm (CTO & VP of Engineering | Jul 2022 - Jan 2023) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 396.50 Tm (- Set product, technology and architecture strategy for payments, remittances, wallets and currency-swap services.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 385.60 Tm (- Delivered cross-border remittance integrations for MTN Group / MFS Africa and KCB.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 374.70 Tm (- Recruited the engineering organisation and led delivery of 2 consumer apps, a merchant app and APIs spanning payments,) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 364.60 Tm (  remittances, wallets and currency swaps.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 353.70 Tm (- Designed the service and integration architecture.) Tj ET
-BT /F2 9.80 Tf 1 0 0 1 50.64 338.30 Tm (Living Goods | Nairobi, Kenya) Tj ET
-BT /F2 8.85 Tf 1 0 0 1 50.64 327.10 Tm (Director, Software Engineering | Oct 2019 - Apr 2021) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 315.60 Tm (- Led technology strategy and delivery for direct operations and technical-assistance programmes in digital health.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 304.70 Tm (- Grew a geographically distributed organisation spanning software engineering, data science, QA, design, product and project) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 294.60 Tm (  management.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 283.70 Tm (- Worked with C-suite leaders to identify new products and operational improvements from programme data.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 272.80 Tm (- Hired and managed Engineering Managers and established an agile software-delivery lifecycle with continuous delivery.) Tj ET
-BT /F2 9.80 Tf 1 0 0 1 50.64 257.40 Tm (Kwara | Nairobi, Kenya) Tj ET
-BT /F2 8.85 Tf 1 0 0 1 50.64 246.20 Tm (Chief Technology Officer | Oct 2018 - May 2019) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 234.70 Tm (- Led a 5-person product and engineering team for a core-banking and daily-operations platform serving cooperative financial) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 224.60 Tm (  institutions.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 213.70 Tm (- Defined architecture and the technical roadmap and remained active in software development.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 202.80 Tm (- Partnered with the CEO on product, sales, marketing and people decisions.) Tj ET
-BT /F2 9.80 Tf 1 0 0 1 50.64 187.40 Tm (Radio Africa Group | Nairobi, Kenya) Tj ET
-BT /F2 8.85 Tf 1 0 0 1 50.64 176.20 Tm (Group Head of Development | Jun 2016 - Oct 2018) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 164.70 Tm (- Led a 12-person digital-product team and advised the Group CEO and C-level leaders on the transition to a digital-first media) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 154.60 Tm (  business.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 143.70 Tm (- Architected a music-streaming service and asynchronous content-ingestion pipeline using Kotlin, Akka, message queues and) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 133.60 Tm (  serverless infrastructure.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 122.70 Tm (- Designed billing and payments services integrated with Safaricom and mobile money.) Tj ET
-BT /F1 7.50 Tf 1 0 0 1 303.00 18.00 Tm (1) Tj ET
-endstream
+GauHM9m>@%(#A%S@+Dij,`@mt>,RiNG*9tcN]jf(DRtBi84#uO*.X9K3Vi3Y&,Ztb`?II?oH_Jt-:-R<hKRk0a+jBP\Y!<If\79*J+#,<B<qd5`e-"8h6M722o!'UhZSQD]t,0d(Zd0K.K5e_/b7%)8&N_^)@S9dGKFG'47iHgAma3WYOopifWSI;)%WS\/F^[^IgcqYB'A+<mP\T>m;i3_GP`tZ5G[>c5"j##'!9fGj\"kZnXW$0Y<HK0Df7>'h*$hmUben?@)4<af\(o);''?9:M_ApQ-upDDV2S),0VjR(@2ueVj:3e@AI*#fF?.dQ9N5L>A05)>JVOmlq4-,&me7a5u:05n6,:2h\+e]RhWm3i.mGYe-ShBi6pi"m'0>QD)gVQ_LMH"Zh_WsiA)I-3l.T+q3*N@L-p-(3PE@FhcMG[PDH$/"m8dS.k1?8<p`CfeNTcI"iHJCgS>@3(+4DB:o,,)L'ocO'`Ba^&oKUEBD?r!).VRWUpA=#Z]@%u+mG66O^(=+gU^;4Y'cPgMIk,&73[E:/CP!>:#T6K6G[n[['_HJ9:>=;XTX]k<KA`-U>:-3WRo"c7&[2lIBQQ6$lV<d/<+q2SOnP=G38rq8AmnPKH^aH)jZ7g@9O#@c&sSkGp]pK[[?55cDpV`b3[,[,-f@h>Uf%%2QK8;ALcVW@=.A+i?NduH(<!*\AD\e=8N\9,9G98HtB,0dM-=(&GMGM?phhs7@_g]4IOB(Y&i5($]8Rn.'iKYXp&cfOWgf=1li9@6ACa^D?mHQ=+!Sh1fB4ed6j^k>@@Z/fdR,n,MS!r;DE(+Q,MN^D@2;)]uZd*reR4#]WrF),$a<NOGf^<H,@%!S<KkS55']io,)5iMaa_>/^%0W,<O*m$]DQ!jq*1l)OoG)=<`k6P<^7[afmH)GE.3.V(2ae;*>oNH2m`bq59%fRR8*b6*"S*Z7X*kVVY^*j>`4Go,C7X/jUhWoD/J'bp%?)?S;\RG_kB?iabtIWV#R9$4l1/):t!QMccmA3L06u3A2h$3?1^fUr4%A.G\>>]HU8uM7cNE69m%H3Cfs3W:47#pXh-#GTs4oWi">f2%>9fF-eCO#8#8'n&%8&+A7t8N9?U(h"m$\9Vs1Yf%p)iW_W--(XHP#BL=A1@K"6Y`ub-0j5Wjj\^iftkpZFRH8>*,QQhId'H4ZbL@gBBiZqI8^l?&34:2lkrEjUebA:+P3hYnU@=XuM!OG+p;>=GQYoU4j?(T7b%H&e5g^PH_P$ooO@<8!?Lnf2s2Ab&Q&;hGekAX?#T-^_)0fn6-7ofNJE-E:-\(.Vj<JMA\/_W$0;,"`6-H.te<?tIn*rtkMClcZ.ZO\e7'XrlPSkeQ3o%fM-K?K/4_Yng,[jf.;$1Bao5E_("brL+Yg&]QRXESWb5K!SNHmWY3_-[g25]>!^HQG$_<U?!E2a%S_s%ikP;ndj8WXe^1'VH>)J3.3tPUe'>+kZ'ZlFR<QZ+=#T/n\Ta(`#.XHF&ZYB8m<ZTQh2b;PL?R28O%f"QP>g.O3a`Kr76K7qm!j88$;N\5H^4,9"!n$73jSn@SgoZ6pen6CgS@U57=<_;a4DFI50+qal+BPLlp;(en4]MBb^c+F(D:+j=i1kTI(_%eg!NSI_n:Wm%`Sl]i0BB)::9(,BtLF!F#oQk;*N8tIq<]]7r02*gMQ0MnfIAp80KlB&nIc5<IXh)7ZL@Q5d(aW-IBJ2kIFfeVK27%ZKRN]dtN;*T^lN<C)?"6f8oEn&CjQ+MNH&-^l,=.r$Qi*hG!PI^OA)G9R5/&<"3.\[\^7(ol.+D'\\ZkSqqD<XHeD:o>7GKmXk<?8Id9uhn68[Q)AO?m\Co3N*B_nQM8#`K)cp5$-Z"#:$mF/%o.a(Gi^;#j'e2(qHi1\Gl&>2(-HS>2!i"pA.L:<3cSa*7pm*c<-9/QNJmK@#N@("gF+"j\\[ENS9HhRY[1@!DkArZhq0WI%hHraKL@MRQQ%M.qc.;)-K*NP*CDCU\]YK.Y>%<$Mu^dX$;2%CX(=>9f7h>HB&uG:O>+gfJ"RBGC@F$?JAB#A*`*_gWR!NW#BfKX3ibpLiD'Tl6DGhW.W>pi`.6]k3U5pqFk8?!8^mbPDT\CfX8r=BZ.I6^f^V[jg2o^>G]:Ls/--6L*d+GoSmO6`s7L[,5Dc=^fme+t!Q!$#'H1MjNgn1)pfWs.<EL"M:Pq;Jfg'=R$ufh`cRm:#jMebXj*c()(?Jca=qoh0O%<(FL0Wbs&HE8H#pRU3H&JbPn[lV[*`#VYhur-PFf?F4@Z6>KX?`Bj2hMLI/!s6kGd)322XO6<9kr8i68dhQUC4a)!rKTol;RXdmoHGl@\AICalS?l#;GY*j)15KR7NTrrsk6:,2<OEq`n,>](o_Ws%P#OX)\M<l1]lnB292qrk9c.Xa)p.f1]8)u7i_`EjQc'";7eM-[/<ckGi<H4B4o#W)FcjGK*&\YkI.$I4W#V,#;(A`_!1M#I/RnQ\m"g@t'6!ZbcK&J,";Bs@&2/EX-!n/R&e-ISfXC>@+1KB<5%G?a$Na9L.r7h,I<U$rJrsr:'p9eJQpO]09m5XdR60/V5D0kQRl9KQod63HL&%sEld8fHM!3]+iPAt+_7Wi4r6r\4'hG>\BMH'5B\oF[$Xq-\L2U:7sdK96$W2Rb1"\a&,=molPR776X\8C\Wil6dU]uZY!B\#*bOhlg1br8k_b!I<3a:7=Dl5#=^FmB;7*t0FUBZWi=F@Aq)9Lj%'&3A-\!3^B@FDM<aSJcQgVs<:90B03\'Vq$C86[-^'E;&.^OfAl"Qhh4G3(nqHqC)k.e*>CR:<]<iJ*eV@SR4<PKM]jD+D_ug/hT-YfaPHp1*Or2+I7-?_.lLE]NJqF"^lN,i>J4f>.'35LL<pJu/9YOk91W>49=Wf?gA4ge0SJff8bD&I"8<_?PP.3G[#tCTLPidTSSI.@Tj),>RE,4]S%>_l\&Ci7L0KLUqj@XK.cW6.@BRaXf+5EEe[r^j9?H[5bZu+rYNA);M8+]==k<.&3M?$e&oFJ8%U=oTcG%fj!>YFq!rW58nIr'n%LYXK"E/o(BVA[WOK1(ltXd/&j0+>>q4o]'U*'Zoal4Q(,J_+6?K;8H~>endstream
 endobj
 10 0 obj
-<< /Length 3506 >>
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2369
+>>
 stream
-BT /F2 9.80 Tf 1 0 0 1 50.64 742.00 Tm (SafariFone Ltd | Djibouti) Tj ET
-BT /F2 8.85 Tf 1 0 0 1 50.64 730.80 Tm (Software Architecture Consultant | 2015 - 2016) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 719.30 Tm (- Designed the architecture for a B2B commerce and trade-finance platform linking distributors and retailers.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 708.40 Tm (- Designed financing and repayment workflows using Islamic-finance structures including Murabaha.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 697.50 Tm (- Integrated web, SMS and USSD channels with mobile-money and telecommunications infrastructure.) Tj ET
-BT /F2 9.80 Tf 1 0 0 1 50.64 682.10 Tm (MFieldwork Ltd | Ghana / Kenya) Tj ET
-BT /F2 8.85 Tf 1 0 0 1 50.64 670.90 Tm (Software Consultant | 2013 - 2015) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 659.40 Tm (- Built web software for a mobile field-data platform used by development and humanitarian organisations for monitoring,) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 649.30 Tm (  evaluation and field research.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 638.40 Tm (- Worked on workflows moving field data from mobile collection into backend systems for analysis and visualisation.) Tj ET
-BT /F2 9.80 Tf 1 0 0 1 50.64 623.00 Tm (GenKey Africa Ltd | Accra, Ghana) Tj ET
-BT /F2 8.85 Tf 1 0 0 1 50.64 611.80 Tm (Lead Software Developer | Sep 2010 - Sep 2012) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 600.30 Tm (- Led software-development work on biometric voter-register adjudication systems.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 589.40 Tm (- Contributed ABIS software and related systems to Ghana's 2012 biometric voter-registration programme, which registered) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 579.30 Tm (  approximately 14M voters using 6,500 kits.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 568.40 Tm (- Worked directly with Ghana's Electoral Commission on demonstrations, technical delivery and training of key trainers.) Tj ET
-BT /F2 9.80 Tf 1 0 0 1 50.64 553.00 Tm (CoreNett Ltd | Accra, Ghana) Tj ET
-BT /F2 8.85 Tf 1 0 0 1 50.64 541.80 Tm (Head of Software Development | Mar 2007 - Sep 2010) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 530.30 Tm (- Led architecture and product development for mobile-wallet, cardless-ATM and electronic-payment systems.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 519.40 Tm (- Designed a mobile wallet supporting transfers, agent transactions, mobile commerce and cardless ATM withdrawals.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 508.50 Tm (- Built a Java and IFX-based cardless-ATM service and an electronic-payment and voucher platform using Ruby on Rails and C.) Tj ET
-BT /F2 9.80 Tf 1 0 0 1 50.64 493.10 Tm (Rancard Solutions Ltd | Accra, Ghana) Tj ET
-BT /F2 8.85 Tf 1 0 0 1 50.64 481.90 Tm (Product Manager, Mobile Platforms | Jan 2006 - Mar 2007) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 470.40 Tm (- Managed telco-facing mobile products and services after joining first as an intern and then as a Solutions Analyst.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 459.50 Tm (- Designed and implemented the messaging platform used for SMS voting for West African Idols across multiple African) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 449.40 Tm (  countries.) Tj ET
-BT /F1 8.85 Tf 1 0 0 1 58.64 438.50 Tm (- Supported live messaging platforms operating across mobile-network integrations.) Tj ET
-BT /F2 11.60 Tf 1 0 0 1 50.64 422.10 Tm (Education) Tj ET
-BT /F2 8.85 Tf 1 0 0 1 50.64 406.10 Tm (Ashesi University College, Ghana - B.Sc. Computer Science, Cum Laude, 2005) Tj ET
-BT /F1 7.50 Tf 1 0 0 1 303.00 18.00 Tm (2) Tj ET
-endstream
+Gatm<?$G;:(4Df^TspM7JSXl%l4_8bC"b6s*GBdAmYe:QBOXWKP"a#%rUJ]6(51$`AnG0@=9ct>g#lk;I?^rQ5DfE4(5uPFfai9590-n'A4\H>Z2#WVS\P"#RrE!WFm7I*)@jV9XJp]oMA@LHa)9[l`l!&:OqF0"m&KXtRt"o=n*,sAZ/9G)^DDk7CtS,E_]DLeS_2hF]c6sF:7jH@iNC)<rYc!\;4jr"qT(Ilfjnf-b1XJU<QY5Ln$k3#+^=:LTsjmLlT\lEV\>'92II6l]`I/,jPO=ZngD70VO-YOfSEe!Khr7kr*1]%M3@sUZhLGob>FHTE=sQFCe=+LTf<`M,bld?1+$5Z6`c\gm-9)BE6'(h`]1ig/qpQ60tZR;A8Nj@7]+$X-[<I"UGjrlC;m8\\nA*PfaEHK9@mFN"=q"A/)a?FQ-iN5Pr_LKm^D/Td2'?s`=CnQRMC)rC&gF7`KpZ*P;EC_G1L8<9W44U65[S-,>rL%>*aUDcSj3\$1&/TF*%68h[t?qZuU0hCquI\Q#o-,#O'Am_jsnHC$@?[%?GRcQaI3lM**c&d0'@;V*$Fdkup-13hHJ-UsOcS[25@k(6t/!)^(4FjHVL`DQ-@X!ZoAK<i'T,Q*)Z2[;q(M)lnYb+YRCUEqlta1!2$`!33u'i=\(Ma8X`)]?p_oIan7@-CF<L2t@HEYXb%Rr8)mc$]P]U]sc[R#%([9ZX)DRSR19mNE3L1*VVC@]'k7QL^BMD8NP8_1-+i)=Lh<QZh^;3Lbl?r\oWl-0MfP/p8O]E.kI?(a<VBc/h3cYog(LQECAL4(42?bbs\fJ=baVfQ/N+bjp]e%@:uRL9)T]hF't^3S<[5u(A,Yh`I76Wc-nH"c]l_ERKp4Aquo%iF<Nqd-'9@s>60Jn-e1]0qU11_Di"Otru)^-Cg5+aAXQ1'4I&suksG:M5#5*_iR(-a_t[-f+&KEs+t:;DM\_dVBAUSaB!\s_:LfYmEh[Io=%X4Rf)N"Y$_*`/+r@42MFsSk&eS6U@;.]AV=KK9,?n,&GHBlFfmdu#ddOp1)*H(0[GU^k^>ZEJaO2q,Va!;cO:D+A]osYd-kueJS0JO?]g:0HG&fS)K5Sp=rMI&JH;X\tl#?$"K1pOSoJI61JO\)*3UMberXu#a>/asohVGrMe,)BLTR^'J8K1QYp-PoQ'SW_+JP)s?^!Cgls"[Q<'uWe*EDO.nqZ;%ojD)"7r]orR#tDT^63.5m5,_3Hpm4Gd41D"HcUBF.,V#B;Gkr]D$+mT?'K'd,N-oDPm39W.MW_f/d1Pkt!SA?P^I84]$hXmb1hbf.[jPm)G`1BFH8MICD`%:prVK..GG"%arsAiAAtl(@O-/_dZI<@+E#?P1#rILr?(SM9ZdtI-K"6u9BlpnMTdM9:h=ai>Pn+t_6i1*<+'-lRPj\Y97^bNp7!*#AK0nk+$ttjjLY5<@HZfV(?LKWIXrTju&U%BiQt2hh/?h%E6+;FjONTgJ5kPhZ",C^ViO87e)un-%q4`5/ZP8+D*a$U-btN?qktPofJ'%hP-f8BnSC[R?O9q3*T[f*5G.9PZP0JE[fB]!Od4_AI$q!AH@%hLd4&=X0X_WPchk8FiCWSb<rrUua1Dp'4;JJpC0ZT_(,D$4RdVu1u\6-$a<2BO&m,o]'-K1iaIicZABYfc^V=4Cs[?M[>RFO)8jgT/Vm,@[7#,k=OSfPaqYFSuO+Q/GFjJ*-8isU+8F*d%ci4U(H`&lr5=&<3cre@Si)to=q022=CDGX7$n:gVr#'7B9iIr2?+8QMerkZ,DWdE@rg.T(kNYY-k4uZUsXDLbqds;(mC;:[B8MNcn*Cl\=hsT^8GWHqu?HM[/8o:u&hqIk1"UV0pdSD<ZqMF4q$_E*Ah)BH:Z:SiXll\*99MCNcNfDB)2sa&*Mr:Yd)>@Um>P<%1h_;(F$;254l_=j\\HmHiU8rAFhEMQljIhPKZlCRh,DNa4XPB<RFHE$BToE],MGTsRnuA"6?X0klIf'?^l*t1eKF4+C"!Q-&dlJ@1":&'jXQ+D)(XlgKY(E-ZlAdL8f@+\8Kq=^t2C:0d=%Lt?]lh+sNn]lLfK\W3h^kV/#X,<[1i1Z:'Ia"KJ`eCeXL`HTh\i#-qq"e$%$O,Jqr>V65#EH;q<IGlWh)A0V.aa8?h,o@nIGYr[FA4C+k-8dkcqpR-*cq<Xrk36'PEbR1,sOjF?\>[bt:5dlJOJf/DD6Zm`hrg=:+.Jl9R?lfDa(joEjN.q&PWhM(d:P.+2=1fdjK)Df6NdpMW(Kg_V*gK`)D(E+]TkRb0LgJGl?91g*`42`+pE`$#Kkn+oPX:la/T/<*2_PnbVD/;8UKn\e.%YX`#2\4!_GcdM1)hntr7OT~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000027 00000 n 
-0000000076 00000 n 
-0000000139 00000 n 
-0000000236 00000 n 
-0000000372 00000 n 
-0000000509 00000 n 
-0000000000 00000 f 
-0000000000 00000 f 
-0000000611 00000 n 
-0000006658 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000514 00000 n 
+0000000708 00000 n 
+0000000776 00000 n 
+0000001090 00000 n 
+0000001155 00000 n 
+0000004355 00000 n 
 trailer
-<< /Size 11 /Root 1 0 R >>
+<<
+/ID 
+[<29360b07f25f066726c0385e5488044b><29360b07f25f066726c0385e5488044b>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
+>>
 startxref
-10217
+6816
 %%EOF

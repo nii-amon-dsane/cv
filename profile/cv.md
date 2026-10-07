@@ -93,7 +93,7 @@ Java, Ruby, Python, TypeScript, Kotlin, Go, Erlang/OTP, Elixir, Spring Boot, Nod
 - Designed financing workflows using Islamic-finance structures including Murabaha and scheduled repayments
 - Designed web, SMS and USSD channels integrated with the group's mobile-money and telecommunications infrastructure and built parts of the platform in Go and JavaScript
 
-### MFieldwork Ltd // Ghana / Kenya
+### MFieldwork Ltd // Kenya
 **Software Consultant** | 2013 - 2015
 
 - Built web software for a mobile field-data platform used by development and humanitarian organisations for monitoring, evaluation and field research

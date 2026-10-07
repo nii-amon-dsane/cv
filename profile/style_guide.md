@@ -36,6 +36,7 @@ This is the v1 style guide derived from your CV's voice + sensible senior-exec d
    - ✅ One achievement per `-` bullet, on its own line.
    - ❌ `• Led Product... • Built platform... • Hired team...`
    - If a CV runs long, shorten wording, drop lower-value bullets or modestly tighten font size and margins. Never trade readability for page count.
+13. **Preserve designated CV baselines.** When the user names an existing CV as the baseline for a new application, preserve its section structure, strict reverse chronology and substantive career evidence by default. Tailor the headline, summary, relevant strengths and wording/emphasis for the target role, but do not silently remove roles or substantive bullets merely to make the CV shorter.
 
 ## Signature patterns confirmed by samples
 

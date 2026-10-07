@@ -162,7 +162,7 @@ The architecture combined a B2B marketplace, embedded trade finance, telecom inf
 
 ### MFieldwork Ltd | Software Consultant
 
-**2013 – 2015 | Ghana / Kenya**
+**2013 – 2015 | Kenya**
 
 > Exact start/end months still need confirmation before entering this role on LinkedIn.
 

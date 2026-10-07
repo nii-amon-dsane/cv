@@ -39,6 +39,7 @@ These are non-negotiable. Violating them destroys trust.
 4. **Voice**: keep the user's voice. Do not mimic the target company's voice. See `profile/style_guide.md`.
 5. **Comp floor**: never mention, echo, or imply the comp floor from `profile/preferences.yaml` in any generated artifact.
 6. **CV readability is a hard constraint.** One achievement/responsibility sentence per Markdown bullet line. Never collapse multiple bullets into inline `•` / `·`-separated prose or semicolon chains to fit a page. To stay within the 2-page cap, first shorten or remove lower-value content; if needed, use modestly tighter margins and approximately 9pt body text. Do not make the CV dense or hard to scan.
+7. **Baseline preservation is a hard constraint.** If the user identifies an existing application CV as the baseline, start from that CV. Preserve its section structure, role sequence and substantive role bullets unless the user explicitly asks to remove or compress them. Tailor the headline, summary, relevant strengths, bullet order within a role and wording for the new JD. Do not independently discard career evidence to hit page count.
 
 ## Workflow per application
 
@@ -213,11 +214,11 @@ When the user asks "what's active" / "show tracker" / "what should I follow up o
 
 The base CV in `profile/cv.md` is the source of truth. When tailoring per application, you may:
 
-- **Reorder** bullets and sections to match the JD's priorities
+- **Reorder** bullets within a role to match the JD's priorities; keep the canonical section structure and strict reverse-chronological role order
 - **Rewrite** bullets for impact (tighter phrasing, stronger verbs, clearer outcomes)
 - **Swap synonyms** for JD keywords (e.g., "engineering team" → "engineering org" if JD uses "org")
-- **Drop** bullets that are irrelevant to this JD
-- **Compress** less-relevant roles into fewer lines
+- **Drop** a bullet only when it is clearly irrelevant and no designated baseline CV requires it to be preserved
+- **Compress** less-relevant roles only when no designated baseline CV is being preserved and the compression does not remove material career evidence
 - **Restructure** the capabilities/summary sections to mirror the JD's must-haves
 
 You may NOT:

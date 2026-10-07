@@ -73,7 +73,7 @@ Product and technology executive with two decades of experience across governmen
 - Designed workflows covering ordering, credit approval, financing, invoicing, repayments, inventory, suppliers and customer accounts.
 - Integrated web, SMS and USSD product surfaces with the group's mobile-money and telecommunications infrastructure; built parts of the platform in Go and JavaScript.
 
-### MFieldwork Ltd | Ghana / Kenya
+### MFieldwork Ltd | Kenya
 **Software Consultant** | 2013 - 2015
 
 - Built web software for a mobile field-data platform used by NGOs and development organisations for monitoring, evaluation and field research.
