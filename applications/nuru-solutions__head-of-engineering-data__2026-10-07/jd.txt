@@ -1,0 +1,12 @@
+Head of Engineering & Data — Nuru Solutions
+Nairobi | Full-time | Hybrid
+
+Nuru is an agricultural data company using satellite imagery, weather data, field ground-truth and machine learning to provide farm-level intelligence to insurers and lenders.
+
+The role owns technology, data and product development. Key responsibilities include technology strategy and roadmap; database/cloud architecture; automated data and ML pipelines; APIs and multi-channel products across web, mobile and messaging; product prioritisation; engineering standards and IP custody; data quality and model-governance processes; hiring and leading engineering/data teams; and advising the CEO and operations leadership.
+
+Required: 7+ years software engineering with 3+ years leadership; deep hands-on architecture and development; production systems at scale; cloud/data/API/multi-channel experience; experience architecting around AI/ML products; translating ambiguous needs into technical roadmaps; and managing engineering/data teams.
+
+Preferred: agritech, insurtech, fintech, GIS/remote sensing, early-stage/startup experience.
+
+Application asks for a CV and a short note on the most complex system taken from prototype to production: what was built, what broke and what changed.

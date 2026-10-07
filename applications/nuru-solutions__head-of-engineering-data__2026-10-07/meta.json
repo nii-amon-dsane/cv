@@ -1,0 +1,34 @@
+{
+  "company": "Nuru Solutions",
+  "role": "Head of Engineering & Data",
+  "date_created": "2026-10-07",
+  "source": "portal",
+  "recruiter": {
+    "name": null,
+    "linkedin": null
+  },
+  "status": "preparing",
+  "ats_optimize": true,
+  "fit_score": 82,
+  "fit_breakdown": {
+    "must_haves_met": 5,
+    "must_haves_missed": 0,
+    "nice_to_haves_met": 2,
+    "seniority_match": "lateral",
+    "domain_match": "moderate",
+    "stage_match": "strong"
+  },
+  "gaps": [
+    "No sourced direct GIS, satellite-imagery or remote-sensing delivery experience.",
+    "Production AI/ML ownership is adjacent rather than an exact geospatial-ML match.",
+    "AWS-specific production ownership is not explicit in the source profile."
+  ],
+  "angle_confirmed": true,
+  "linkedin_type": null,
+  "key_dates": {
+    "submitted": null,
+    "last_contact": null,
+    "next_follow_up": null
+  },
+  "notes": "Lead with hands-on CTO architecture, Living Goods engineering/data leadership, Radio Africa ingestion systems, GenKey data-integrity/adjudication and MFieldwork field-data experience. Talent Safari hosts the application for Nuru Solutions."
+}
