@@ -30,7 +30,8 @@ Product and technology executive with two decades of experience across governmen
 
 - Led Product, Engineering and IT as an executive-team member for Kenya's leading managed used-car marketplace.
 - Owned financial accountability for the functions led, including budgets, delivery costs and financial targets.
-- Defined product and technology strategy and led research, design and delivery of the marketplace operating system across vehicle intake, assessment, listings, yard operations and internal systems.
+- Defined product and technology strategy and led research and product design for a broader marketplace operating system.
+- Led delivery of a new customer web application and vehicle intake and assessment tools.
 - Hired and managed Engineering Managers and aligned Product, Engineering and IT around a common roadmap and operating cadence.
 
 ### Bridge Technologies Limited | Nairobi, Kenya
@@ -50,6 +51,13 @@ Product and technology executive with two decades of experience across governmen
 - Grew a geographically distributed delivery organisation spanning engineering, data science, QA, design, product and project management.
 - Hired and managed Engineering Managers and established an agile software-delivery lifecycle with continuous delivery and improvement.
 - Led delivery of systems supporting field operations and partner programmes.
+
+### Kwara | Nairobi, Kenya
+**Chief Technology Officer** | Oct 2018 - May 2019
+
+- Led a five-person product and engineering team for a core-banking and operations platform serving cooperative financial institutions.
+- Defined architecture and the technical roadmap, managed and mentored the team and remained active in software development.
+- Partnered with the CEO on product, sales, marketing and people decisions.
 
 ### Radio Africa Group | Nairobi, Kenya
 **Group Head of Development** | Jun 2016 - Oct 2018
@@ -79,16 +87,21 @@ Product and technology executive with two decades of experience across governmen
 - Worked directly with Ghana's Electoral Commission on demonstrations, technical delivery and training of key trainers.
 - Participated in the bid team for Kenya IEBC's biometric voter-registration programme, covering registration and AFIS integration.
 
-## Earlier experience
+### CoreNett Ltd | Accra, Ghana
+**Head of Software Development** | Mar 2007 - Sep 2010
 
-**Kwara - CTO** | 2018 - 2019 - Led a five-person team and architecture for a core-banking and operations platform.  
-**CoreNett - Head of Software Development** | 2007 - 2010 - Led mobile-wallet, cardless-ATM and electronic-payment product architecture and development.  
-**Rancard Solutions - Product Manager, Mobile Platforms** | 2006 - 2007 - Built telco-facing mobile services including the SMS-voting platform for West African Idols.
+- Led architecture and product development for mobile-wallet, cardless-ATM and electronic-payment systems.
+- Designed a mobile wallet supporting transfers, agent transactions, mobile commerce and cardless ATM withdrawals.
+- Built a Java and IFX-based cardless-ATM service and an electronic-payment and voucher platform using Ruby on Rails and C.
+
+### Rancard Solutions Ltd | Accra, Ghana
+**Product Manager, Mobile Platforms** | Jan 2006 - Mar 2007
+
+- Managed telco-facing mobile products and services after joining first as an intern and then as a Solutions Analyst.
+- Designed and implemented the messaging platform used for SMS voting for West African Idols across multiple African countries.
+- Supported live messaging platforms operating across mobile-network integrations.
 
 ## Education
 
 **Ashesi University College, Ghana** - B.Sc. Computer Science, Cum Laude, 2005
 
-## Technology
-
-Java | Ruby | Kotlin | Go | TypeScript | Python | Elixir | Ruby on Rails | APIs | PostgreSQL | RabbitMQ | Microservices | Workflow automation | LLM-enabled product systems
