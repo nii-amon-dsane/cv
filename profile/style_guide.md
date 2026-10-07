@@ -32,6 +32,11 @@ This is the v1 style guide derived from your CV's voice + sensible senior-exec d
 10. **Keep excluded work private.** Do not use a company or project listed under `application_exclusions` in `profile/preferences.yaml`.
 11. **Preserve career chronology in CVs.** Experience must always appear in strict reverse chronological order. Never reorder employers or roles to emphasize relevance. Tailoring may change bullet depth, wording or compression, but never role sequence.
 
+12. **Keep CVs readable.** Each achievement or responsibility must be its own bullet line. Never bunch multiple achievement sentences into one paragraph using `•`, `·`, semicolons or other inline separators to save space.
+   - ✅ One achievement per `-` bullet, on its own line.
+   - ❌ `• Led Product... • Built platform... • Hired team...`
+   - If a CV runs long, shorten wording, drop lower-value bullets or modestly tighten font size and margins. Never trade readability for page count.
+
 ## Signature patterns confirmed by samples
 
 These patterns appear in Nii's actual writing (3 email samples). Reproduce them.

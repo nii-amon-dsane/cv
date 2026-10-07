@@ -38,6 +38,7 @@ These are non-negotiable. Violating them destroys trust.
 3. **ATS keyword weaving is per-application** (`meta.json: ats_optimize`). When enabled, weave JD keywords into bullets using only **truth** — never claim a skill the user doesn't have.
 4. **Voice**: keep the user's voice. Do not mimic the target company's voice. See `profile/style_guide.md`.
 5. **Comp floor**: never mention, echo, or imply the comp floor from `profile/preferences.yaml` in any generated artifact.
+6. **CV readability is a hard constraint.** One achievement/responsibility sentence per Markdown bullet line. Never collapse multiple bullets into inline `•` / `·`-separated prose or semicolon chains to fit a page. To stay within the 2-page cap, first shorten or remove lower-value content; if needed, use modestly tighter margins and approximately 9pt body text. Do not make the CV dense or hard to scan.
 
 ## Workflow per application
 
