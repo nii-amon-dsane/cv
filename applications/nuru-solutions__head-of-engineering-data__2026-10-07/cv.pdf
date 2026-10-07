@@ -1,283 +1,329 @@
 %PDF-1.4
-% ASCII-safe generated PDF
+%---- ReportLab Generated PDF document (opensource)
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Count 2 /Kids [5 0 R 7 0 R] >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+<<
+/Contents 9 0 R /MediaBox [ 0 0 612 792 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 5 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+<<
+/Contents 10 0 R /MediaBox [ 0 0 612 792 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 6 0 obj
-<< /Length 6715 >>
-stream
-0 g
-BT /F2 20.0 Tf 1 0 0 1 54.0 793.9 Tm (Nii Amon Dsane) Tj ET
-0 g
-0 g
-BT /F2 10.8 Tf 1 0 0 1 54.0 770.9 Tm (CTO | Product, Engineering & Data Leadership) Tj ET
-0 g
-0.18 g
-BT /F1 8.4 Tf 1 0 0 1 54.0 752.4 Tm (Nairobi, Kenya | jazzyy@gmail.com | +254 700 689874 | linkedin.com/in/nii-amon-dsane-69737031a) Tj ET
-0 g
-0 g
-BT /F2 11.5 Tf 1 0 0 1 54.0 728.7 Tm (Executive profile) Tj ET
-0 g
-0.72 G 54 718.1899999999999 m 541.28 718.1899999999999 l S 0 G
-0 g
-BT /F1 8.8 Tf 1 0 0 1 54.0 709.7 Tm (CTO and hands-on engineer with 20 years of experience building digital products and production) Tj ET
-0 g
-0 g
-BT /F1 8.8 Tf 1 0 0 1 54.0 699.0 Tm (platforms across fintech, digital health, marketplaces, media and national identity systems in Africa.) Tj ET
-0 g
-0 g
-BT /F1 8.8 Tf 1 0 0 1 54.0 688.3 Tm (Has led Product, Engineering and IT and managed blended teams spanning software engineering, data) Tj ET
-0 g
-0 g
-BT /F1 8.8 Tf 1 0 0 1 54.0 677.6 Tm (science, QA, design and product. Combines technology strategy and organisation leadership with hands-on) Tj ET
-0 g
-0 g
-BT /F1 8.8 Tf 1 0 0 1 54.0 666.9 Tm (architecture and software development. Current work includes AI/LLM-enabled products and workflow) Tj ET
-0 g
-0 g
-BT /F1 8.8 Tf 1 0 0 1 54.0 656.2 Tm (systems.) Tj ET
-0 g
-0 g
-BT /F2 11.5 Tf 1 0 0 1 54.0 635.0 Tm (Selected impact) Tj ET
-0 g
-0.72 G 54 624.4899999999997 m 541.28 624.4899999999997 l S 0 G
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 616.0 Tm (- Led Product, Engineering and IT as CTO and an executive-team member at Peach. - Built and led a) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 605.6 Tm (distributed delivery organisation spanning engineering, data science, QA, design, product and project) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 595.2 Tm (management at Living Goods. - Architected streaming, data-ingestion and mobile-money billing systems) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 584.8 Tm (at Radio Africa. - Contributed ABIS and voter-register adjudication systems to Ghana's 2012 biometric) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 574.4 Tm (registration programme, which registered approximately 14M voters using 6,500 kits. - Built) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 564.0 Tm (field-data and multi-channel commerce systems across Ghana, Kenya and Djibouti.) Tj ET
-0 g
-0 g
-BT /F2 11.5 Tf 1 0 0 1 54.0 545.1 Tm (Core expertise) Tj ET
-0 g
-0.72 G 54 534.5899999999998 m 541.28 534.5899999999998 l S 0 G
-0 g
-BT /F1 8.8 Tf 1 0 0 1 54.0 526.1 Tm (Technology strategy and roadmaps | Product and engineering leadership | Software architecture | Data) Tj ET
-0 g
-0 g
-BT /F1 8.8 Tf 1 0 0 1 54.0 515.4 Tm (and workflow systems | APIs and systems integration | Multi-channel products: web, mobile, SMS, USSD) Tj ET
-0 g
-0 g
-BT /F1 8.8 Tf 1 0 0 1 54.0 504.7 Tm (and messaging | Engineering and data-team leadership | AI and LLM systems | Distributed systems |) Tj ET
-0 g
-0 g
-BT /F1 8.8 Tf 1 0 0 1 54.0 494.0 Tm (Python | Java | Ruby / Rails | TypeScript | Kotlin | RabbitMQ / AMQP) Tj ET
-0 g
-0 g
-BT /F2 11.5 Tf 1 0 0 1 54.0 472.8 Tm (Current ventures) Tj ET
-0 g
-0.72 G 54 462.2899999999998 m 541.28 462.2899999999998 l S 0 G
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 453.8 Tm (Sellogram, Co-founder | Jul 2025 - Present) Tj ET
-0 g
-0 g
-BT /F1 8.8 Tf 1 0 0 1 54.0 441.8 Tm (Building a work agent for businesses selling through Instagram, Facebook and WhatsApp, combining) Tj ET
-0 g
-0 g
-BT /F1 8.8 Tf 1 0 0 1 54.0 431.1 Tm (language-model interpretation with deterministic order, payment and delivery workflows.) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 414.9 Tm (Babygoods, Co-founder | Jan 2025 - Present) Tj ET
-0 g
-0 g
-BT /F1 8.8 Tf 1 0 0 1 54.0 402.9 Tm (Building a marketplace connecting parents who have safe, clean used baby and child items with buyers.) Tj ET
-0 g
-0 g
-BT /F2 11.5 Tf 1 0 0 1 54.0 381.7 Tm (Leadership experience) Tj ET
-0 g
-0.72 G 54 371.1899999999998 m 541.28 371.1899999999998 l S 0 G
-0 g
-BT /F2 10.2 Tf 1 0 0 1 54.0 358.7 Tm (Peach Tech Ltd // Nairobi, Kenya) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 345.7 Tm (Chief Technology Officer | Dec 2023 - Mar 2025) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 333.7 Tm (- Led Product, Engineering and IT as a member of the executive team for a managed used-car) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 323.3 Tm (marketplace. - Defined product and technology strategy and led functional, user and ethnographic) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 312.9 Tm (research for a broader marketplace operating system. - Led delivery of a new customer web application) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 302.5 Tm (and vehicle intake and assessment tools. - Hired and managed Engineering Managers.) Tj ET
-0 g
-0 g
-BT /F2 10.2 Tf 1 0 0 1 54.0 284.6 Tm (Bridge Technologies Limited // Nairobi, Kenya) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 271.6 Tm (CTO & VP of Engineering | Jul 2022 - Jan 2023) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 259.6 Tm (- Set product, technology and architecture strategy for payments, remittances, wallets and) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 249.2 Tm (currency-swap services. - Delivered MTN Group/MFS Africa and KCB integrations for cross-border) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 238.8 Tm (remittances. - Recruited the engineering organisation and led delivery of 2 consumer apps, a merchant) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 228.4 Tm (app and APIs spanning payments, remittances, wallets and currency swaps. - Designed the service and) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 218.0 Tm (integration architecture.) Tj ET
-0 g
-0 g
-BT /F2 10.2 Tf 1 0 0 1 54.0 200.1 Tm (Living Goods // Nairobi, Kenya) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 187.1 Tm (Director, Software Engineering | Oct 2019 - Apr 2021) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 175.1 Tm (- Led technology strategy and delivery for direct operations and technical-assistance programmes in) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 164.7 Tm (digital health. - Grew a geographically distributed organisation spanning software engineering, data) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 154.3 Tm (science, QA, design, product and project management. - Worked with C-suite leaders to identify new) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 143.9 Tm (products and processes from programme data and operating needs. - Hired and managed Engineering) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 133.5 Tm (Managers and established the software-delivery lifecycle around agile development and continuous) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 123.1 Tm (delivery.) Tj ET
-0 g
-0 g
-BT /F2 10.2 Tf 1 0 0 1 54.0 105.2 Tm (Kwara // Nairobi, Kenya) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 92.2 Tm (Chief Technology Officer | Oct 2018 - May 2019) Tj ET
-0 g
-endstream
+<<
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+>>
 endobj
 7 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+<<
+/Author (Nii Amon Dsane) /CreationDate (D:20261007090934+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261007090934+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Nii Amon Dsane - Head of Engineering & Data CV) /Trapped /False
+>>
 endobj
 8 0 obj
-<< /Length 3313 >>
+<<
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
+>>
+endobj
+9 0 obj
+<<
+/Length 4532
+>>
 stream
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 793.9 Tm (- Led a 5-person product and engineering team for a core-banking and operations platform serving) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 783.5 Tm (cooperative financial institutions. - Defined architecture and the technical roadmap while remaining) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 773.1 Tm (hands-on in software development. - Partnered with the CEO on product, sales, marketing and people) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 762.7 Tm (decisions.) Tj ET
-0 g
-0 g
-BT /F2 10.2 Tf 1 0 0 1 54.0 744.8 Tm (Radio Africa Group // Nairobi, Kenya) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 731.8 Tm (Group Head of Development | Jun 2016 - Oct 2018) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 719.8 Tm (- Led a 12-person digital-product team and advised the Group CEO and C-level leaders on the) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 709.4 Tm (transition to a digital-first media business. - Architected a music-streaming platform and an) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 699.0 Tm (asynchronous content-ingestion pipeline with configurable processing capacity using Kotlin, Akka,) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 688.6 Tm (message queues and serverless infrastructure. - Designed a billing and payments service integrated) Tj ET
-0 g
-0 g
-BT /F1 8.7 Tf 1 0 0 1 62.0 678.2 Tm (with Safaricom services and mobile money. - Hired and managed engineering leadership.) Tj ET
-0 g
-0 g
-BT /F2 11.5 Tf 1 0 0 1 54.0 659.3 Tm (Earlier product and engineering experience) Tj ET
-0 g
-0.72 G 54 648.7900000000002 m 541.28 648.7900000000002 l S 0 G
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 640.3 Tm (SafariFone, Software Architecture Consultant | 2015 - 2016 - Designed a B2B commerce and Islamic) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 629.3 Tm (trade-finance platform linking distributors and retailers, including mobile payments and) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 618.3 Tm (web/SMS/USSD channels.) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 606.3 Tm (MFieldwork, Software Consultant | 2013 - 2015 - Built web software for a mobile field-data platform) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 595.3 Tm (used by development and humanitarian organisations for monitoring, evaluation and field research.) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 583.3 Tm (GenKey Africa, Lead Software Developer | 2010 - 2012 - Led biometric voter-register adjudication) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 572.3 Tm (software and contributed ABIS systems to Ghana's national biometric voter-registration programme.) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 560.3 Tm (CoreNett, Head of Software Development | 2007 - 2010 - Led architecture and delivery for) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 549.3 Tm (mobile-wallet, cardless-ATM, electronic-payment and voucher products.) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 537.3 Tm (Rancard Solutions, Product Manager, Mobile Platforms | 2006 - 2007 - Managed telco-facing mobile) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 526.3 Tm (products and built the SMS-voting system used for West African Idols across multiple African) Tj ET
-0 g
-0 g
-BT /F2 9.1 Tf 1 0 0 1 54.0 515.3 Tm (countries.) Tj ET
-0 g
-0 g
-BT /F1 8.8 Tf 1 0 0 1 54.0 500.8 Tm (Education: B.Sc. Computer Science \(Cum Laude\), Ashesi University College - 2005) Tj ET
-0 g
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 303.776 34.56 Tm (1) Tj T* ET
+Q
+q
+1 0 0 1 96 678.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 15 Tf 17.5 TL (Nii Amon Dsane) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 659.5 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Product & Technology Executive | Engineering, Data & Platform Leadership) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 630.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.7 Tm /F1 9.3 Tf 11 TL (Nairobi, Kenya \267 jazzyy@gmail.com \267 +254 700 689874 \267) Tj T* (https://www.linkedin.com/in/nii-amon-dsane-69737031a/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 606.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12.2 Tf 14.2 TL (Executive profile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 529.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .120833 Tw (Technology executive and hands-on engineer with 20 years of experience building and leading) Tj T* 0 Tw 3.705 Tw (digital products across fintech, digital health, marketplaces, media and national identity) Tj T* 0 Tw .865 Tw (systems in Africa. Has led Product, Engineering and IT, including distributed teams spanning) Tj T* 0 Tw 1.48 Tw (software engineering, data science, QA, design and product. Combines technology strategy) Tj T* 0 Tw 1.336667 Tw (and organisation leadership with hands-on architecture and software development, including) Tj T* 0 Tw (data pipelines, APIs, multi-channel products and current AI/LLM systems.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 506.1 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12.2 Tf 14.2 TL (Selected impact) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 443.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.8 Tm /F1 9.7 Tf 11.5 TL .552881 Tw (\177 Led Product, Engineering and IT as CTO and an executive-team member at Peach. \177 Built and) Tj T* 0 Tw -0.091367 Tw (led a distributed organisation spanning engineering, data science, QA, design, product and project) Tj T* 0 Tw 1.1727 Tw (management at Living Goods. \177 Architected streaming, data-ingestion and mobile-money billing) Tj T* 0 Tw 2.395875 Tw (systems at Radio Africa. \177 Contributed ABIS and adjudication systems to Ghana's biometric) Tj T* 0 Tw (voter-registration programme, which registered approximately 14M voters using 6,500 kits.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 420.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12.2 Tf 14.2 TL (Core expertise) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 367.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 3.619091 Tw (Technology strategy \267 Engineering and data leadership \267 Product roadmaps \267 Software) Tj T* 0 Tw 1.02 Tw (architecture \267 Data pipelines \267 APIs and systems integration \267 Web, mobile, SMS, USSD and) Tj T* 0 Tw -0.04 Tw (messaging products \267 AI and LLM systems \267 Distributed systems \267 Python \267 Java \267 Ruby / Rails \267) Tj T* 0 Tw (TypeScript \267 Kotlin \267 RabbitMQ / AMQP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 344.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12.2 Tf 14.2 TL (Leadership experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 324.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10.5 Tf 12.5 TL (Peach Tech Ltd // Nairobi, Kenya) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 311.5 cm
+q
+BT 1 0 0 1 0 1.9 Tm 11.7 TL /F2 9.8 Tf 0 0 0 rg (Chief Technology Officer) Tj /F1 9.8 Tf ( | Dec 2023 \226 Mar 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 251 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.8 Tm /F1 9.7 Tf 11.5 TL 2.725677 Tw (\177 Led Product, Engineering and IT as an executive-team member for a managed used-car) Tj T* 0 Tw .07515 Tw (marketplace. \177 Defined product and technology strategy and led functional, user and ethnographic) Tj T* 0 Tw 1.839514 Tw (research for a broader marketplace operating system. \177 Led delivery of a new customer web) Tj T* 0 Tw 4.151573 Tw (application and vehicle intake and assessment tools. \177 Hired and managed Engineering) Tj T* 0 Tw (Managers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 231.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10.5 Tf 12.5 TL (Bridge Technologies Limited // Nairobi, Kenya) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 218.3 cm
+q
+BT 1 0 0 1 0 1.9 Tm 11.7 TL /F2 9.8 Tf 0 0 0 rg (CTO & VP of Engineering) Tj /F1 9.8 Tf ( | Jul 2022 \226 Jan 2023) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 169.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36.3 Tm /F1 9.7 Tf 11.5 TL 3.123373 Tw (\177 Set product, technology and architecture strategy for payments, remittances, wallets and) Tj T* 0 Tw 5.38347 Tw (currency-swap services. \177 Delivered MTN Group/MFS Africa and KCB integrations for) Tj T* 0 Tw -0.010533 Tw (cross-border remittances. \177 Recruited the engineering organisation and led delivery of 2 consumer) Tj T* 0 Tw (apps, a merchant app and APIs spanning payments, remittances, wallets and currency swaps.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+10 0 obj
+<<
+/Length 4957
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 303.776 34.56 Tm (2) Tj T* ET
+Q
+q
+1 0 0 1 96 683.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10.5 Tf 12.5 TL (Living Goods // Nairobi, Kenya) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 670.3 cm
+q
+BT 1 0 0 1 0 1.9 Tm 11.7 TL /F2 9.8 Tf 0 0 0 rg (Director, Software Engineering) Tj /F1 9.8 Tf ( | Oct 2019 \226 Apr 2021) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 609.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.8 Tm /F1 9.7 Tf 11.5 TL .134891 Tw (\177 Led technology strategy and delivery for direct operations and technical-assistance programmes) Tj T* 0 Tw .623418 Tw (in digital health. \177 Grew a geographically distributed organisation spanning software engineering,) Tj T* 0 Tw 1.606446 Tw (data science, QA, design, product and project management. \177 Worked with C-suite leaders to) Tj T* 0 Tw .258642 Tw (identify new products and operational improvements from programme data. \177 Hired and managed) Tj T* 0 Tw (Engineering Managers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 590.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10.5 Tf 12.5 TL (Kwara // Nairobi, Kenya) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 577.1 cm
+q
+BT 1 0 0 1 0 1.9 Tm 11.7 TL /F2 9.8 Tf 0 0 0 rg (Chief Technology Officer) Tj /F1 9.8 Tf ( | Oct 2018 \226 May 2019) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 528.1 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36.3 Tm /F1 9.7 Tf 11.5 TL .651369 Tw (\177 Led a 5-person product and engineering team for a core-banking and daily-operations platform) Tj T* 0 Tw 1.358855 Tw (serving cooperative financial institutions. \177 Defined architecture and the technical roadmap and) Tj T* 0 Tw .404392 Tw (remained active in software development. \177 Partnered with the CEO on product, sales, marketing) Tj T* 0 Tw (and people decisions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 508.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10.5 Tf 12.5 TL (Radio Africa Group // Nairobi, Kenya) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 495.4 cm
+q
+BT 1 0 0 1 0 1.9 Tm 11.7 TL /F2 9.8 Tf 0 0 0 rg (Group Head of Development) Tj /F1 9.8 Tf ( | Jun 2016 \226 Oct 2018) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 434.9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.8 Tm /F1 9.7 Tf 11.5 TL .995847 Tw (\177 Led a 12-person digital-product team and advised the Group CEO and C-level leaders on the) Tj T* 0 Tw 4.597773 Tw (transition to a digital-first media business. \177 Architected a music-streaming service and) Tj T* 0 Tw 2.4573 Tw (asynchronous content-ingestion pipeline using Kotlin, Akka, message queues and serverless) Tj T* 0 Tw 1.753909 Tw (infrastructure. \177 Designed billing and payments services integrated with Safaricom and mobile) Tj T* 0 Tw (money.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 411.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12.2 Tf 14.2 TL (Current and earlier product experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 371.6 cm
+q
+BT 1 0 0 1 0 25.3 Tm -0.0993 Tw 11.7 TL /F2 9.8 Tf 0 0 0 rg (Sellogram, Co-founder) Tj /F1 9.8 Tf ( | 2025 \226 Present \227 Building a work agent for businesses selling through) Tj T* 0 Tw (Instagram, Facebook and WhatsApp, combining language-model interpretation with deterministic) Tj T* (order, payment and delivery workflows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 345.2 cm
+q
+BT 1 0 0 1 0 13.6 Tm 11.7 TL /F2 9.8 Tf 0 0 0 rg (Babygoods, Co-founder) Tj /F1 9.8 Tf ( | 2025 \226 Present \227 Building a marketplace connecting parents who) Tj T* (have safe, clean used baby and child items with buyers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 318.8 cm
+q
+BT 1 0 0 1 0 13.6 Tm 11.7 TL /F2 9.8 Tf 0 0 0 rg (SafariFone, Software Architecture Consultant) Tj /F1 9.8 Tf ( | 2015 \226 2016 \227 Designed a B2B commerce) Tj T* (and Islamic trade-finance platform with mobile payments and web/SMS/USSD channels.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 292.4 cm
+q
+BT 1 0 0 1 0 13.6 Tm 11.7 TL /F2 9.8 Tf 0 0 0 rg (MFieldwork, Software Consultant) Tj /F1 9.8 Tf ( | 2013 \226 2015 \227 Built software for a mobile field-data) Tj T* (platform used by development and humanitarian organisations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 254.3 cm
+q
+BT 1 0 0 1 0 25.3 Tm 11.7 TL /F2 9.8 Tf 0 0 0 rg (GenKey Africa, Lead Software Developer) Tj /F1 9.8 Tf ( | 2010 \226 2012 \227 Led biometric voter-register) Tj T* (adjudication software and contributed ABIS systems to Ghana's national biometric) Tj T* (voter-registration programme.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 227.9 cm
+q
+BT 1 0 0 1 0 13.6 Tm 11.7 TL /F2 9.8 Tf 0 0 0 rg (CoreNett, Head of Software Development) Tj /F1 9.8 Tf ( | 2007 \226 2010 \227 Led architecture and delivery for) Tj T* (mobile-wallet, cardless-ATM, electronic-payment and voucher products.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 201.5 cm
+q
+BT 1 0 0 1 0 13.6 Tm 11.7 TL /F2 9.8 Tf 0 0 0 rg (Rancard Solutions, Product Manager, Mobile Platforms) Tj /F1 9.8 Tf ( | 2006 \226 2007 \227 Managed) Tj T* (telco-facing mobile products and built the SMS-voting system used for West African Idols.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96 186.8 cm
+q
+BT 1 0 0 1 0 1.9 Tm 11.7 TL /F2 9.8 Tf 0 0 0 rg (Education:) Tj /F1 9.8 Tf ( B.Sc. Computer Science \(Cum Laude\), Ashesi University College \227 2005) Tj T* ET
+Q
+Q
+ 
 endstream
 endobj
 xref
-0 9
+0 11
 0000000000 65535 f 
-0000000036 00000 n 
-0000000085 00000 n 
-0000000148 00000 n 
-0000000245 00000 n 
-0000000347 00000 n 
-0000000489 00000 n 
-0000007256 00000 n 
-0000007398 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000514 00000 n 
+0000000708 00000 n 
+0000000776 00000 n 
+0000001090 00000 n 
+0000001155 00000 n 
+0000005738 00000 n 
 trailer
-<< /Size 9 /Root 1 0 R >>
+<<
+/ID 
+[<ce995b44dd4c57a734db939baea7c36e><ce995b44dd4c57a734db939baea7c36e>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
+>>
 startxref
-10763
+10747
 %%EOF
