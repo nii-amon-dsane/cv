@@ -1,35 +1,33 @@
-# Master Profile — Preferences & Criteria
-# Filled via hybrid bootstrap. Edit freely.
-# Last updated: 2026-07-21
+# Master Profile - Preferences & Criteria
+# Last updated: 2026-10-07
 
 # ============================================================
 # TARGET ROLE TYPES
-# Roles you're actively pursuing.
 # ============================================================
 target_roles:
-  - CTO
-  - VP / Head of Engineering
-  - CEO / COO / President
-  - Fractional CTO
+  - Chief Product & Technology Officer (primary)
+  - CTO with meaningful Product ownership
+  - Chief Product Officer where deep technology/platform experience is valuable
+  - VP / Head of Product & Technology
+  - VP / Head of Engineering (selective; only where the mandate is broader than engineering management)
+  - Fractional CTO / technology strategy advisory
   - Advisory / Board
-  - EIR / FIR (Entrepreneur / Founder in Residence)
-  - Founder (new startup)
+
+# ============================================================
+# ROLE SHAPE
+# ============================================================
+role_shape:
+  product_ownership: true
+  technical_depth: "CTO who still architects systems and occasionally codes"
+  notes: "Do not position VP Engineering alone as the primary target; it understates Product leadership scope."
 
 # ============================================================
 # GEOGRAPHIES
-# Where you'll work. Nairobi-only is included as a baseline.
 # ============================================================
 geographies:
-  - Nairobi (on-site / hybrid)
-  - Remote — anywhere
-  - Remote — Africa/Europe timezone overlap
-  - North America (relocation or remote)
-  - Europe (relocation or remote)
-  - APAC (relocation or remote)
-
-# Geographies explicitly NOT in scope (revisit if circumstances change):
-# - Other African cities outside Nairobi (Lagos, Cape Town, Cairo, Accra, etc.)
-# - Middle East (Dubai, UAE, Saudi)
+  - Nairobi (current base; on-site / hybrid)
+  - Global remote
+  - Global relocation
 
 # ============================================================
 # WORK MODE
@@ -38,9 +36,17 @@ work_mode:
   on_site_nairobi: true
   hybrid: true
   remote: true
+  relocation: true
 
 # ============================================================
-# SECTORS — INTERESTED
+# COMPANY ENVIRONMENT
+# ============================================================
+company_environment:
+  stage_preference: "Flexible across startup, scale-up and established organisations"
+  priority: "Culture and how people are treated matter more than company stage"
+
+# ============================================================
+# SECTORS - INTERESTED
 # ============================================================
 sectors_interested:
   - Fintech (payments, lending, banking, remittances, wallets)
@@ -52,18 +58,12 @@ sectors_interested:
   - B2B SaaS / devtools
   - Impact / climate / edtech / govtech
 
-# Sectors with experience but NOT actively targeting:
 sectors_inactive:
   - Telecom (extensive prior experience, not actively seeking more)
 
-# ============================================================
-# SECTORS — REFUSE OUTRIGHT
-# ============================================================
 sectors_refuse:
   - Crypto / web3 (pure-play exchanges, DeFi, NFT platforms)
   - Gambling / betting / lottery
-
-# All other sectors: open to consider case-by-case.
 
 # ============================================================
 # COMPANY STAGE
@@ -76,51 +76,38 @@ company_stage:
   - Public
   - Non-profit / NGO
 
-# Stage NOT targeting:
-# - Pre-seed (idea stage, <10 people, pre-PMF)
-
 # ============================================================
 # COMPENSATION
-# Private — fill in directly. Agent NEVER echoes these in artifacts.
+# Private - agent NEVER echoes these in public artifacts.
 # ============================================================
 compensation:
-  # Fill in your actual numbers below. These are private.
-  # The agent will read them to filter applications but will NEVER
-  # include them in CVs, cover letters, emails, or other artifacts.
-  floor_base_usd: 5000       # minimum base salary you'd accept (USD equivalent)
-  target_base_usd: 15000      # what you'd actually want
-  floor_equity_pct: 1     # minimum equity for early-stage roles
-  target_equity_pct: 10    # what you'd actually want
-  floor_cash_comp_usd: 20000  # floor on total cash (base + bonus)
-  currency_assumption: "USD-equivalent; convert local currency at market rate"  # e.g., "USD-equivalent; convert local currency at market rate"
-  relocation_budget_usd: # if relevant
-  notes:                 # any comp-specific preferences ("no below-market cash for high-equity", etc.)
+  floor_base_usd: 5000
+  target_base_usd: 15000
+  floor_equity_pct: 1
+  target_equity_pct: 10
+  floor_cash_comp_usd: 20000
+  currency_assumption: "USD-equivalent; convert local currency at market rate"
+  relocation_budget_usd:
+  notes:
 
 # ============================================================
-# HARD RED LINES — refuse to consider opportunities where:
+# HARD RED LINES
 # ============================================================
 red_lines:
   - "Pure-play crypto / web3 / gambling sectors"
-  - "On-site roles outside Nairobi without strong relocation package"
   - "Roles with no budget for the engineering org"
-  # Add more as you identify them:
-  # - "Founders with no technical co-founder for an engineering-leader role (sign of misaligned expectations)"
-  # - "Companies without product-market-fit hiring a senior engineering leader"
-  # - "Compensation below the floor above (fill in floor first)"
 
 # Do not include these companies or projects in public career material until
 # the user removes them from this list.
 application_exclusions:
-  - "Sellogram"
+  - "Man & Robot Digital / Arka OS"
 
 # ============================================================
-# NICE-TO-HAVES (boost desirability but not required)
+# NICE-TO-HAVES
 # ============================================================
 nice_to_haves:
-  - "Founder-led company (you work directly with founders)"
-  - "AI-native product (LLMs/agents at the core)"
+  - "Healthy culture and strong treatment of people"
+  - "Founder-led company where senior leaders work directly with founders"
+  - "AI-native product where LLMs/agents are useful rather than decorative"
   - "Cross-border or multi-country scope"
-  - "Strong technical CEO who values engineering"
-  - "Mission-driven (impact alongside commercial)"
-  - "Modern stack (Ruby/Kotlin/Elixir/TypeScript preferred over .NET/PHP/Perl)"
-  - "Engineering culture investment (conference budgets, learning time, OSS contribution encouraged)"
+  - "Engineering culture investment"

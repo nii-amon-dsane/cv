@@ -1,13 +1,14 @@
 # Job Application Tracker
 
-_Last regenerated: 2026-10-06_
+_Last regenerated: 2026-10-07_
 
-**Summary:** 4 active · 0 offers · 0 closed · 4 total
+**Summary:** 5 active · 0 offers · 0 closed · 5 total
 
 ## Active
 
 | Company | Role | Status | Source | Fit | Submitted | Next follow-up | Dir |
 |---------|------|--------|--------|-----|-----------|----------------|-----|
+| Talent Safari | Executive recruiter outreach - CPTO / CTO | preparing | recruiter_cold | — | — | — | `talent-safari__executive-recruiter-outreach__2026-10-07` |
 | Moniepoint Group | Head of Engineering, Rewards | preparing | portal | 77 | — | — | `moniepoint-group__head-of-engineering-rewards__2026-10-06` |
 | Moniepoint Group | Head of Engineering, Sales & Marketing Tools | preparing | portal | 79 | — | — | `moniepoint-group__head-of-engineering-sales-marketing-tools__2026-10-06` |
 | Moniepoint Group | Head of Engineering, Field Verification | submitted | portal | 80 | 2026-10-06 | 2026-10-13 | `moniepoint-group__head-of-engineering-field-verification__2026-10-06` |
@@ -25,6 +26,7 @@ _No applications yet._
 
 | Company | Role | Status | Source | Fit | Submitted | Next follow-up | Dir |
 |---------|------|--------|--------|-----|-----------|----------------|-----|
+| Talent Safari | Executive recruiter outreach - CPTO / CTO | preparing | recruiter_cold | — | — | — | `talent-safari__executive-recruiter-outreach__2026-10-07` |
 | Moniepoint Group | Head of Engineering, Rewards | preparing | portal | 77 | — | — | `moniepoint-group__head-of-engineering-rewards__2026-10-06` |
 | Moniepoint Group | Head of Engineering, Sales & Marketing Tools | preparing | portal | 79 | — | — | `moniepoint-group__head-of-engineering-sales-marketing-tools__2026-10-06` |
 | Moniepoint Group | Head of Engineering, Field Verification | submitted | portal | 80 | 2026-10-06 | 2026-10-13 | `moniepoint-group__head-of-engineering-field-verification__2026-10-06` |

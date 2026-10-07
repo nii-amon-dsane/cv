@@ -81,8 +81,8 @@ Independent product and technology work spanning venture building, product strat
 Led Product, Engineering and IT for a managed used-car marketplace as a member of the executive team.
 
 - Defined product and technology strategy and led research into the operating model behind the marketplace.
-- Led product design and delivery of a marketplace operating system spanning vehicle intake, assessment, listings, yard operations, internal systems of record and customer-facing workflows.
-- Delivered a new customer web application and the first core components of the operating platform.
+- Led functional, user and ethnographic research and product design for a broader marketplace operating system.
+- Led delivery of a new customer web application and vehicle intake and assessment tools as the first delivered components of that work.
 - Built the engineering leadership structure, including hiring and managing Engineering Managers, while aligning Product, Engineering and IT around a common roadmap.
 
 **Skills:** Product Strategy · Product Management · Engineering Management · Marketplace · Software Architecture · E-Commerce
@@ -247,7 +247,7 @@ The work formed part of a broader payments platform covering remittances, wallet
 
 Led the research, product design and delivery of the operating system behind Peach's managed used-car marketplace.
 
-The first delivered components included a new customer web application, vehicle intake and assessment systems, internal systems of record and tools supporting listings, yard management and marketplace operations.
+The delivered components included a new customer web application and tools for vehicle intake and assessment. The broader unified system of record was not delivered.
 
 Led Product, Engineering and IT as CTO and a member of the executive team.
 

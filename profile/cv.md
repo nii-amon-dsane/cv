@@ -1,132 +1,127 @@
 # Nii Amon Dsane
 
-**Product & Technology Executive | CTO / VP Engineering | Product and Organisation Leader**
+**Chief Product & Technology Officer | CTO | Product & Engineering Executive**
 
 - Location: Nairobi, Kenya
+- Geography: Open to global roles and relocation
 - Email: jazzyy@gmail.com
 - Phone: +254 700 689874
 - LinkedIn: https://www.linkedin.com/in/nii-amon-dsane-69737031a/
 
 ## Summary
 
-- Product and technology executive with multi-national experience across fintech, banking, marketplaces, media and digital health
-- Leads product and technology strategy, execution and organisation design with founders, executive teams and operating leaders
-- Brings executive leadership, product development, technical architecture and hands-on engineering experience to new ventures and scale-ups
-- Has spent the past two years making language models a core part of professional delivery across research, product definition, architecture, implementation and operational workflows
+- Product and technology executive with 20 years of experience building digital products, platforms and technology organisations across fintech, marketplaces, digital identity, digital health, media and social commerce
+- Leads Product and Engineering strategy, execution and organisation design with founders, executive teams and operating leaders
+- Remains technically hands-on in system architecture and software development and is comfortable moving between executive decisions and implementation detail
+- Open to company stages from startups through established organisations; culture and how people are treated matter more than stage
 
 ## Capabilities
 
-### Technology and engineering leadership
-Technology and engineering strategy formulation and execution, collaborating with functional leaders at C-level to deliver key initiatives, recruiting and developing technology and engineering leaders and building high performance teams, product roadmapping and competitive analysis.
+### Product and technology leadership
+Product strategy and roadmaps, product and engineering leadership, organisation design, executive-team collaboration, recruiting and managing Engineering Managers, new-product delivery and operating-model design.
 
-### Language-model product delivery
-Uses language models where products need interpretation or generation and conventional software where rules, reliability and cost control matter. Applies LLMs, RAG, DSPy and LangGraph to research, product context, language understanding and structured workflows.
+### Software architecture and hands-on engineering
+Architecture and implementation of distributed systems, workflow-heavy products, marketplace platforms, payments and integration systems. Remains hands-on enough to design systems and occasionally code.
 
-### Enterprise and integration architectures
-Using open source middleware and enterprise integration patterns. Experienced with architecture, documenting and implementing large-scale, multi-partner integration projects in Fintech, healthcare, media, government, telecoms sectors.
+### AI and language-model product delivery
+Uses language models where products need interpretation or generation and conventional software where rules, transactions, workflow state and reliability matter. Current work includes LLMs, RAG, DSPy, LangGraph and agent workflows.
+
+### Enterprise and integration architecture
+Architecture and implementation of large-scale multi-partner integrations across fintech, healthcare, media, government and telecoms using open-source middleware and enterprise integration patterns.
 
 ### Languages, technologies and frameworks
-Kotlin, Java, Ruby, TypeScript, Python, Erlang/OTP, Elixir, Spring Boot, node.js, Ruby on Rails, Phoenix, Kotlin Coroutines, AMQP & message queues (RabbitMQ) within large scale systems handling complex task processing workflows, open source tools and integration, OTP (Erlang). Java: 10+ years of production use from Rancard through Radio Africa and consulting work.
+Java, Ruby, Python, TypeScript, Kotlin, Go, Erlang/OTP, Elixir, Spring Boot, Node.js, Ruby on Rails, Phoenix, RabbitMQ / AMQP and distributed task-processing systems. More than 10 years of production Java experience across Rancard, consulting work and Radio Africa.
 
-## Work Experience
+## Work experience
+
+### Sellogram // Nairobi, Kenya
+**Co-founder** | Jul 2025 - Present
+
+- Building a work agent for businesses selling through Instagram, Facebook and WhatsApp, covering product discovery, customer conversations, orders, payments and delivery workflows
+- Current product work combines LLM-based interpretation and conversational workflows with deterministic transaction and workflow systems
+
+### Babygoods // Nairobi, Kenya
+**Co-founder** | Jan 2025 - Present
+
+- Building a marketplace connecting parents who have safe, clean used baby and child items with buyers
 
 ### Peach Tech Ltd // Nairobi, Kenya
-**CTO** | Dec 2023 – Mar 2025
+**Chief Technology Officer** | Dec 2023 - Mar 2025
 
-- Peach Tech Ltd operates the #1 managed, closed-loop used car marketplace in Kenya
-- In charge of the Technology Group within the org, comprising Product, Engineering and IT
-- Executive Team member responsible for defining and delivering on technology and product strategy
-- Researched, designed and led delivery of an improved web app and internal process-automation tools for vehicle intake and assessment. These were the first delivered components of the marketplace operating system
+- Led the Technology Group across Product, Engineering and IT as an executive-team member
+- Defined technology and product strategy and led functional, user and ethnographic research and product design for a broader marketplace operating system
+- Led delivery of a new customer web application and process-automation tools for vehicle intake and assessment; these were the first delivered components of the broader operating-system work
 - Hired and managed Engineering Managers as part of leading Product, Engineering and IT
 
 ### Bridge Technologies Limited // Nairobi, Kenya
-**CTO & VP of Engineering** | Jul 2022 – Jan 2023
+**CTO & VP of Engineering** | Jul 2022 - Jan 2023
 
-- In partnership with the company's founders, identified opportunities and risks for delivering the company's services as an API-driven, consumer-first business, including identification of competitive services, opportunities for innovation, and assessment of marketplace obstacles and technical hurdles to business success
-- Lead strategic planning to achieve business goals by identifying and prioritizing development initiatives and setting timetables for the evaluation, development, and deployment of all API, mobile and web-based services
-- Evaluated and identified appropriate technology platforms (including mobile and web application frameworks and the deployment stack) for delivering the company's services
-- Participated as a member of the senior management team in establishing governance processes of direction and control
-- Direct development and execution of an enterprise-wide information security plan
-
-#### Initiatives and outcomes
-
-- Delivered a partner integration initiative for a network-wide cross-border remittance product for MTN Group in collaboration with MFS Africa. This product enables any MTN user to send money to MTN users in other op-cos. The product would be launched to 70M MTN subscribers in Nigeria
-- Delivered an integration with KCB to enable outbound remittances to Nigeria
-- Evaluated existing Brij products, identified engineering gaps, recruited a team and led delivery of two consumer apps (Brij Send and Brij Mobile), a merchant app (Brij Merchant Portal) and APIs for payments, cross-border remittances, wallets and currency swaps
-- Created and documented an architecture using microservices and open source middleware and APIs to power the product, services and market strategy
-- Identified key human resource gaps in the engineering organisation, created an org structure and hired and managed Engineering Managers and engineers
-- Created a product roadmap outlining product and service evolution over time
+- Partnered with founders on product and technology strategy for an API-driven consumer fintech business spanning payments, remittances, wallets and currency swaps
+- Delivered a cross-border remittance integration for MTN Group in collaboration with MFS Africa, with a planned Nigerian launch giving potential reach to approximately 70M MTN subscribers
+- Delivered a KCB integration enabling outbound remittances to Nigeria
+- Assessed existing products, recruited the engineering organisation and led delivery of two consumer applications, a merchant application and APIs spanning payments, cross-border remittances, wallets and currency swaps
+- Designed the service and integration architecture and created the product roadmap and engineering structure
 
 ### Living Goods // Nairobi, Kenya
-**Director, Software Engineering** | Oct 2019 – Apr 2021
+**Director, Software Engineering** | Oct 2019 - Apr 2021
 
-- Responsible for tech strategy execution and monitoring towards improving technology offerings for direct operations and technical assistance programmes
-- Worked with C-Suite to discover new products and processes driven by analysis of the data collected from direct and technical assistance programs
-- Grew an effective, geographically-dispersed team of software engineers, data scientists, QA engineers, designers, product and project managers and contractors
-- Hired and managed engineering managers within the delivery organisation
-- Led delivery of systems for direct operations and technical-assistance programmes
-- Defined the software delivery life cycle with a focus on agile methodologies, continuous delivery and improvement
+- Led technology strategy execution and delivery for direct operations and technical-assistance programmes in digital health
+- Worked with C-suite leaders to identify new products and processes from programme data and operational needs
+- Grew a geographically distributed organisation spanning software engineering, data science, QA, design, product and project management
+- Hired and managed Engineering Managers and defined the software delivery lifecycle around agile development, continuous delivery and improvement
 
-### Kwaduara Limited // Nairobi, Kenya
-**CTO** | Oct 2018 – May 2019
+### Kwara (Kwaduara Limited) // Nairobi, Kenya
+**Chief Technology Officer** | Oct 2018 - May 2019
 
-- Kwara serves the cooperative financial institutions (CFI) industry and provides a core banking and daily operational platform for front-office and back-office operations as well as an experience platform for members of CFIs
-- Led a team of 5 developers and designers
-- Delivered technical objectives by managing and mentoring the technical team, providing architectural guidance, setting and managing performance targets, and taking part in software development
-- Provided support to the CEO in matters pertaining to marketing, sales, people and performance management
-- Organized technical operations and cultivated a positive culture
+- Led a five-person product and engineering team for a core-banking and daily-operations platform serving cooperative financial institutions
+- Defined architecture and the technical roadmap, managed and mentored the team and remained active in software development
+- Supported the CEO on product, sales, marketing and people decisions
 
-### Radio Africa Limited // Nairobi, Kenya
-**Group Head of Development** | Jun 2016 – Oct 2018
+### Radio Africa Group // Nairobi, Kenya
+**Group Head of Development** | Jun 2016 - Oct 2018
 
-- Led a team of 12 developers, designers and web administrators
-- Hired and managed engineering managers within the digital-product organisation
-- The team served as a shared services unit within the group providing software development, change management and production management services for new and existing digital products
-- Delivered digital products for all parts of the group as part of group-wide efforts at transitioning to a digital-first media business
-- Provided advisory services to the Group CEO and C-level executives on digital product development and the move to a digital-first media business
-- Organized operations, cultivated culture and provided direction to digital innovation and development group
-- Provided high-level technical direction and architecture of digital product development within the group
+- Led a 12-person team of developers, designers and web administrators delivering digital products across the group
+- Advised the Group CEO and C-level executives on digital-product development and the transition to a digital-first media business
+- Architected and helped build a music-streaming service using microservices, Kotlin, Akka, message queues and serverless infrastructure
+- Designed the content-ingestion pipeline and a billing and payments service integrated with Safaricom services and mobile money
+- Hired and managed engineering leadership and established regular technical training
 
-#### Deliverables
+### SafariFone Ltd // Djibouti
+**Software Architecture Consultant** | 2015 - 2016
 
-- Architecture and development of a music streaming service powered by micro-services orchestrated via message queues using technologies such as serverless computing, Akka, Spark and Kotlin
-- Design of a content ingestion pipeline for music streaming service with built-in and configurable scaling via Akka
-- Design and buildout of a payment and billing service on top of Killbill which interfaces with Safaricom SDP and mobile money for powering payments within music streaming service
-- Organized and facilitates weekly technical training session to improve technical capabilities of team
+- Designed the architecture for a B2B commerce and trade-finance platform connecting distributors importing goods into Djibouti with retailers purchasing from them
+- Designed financing workflows using Islamic-finance structures including Murabaha and scheduled repayments
+- Designed web, SMS and USSD channels integrated with the group's mobile-money and telecommunications infrastructure and built parts of the platform in Go and JavaScript
 
-### Consulting // Djibouti, Ghana and Kenya
-**Consultant** | Sep 2013 – May 2016
+### MFieldwork Ltd // Ghana / Kenya
+**Software Consultant** | 2013 - 2015
 
-- **MFieldwork Ltd**: Built Seam Framework front-end for mfieldwork.com. MFieldwork is a data gathering tool for NGOs and organizations such as the UNHCR, DANIDA, CIDA, etc. useful for gathering field data using mobile devices for transfer to a server backend for data analysis and visualization in the context of project Monitoring and Evaluation
-- **SafariFone Ltd**: Design and implementation of e-commerce platform powering trade finance for SafariFone's trading customers in accordance with Islamic banking guidelines on lending and interest
+- Built web software for a mobile field-data platform used by development and humanitarian organisations for monitoring, evaluation and field research
+- Worked on workflows moving field data from mobile collection into backend systems for analysis and visualisation
 
-### Genkey Africa Ltd // Accra, Ghana
-**Lead Software Developer** | Sep 2010 – Sep 2012
+### GenKey Africa Ltd // Accra, Ghana
+**Lead Software Developer** | Sep 2010 - Sep 2012
 
-- Lead Developer in a biometrics security startup providing services for national and regional governments as well as identification authorities and other parastatals in Africa and India
-- Product development of Genkey Biometric Voter Register Adjudication Client including process model definition, interface development, management of product development process
-- Ghana Electoral Commission's Biometric Voter Registration project: Genkey ABIS software development, demos and meetings with Ghana Electoral Commission, training key trainers of biometric registration kit
-- Member of bidding team for biometric registration and AFIS client interaction for Kenya IEBC biometric voter registration project
-- Worked with Junior Developers to implement and test new features, fix bugs and provide second-tier support
+- Led software-development work on GenKey's Biometric Voter Register Adjudication Client, including process modelling, interface development and product delivery
+- Contributed ABIS software and related systems to Ghana's 2012 biometric voter-registration programme, which registered approximately 14M voters using 6,500 registration kits
+- Worked directly with the Electoral Commission on demonstrations, technical discussions and delivery and trained key trainers supporting biometric registration
+- Participated in the bid team for Kenya's IEBC biometric voter-registration programme
 
 ### CoreNett Ltd // Accra, Ghana
-**Head of Software Development** | Mar 2007 – Sep 2010
+**Head of Software Development** | Mar 2007 - Sep 2010
 
-- Responsible for producing software architecture and managing development of software products with deliverables including:
-  - Magnetic card-based electronic payment solution / extensible electronic voucher dispensing system using Ruby on Rails and C
-  - Cardless ATM service using IFX and Java technologies
-  - Mobile wallet product modeled after Mpesa with money transfer, cardless ATM cash withdrawal, agent functions, mobile commerce and ATM functions such as ticket purchase and topup
+- Led architecture and product development across a portfolio of electronic-payment, voucher, cardless-ATM and mobile-wallet systems
+- Designed a mobile wallet supporting transfers, agent transactions, mobile commerce and cardless ATM withdrawals
+- Built a Java and IFX-based cardless-ATM service and an extensible electronic-payment and voucher platform using Ruby on Rails and C
 
 ### Rancard Solutions Ltd // Accra, Ghana
-**Product Manager, Mobile Platforms** | Jan 2006 – Mar 2007
+**Product Manager, Mobile Platforms** | Jan 2006 - Mar 2007
 
-- Started as an intern while in university, joined as Solutions Analyst after graduation and moved into Technical Product Management for telco-facing products and services
-- Design and implementation of messaging system for West African Idols show powering SMS voting from various African countries for the show
-- Providing support for live messaging systems
+- Started as an intern while at university, joined full-time as a Solutions Analyst after graduation and moved into technical product management for telco-facing mobile products
+- Designed and implemented the messaging platform used for SMS voting for West African Idols across multiple African countries
+- Supported live messaging platforms operating across mobile-network integrations
 
 ## Education
 
-**Ashesi University College // Accra, Ghana**
-B.Sc. Computer Science (Cum Laude) — Dec 2005
-
-References available on request.
+**Ashesi University College // Accra, Ghana**  
+B.Sc. Computer Science, Cum Laude - Dec 2005
