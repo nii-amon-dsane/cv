@@ -1,0 +1,88 @@
+# OpenFn — Managing Director, Services
+
+Type: Full-time contractor (hours negotiable)
+Location: Remote - Africa/Europe time zones (strong preference for candidates based in Africa)
+Reports to: CEO
+Direct reports: Head of Implementation, Implementation Engineering Director, and Senior Advisors on the Services Team
+
+OpenFn is the digital public good for public service automation & AI orchestration. Our platform automates data exchange and digital workflows so that governments and NGOs can deliver public services more efficiently, achieve interoperability across fragmented systems, and scale critical public services across health, humanitarian, and government programs.
+
+Our team, Open Function Group, the primary steward of this open-source platform, is a lean, fully-remote team of integration specialists, solution architects, and implementation consultants working across 40+ countries.
+
+We are not making marginal improvements to already comfortable lives. We are building the infrastructure that allows governments to function, clinics to operate, and vulnerable populations to access services they depend on. The solutions you design will shape whether a ministry can reach its citizens, whether a health system can act on its own data, and whether a government can adopt AI on its own terms rather than someone else's.
+
+## The role
+
+This is a chance to influence how governments approach AI adoption, public service automation, and digital transformation, not from the outside, but embedded in the delivery of real programs. This year we have 8 government implementations across Africa and Latin America, with global adoption accelerating, and we're at an inflection point in scaling that critical work. At the same time, we're trying to solve something few digital public goods have solved: how to be both deeply impactful and financially sustainable, borrowing hard-won lessons from enterprise software and open source companies and adapting them to markets those playbooks weren't built for. This role sits squarely at that intersection, owning both the impact and financial sustainability of what we deliver, because we believe the two are meant to reinforce each other, not compete.
+
+We are hiring a Managing Director, Services to own the full portfolio of delivery work at OpenFn, from project-based implementations to the management and delivery of capacity building "expert days" on retainer for subscribing governments and iNGOs. This role is primarily about team leadership and enablement, business strategy, sales support and scoping, and technical/implementation strategy consulting for government clients and external partners, including both large consulting firms and small local implementers.
+
+OpenFn's Services organization has historically operated like a traditional IT consulting practice: the same people won new business, scoped it, and delivered it. As we sell more subscription bundles and shift toward recurring, subscription-shaped revenue for our consulting, support, and expert-days work, that model is changing. Sales and account management responsibilities are moving into our Growth organization, and Services is becoming a focused delivery and technical authority function: accountable for scoping accuracy, delivery quality, and SLA performance, not for owning the entire end-to-end sales relationship.
+
+You will be a central architect of that transition: helping design, validate, and then operationalize OpenFn's new subscription-centered delivery model. You'll be part of the core strategy team, interfacing regularly with the Head of Product, Head of Growth, CEO and COO, while working closely with our Head of Implementation (who owns day-to-day portfolio execution and financial governance), our Growth organization's BD Leads and Partner Managers (who own new pipeline and deal-closing), and our Implementation Engineering Director (who owns technical architecture and quality across the delivery portfolio).
+
+Think of this as the role that holds Services accountable for what it delivers, while giving the team the leadership, scoping discipline, and strategic clarity to thrive as the business model shifts underneath it.
+
+## What You'll Be Doing
+
+### Team Leadership & Enablement
+- Lead and develop the Services leadership team, including the Head of Implementation, Director of Engineering, and senior engagement/consulting leads, ensuring they have the strategy, tools, and support to deliver high-quality, profitable work
+- Own hiring, performance management, and career development for the Services leadership bench
+- Maintain the operating rhythm (OKRs, review cadences, portfolio check-ins) that keeps Services focused on financial sustainability and delivery quality
+- Champion adoption of the Implementation Playbook, productization efforts, and AI tooling across the wider team, so delivery knowledge stops living in individual people's heads
+- Partner closely with the Head of Product to support strategic alignment and a continuous feedback loop between service delivery and the OpenFn platform
+
+### Sales Support, Scoping & Deal Negotiation
+- Partner closely with the Growth team during pre-sale to scope engagements accurately, size Expert Days allocations within subscription bundles, and structure pricing that protects target margins
+- Serve as the senior technical and delivery voice in deal negotiations, providing the delivery sign-off on scope, timeline, and resourcing that's required before any contract is signed
+- Advise Growth on what is realistically deliverable, flagging over-commitment risk before it reaches a client
+- Support RFP responses and proposal development for complex government and NGO engagements
+
+### Technical & Implementation Strategy Consulting
+- Serve as a trusted technical and strategic advisor to government ministries, NGOs, and implementation partners, including both large consulting firms and small local providers, on how to structure successful OpenFn-based programs
+- Advise ministry and NGO leadership on broader digital transformation and AI adoption strategy, not just OpenFn-specific implementation choices
+- Represent OpenFn in high-stakes client conversations, escalations, and strategic account relationships
+- Travel to conferences and partner workshops to represent OpenFn and provide expert strategic and technical advisory
+- Provide implementation strategy guidance that balances client needs, platform capabilities, and OpenFn's delivery capacity
+
+### Delivery Portfolio Oversight
+- Own the delivery-side financial accountability for the Services portfolio, translating booked revenue into profitable, efficient execution: gross margin, operating costs, and delivery efficiency against target
+- Oversee delivery of both traditional implementation projects and the expert-days component of subscription bundles, ensuring consistent quality and SLA adherence across both
+- Partner with the Head of Implementation on portfolio-level financial governance (dashboards, margin monitoring, invoicing discipline), while she owns day-to-day operational execution of these systems
+
+### Subscription Operating Model Design & Transition
+- Play a leading role in designing, validating, and operationalizing OpenFn's shift from a traditional IT-consulting delivery model to a subscription-shaped delivery and revenue model
+- Participate in OpenFn's Global Strategy Team to design, validate, and iterate on our business model, including drawing on how established enterprise software and open source companies structure recurring-revenue delivery, and adapt those lessons to the realities of LMIC government and NGO markets
+- Help define how Services engages with the emerging "front door" structure: the division of labor between Growth (lead generation, pre-sale, partnerships) and Services (scoping input, SLA delivery, Expert Days, training, and implementation-partner enablement)
+- Provide input into pricing, scoping frameworks, and delivery playbooks specific to bundled subscriptions as they're piloted and rolled out
+- Identify and flag structural or operational gaps as the model evolves, and adapt team processes accordingly
+
+## Requirements
+- 12+ years experience in technical or professional services delivery in B2B/B2G
+- 5+ years at a public-sector-facing technology organization
+- 3+ years leading a technical or professional services delivery team at a B2B or public-sector-facing technology organization
+- Demonstrated experience delivering large, national-scale technology implementations for government partners (e.g., national registries, health information systems, social protection platforms) is a strong advantage
+- Demonstrated experience owning portfolio-level financial accountability (gross margin, operating costs, and delivery efficiency against target)
+- Strong financial fluency: comfortable owning financial targets, and translating them into team-level operating discipline
+- Proven experience managing and developing a team of managers or technical delivery leads, not just individual contributors
+- Experience scoping and negotiating complex, multi-stakeholder deals, ideally with government, NGO, or large enterprise clients
+- Willingness to travel internationally (at least once per quarter) for conferences, partner meetings, and government workshops
+- Working knowledge of the operational differences between project-based (services) and subscription-based (recurring) revenue models, and how delivery needs to adapt between them
+- Demonstrated experience being the senior technical/delivery voice in commercial negotiations and public sector contracts
+- Experience working with or managing external implementation partners (systems integrators, consulting firms, or similar)
+- Excellent written and verbal English communication, including facilitating strategic conversations with government and NGO stakeholders
+- Working proficiency in French or Spanish is a strong advantage
+- Background in international development, digital public goods, govtech, or global health is a strong advantage
+- Proven ability to operate effectively in a lean, fully-remote, distributed organization
+- Ability to work from home or a shared office space with fast, stable internet, preferably in a country that is located in Africa/Europe time zones
+
+## Benefits
+Financial compensation is commensurate with experience.
+
+Selling to NGO & government customers, OpenFn notes that it does not offer Silicon Valley pay, but says quality of life and fair, transparent, competitive compensation are important.
+
+Flexible working schedule.
+
+Fully remote, with team meetups across Europe and Africa.
+
+Opportunity for leadership and advancement and to shape company strategy and impact through open source software.

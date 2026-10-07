@@ -1,0 +1,34 @@
+{
+  "company": "OpenFn",
+  "role": "Managing Director, Services",
+  "date_created": "2026-10-07",
+  "source": "portal",
+  "recruiter": {
+    "name": null,
+    "linkedin": null
+  },
+  "status": "preparing",
+  "ats_optimize": true,
+  "fit_score": 89,
+  "fit_breakdown": {
+    "must_haves_met": 12,
+    "must_haves_missed": 2,
+    "nice_to_haves_met": 2,
+    "seniority_match": "exact",
+    "domain_match": "exact",
+    "stage_match": "strong"
+  },
+  "gaps": [
+    "Commercial price and contract negotiation were owned by other leaders; Nii owned technical feasibility, scope, architecture, timeline and resourcing.",
+    "No documented direct transition of a project-services portfolio into subscription-shaped recurring services.",
+    "French or Spanish proficiency is not documented."
+  ],
+  "angle_confirmed": true,
+  "linkedin_type": "connection_note_and_dm",
+  "key_dates": {
+    "submitted": null,
+    "last_contact": null,
+    "next_follow_up": null
+  },
+  "notes": "Lead with GenKey national government implementation, Living Goods digital-health delivery, Radio Africa shared services, Bridge/Peach financial accountability and multi-partner integrations, and management of managers. Commercial negotiations were handled by other leaders; do not claim ownership."
+}
