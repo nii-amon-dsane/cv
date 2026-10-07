@@ -19,7 +19,7 @@
 
 ### Score reasoning
 
-The domain fit is unusually strong: national-scale government identity systems at GenKey, digital health and technical-assistance delivery at Living Goods, NGO field-data systems at MFieldwork, integration-heavy work across multiple sectors and long-running leadership of managers. Nairobi and the Africa/Europe time-zone preference align exactly.
+The domain fit is unusually strong: national-scale government identity systems at GenKey; regional and national-scale digital-health delivery at Living Goods across Kenya, Uganda and other engagements; NGO field-data systems at MFieldwork; integration-heavy work across multiple sectors; and long-running leadership of managers. During Nii's Living Goods tenure, the organisation supported more than 10,000 CHWs serving more than 8 million people across Kenya and Uganda, while supporting Kenya's national eCHIS strategy and prototype work. Nairobi and the Africa/Europe time-zone preference align exactly.
 
 Direct financial accountability at both Peach and Bridge closes the largest initial gap. Nii owned budgets, delivery costs and financial targets for the functions/portfolio he led. The remaining material gaps are narrower: commercial price/contract negotiation was owned by other leaders, and the career evidence does not show a direct transition of a professional-services portfolio from project work into subscription-shaped recurring services.
 
@@ -46,7 +46,7 @@ Direct financial accountability at both Peach and Bridge closes the largest init
 ## 3. Recommended angle
 
 - **Strengths to lead with:**
-  1. National-scale government and public-service technology: Ghana biometric voter registration plus digital-health and NGO delivery.
+  1. National-scale government and public-service technology: Ghana biometric voter registration plus Living Goods' regional and national-scale digital-health work in Kenya and Uganda, including Kenya's national eCHIS programme context.
   2. Leadership of managers and multi-disciplinary delivery organisations, including a 12-person shared-services team and distributed engineering/data/product/QA teams.
   3. Financially accountable technical leadership: direct budget, delivery-cost and financial-target responsibility at Peach and Bridge, combined with integration architecture and executive strategy.
 - **Narrative theme:** **Org Scaler + Strategic Tech Partner to CEO**. Use **AI-Enabled Professional Delivery** as supporting evidence.
@@ -55,7 +55,7 @@ Direct financial accountability at both Peach and Bridge closes the largest init
 - **Roles to compress:** Kwara, CoreNett, Rancard except where needed to establish career depth.
 - **Headline framing:** Technical-services and product executive for government, health and integration-heavy systems.
 
-The application should not lead with marketplaces or fintech. OpenFn's strongest match is the thread running through GenKey, Living Goods, MFieldwork, shared-services leadership and multi-partner integration work.
+The application should not lead with marketplaces or fintech. OpenFn's strongest match is the thread running through GenKey, Living Goods' government-facing digital-health delivery in Kenya and Uganda, MFieldwork, shared-services leadership and multi-partner integration work.
 
 ## 4. Risk flags
 

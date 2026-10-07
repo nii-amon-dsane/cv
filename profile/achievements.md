@@ -65,6 +65,12 @@ Mark uncertain metrics with `[estimated]`. The agent will flag `[estimated — v
 - Source: `profile/cv.md`
 - Verifiable: partially
 
+### Led regional and national-scale digital health delivery @ Living Goods | Oct 2019 – Apr 2021
+- Metric: During Nii's tenure, Living Goods supported more than 10,000 CHWs serving more than 8 million people across Kenya and Uganda; Uganda operations reached 4,300+ CHWs across 20 districts; Kenya's national eCHIS strategy targeted all approximately 95,000-100,000 CHWs across 47 counties.
+- Context: Nii led software engineering and technology teams delivering digital community-health systems and supporting direct operations, government partnerships and technical-assistance engagements across Kenya, Uganda and other Living Goods programmes. In Kenya, Living Goods supported the Ministry of Health's national community-health digitization strategy and eCHIS work, with Smart Health selected as the reference tool for the national prototype.
+- Source: user-confirmed on 2026-10-07; https://livinggoods.org/media/living-goods-and-brac-respond-to-surging-need-for-critical-frontline-care-for-families-in-uganda/ ; https://livinggoods.org/media/living-goods-uganda-appoints-a-new-country-director/ ; https://livinggoods.org/media/kenyas-new-5-year-plans-to-strengthen-and-digitize-its-community-health-system/ ; https://livinggoods.org/media/smart-health-chosen-for-echis-prototyping-phase/
+- Verifiable: partially — personal leadership scope is user-confirmed; programme scale and government-system context are publicly documented.
+
 ### Led a 12-person digital-product team @ Radio Africa | Jun 2016 – Oct 2018
 - Metric: 12 developers, designers and web administrators
 - Context: Led shared development services for group-wide digital products and advised executive leaders on digital transformation.

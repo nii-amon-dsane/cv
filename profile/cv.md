@@ -65,7 +65,10 @@ Java, Ruby, Python, TypeScript, Kotlin, Go, Erlang/OTP, Elixir, Spring Boot, Nod
 ### Living Goods // Nairobi, Kenya
 **Director, Software Engineering** | Oct 2019 - Apr 2021
 
-- Led technology strategy execution and delivery for direct operations and technical-assistance programmes in digital health
+- Led software engineering and technology delivery for direct operations and government/partner technical-assistance programmes across Kenya, Uganda and other Living Goods engagements
+- Led technology teams delivering regional and national-scale digital community-health systems; at the end of 2020 Living Goods supported more than 10,000 CHWs serving more than 8 million people across Kenya and Uganda
+- In Kenya, led technology work supporting Living Goods' government partnership as the Ministry of Health developed the national community-health digitization strategy and eCHIS; Living Goods' Smart Health app became the reference tool for the national eCHIS prototype
+- In Uganda, led technology delivery supporting digitized community-health operations and government technical-assistance work; Living Goods operated across 20 districts and supported more than 4,300 CHWs during the period
 - Worked with C-suite leaders to identify new products and processes from programme data and operational needs
 - Grew a geographically distributed organisation spanning software engineering, data science, QA, design, product and project management
 - Hired and managed Engineering Managers and defined the software delivery lifecycle around agile development, continuous delivery and improvement
