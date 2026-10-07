@@ -15,7 +15,7 @@ Technology executive and hands-on engineer with 20 years of experience building 
 
 Technology strategy · Engineering and data leadership · Product roadmaps · Software architecture · Data pipelines · APIs and systems integration · Web, mobile, SMS, USSD and messaging products · AI and LLM systems · Distributed systems · Python · Java · Ruby / Rails · TypeScript · Kotlin · RabbitMQ / AMQP
 
-## Leadership experience
+## Professional experience
 
 ### Peach Tech Ltd // Nairobi, Kenya
 **Chief Technology Officer** | Dec 2023 – Mar 2025  
@@ -37,14 +37,27 @@ Technology strategy · Engineering and data leadership · Product roadmaps · So
 **Group Head of Development** | Jun 2016 – Oct 2018  
 • Led a 12-person digital-product team and advised the Group CEO and C-level leaders on the transition to a digital-first media business.  • Architected a music-streaming service and asynchronous content-ingestion pipeline using Kotlin, Akka, message queues and serverless infrastructure.  • Designed billing and payments services integrated with Safaricom and mobile money.
 
-## Current and earlier product experience
+### SafariFone Ltd // Djibouti
+**Software Architecture Consultant** | 2015 – 2016  
+• Designed the architecture for a B2B commerce and Islamic trade-finance platform linking distributors and retailers, including mobile payments and web/SMS/USSD channels.
 
-**Sellogram, Co-founder** | 2025 – Present — Building a work agent for businesses selling through Instagram, Facebook and WhatsApp, combining language-model interpretation with deterministic order, payment and delivery workflows.  
-**Babygoods, Co-founder** | 2025 – Present — Building a marketplace connecting parents who have safe, clean used baby and child items with buyers.  
-**SafariFone, Software Architecture Consultant** | 2015 – 2016 — Designed a B2B commerce and Islamic trade-finance platform with mobile payments and web/SMS/USSD channels.  
-**MFieldwork, Software Consultant** | 2013 – 2015 — Built software for a mobile field-data platform used by development and humanitarian organisations.  
-**GenKey Africa, Lead Software Developer** | 2010 – 2012 — Led biometric voter-register adjudication software and contributed ABIS systems to Ghana's national biometric voter-registration programme.  
-**CoreNett, Head of Software Development** | 2007 – 2010 — Led architecture and delivery for mobile-wallet, cardless-ATM, electronic-payment and voucher products.  
-**Rancard Solutions, Product Manager, Mobile Platforms** | 2006 – 2007 — Managed telco-facing mobile products and built the SMS-voting system used for West African Idols.
+### MFieldwork Ltd // Ghana / Kenya
+**Software Consultant** | 2013 – 2015  
+• Built web software for a mobile field-data platform used by development and humanitarian organisations for monitoring, evaluation and field research.
 
-**Education:** B.Sc. Computer Science (Cum Laude), Ashesi University College — 2005
+### GenKey Africa Ltd // Accra, Ghana
+**Lead Software Developer** | Sep 2010 – Sep 2012  
+• Led biometric voter-register adjudication software and contributed ABIS systems to Ghana's national biometric voter-registration programme, which registered approximately 14M voters using 6,500 kits.
+
+### CoreNett Ltd // Accra, Ghana
+**Head of Software Development** | Mar 2007 – Sep 2010  
+• Led architecture and product development for mobile-wallet, cardless-ATM, electronic-payment and voucher products.
+
+### Rancard Solutions Ltd // Accra, Ghana
+**Product Manager, Mobile Platforms** | Jan 2006 – Mar 2007  
+• Managed telco-facing mobile products and built the SMS-voting system used for West African Idols across multiple African countries.
+
+## Education
+
+**Ashesi University College // Accra, Ghana**  
+B.Sc. Computer Science, Cum Laude | 2005
