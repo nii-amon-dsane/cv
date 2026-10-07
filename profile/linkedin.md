@@ -63,7 +63,7 @@ Next tier: FinTech, Payment Systems, Large Language Models (LLM), Systems Integr
 
 ### Independent | Independent Product & Technology Consultant / Builder
 
-**Mar 2025 – Present | Nairobi, Kenya / Global**
+**Mar 2025 – Present | Nairobi, Kenya**
 
 Independent product and technology work spanning venture building, product strategy, software architecture and hands-on delivery, with a current focus on AI-native marketplaces and commerce.
 

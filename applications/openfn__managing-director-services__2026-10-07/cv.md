@@ -19,7 +19,7 @@ Product and technology executive with two decades of experience across governmen
 
 ## Experience
 
-### Independent | Nairobi, Kenya / Global
+### Independent | Nairobi, Kenya
 **Independent Product & Technology Consultant / Builder** | Mar 2025 - Present
 
 - Work across product strategy, software architecture, implementation and operating-model design, with a current focus on AI-native marketplaces and workflow-heavy products.
