@@ -4,42 +4,39 @@ The agent picks 1-2 themes per application based on the JD's signals. Themes are
 
 ## Theme 1: 0→1 Builder
 
-You take products from zero to launch. Pre-PMF, MVP, founder-mode. You're happiest when the canvas is blank and the question is "what should we even build?".
+You take products from an unclear problem to a delivered product. You work across product definition, architecture, team design and delivery.
 
 **When to lead with this**: pre-seed / seed roles; founder-CEO roles; greenfield product initiatives inside larger orgs; EIR/FIR roles; founder-of-new-venture roles.
 
 **Roles to feature**:
-- Sellogram (current) — co-founder and CEO, work agent product 0→1
-- Bridge Technologies — rebuilt engineering, delivered consumer apps + merchant app + APIs in 3 months
+- Bridge Technologies — rebuilt engineering and delivered consumer apps, a merchant app and APIs
 - Kwara — core banking platform, technical roadmap from scratch
+- Peach Tech — researched and delivered the first components of a marketplace operating system
 
 **CV headline pattern**: "0→1 Product Builder · Engineering Leader"
-**Hook pattern**: "I've shipped the v1 of [type of product] three times — most recently at [company]. The pattern is the same: blank page → shipped product in months, not years."
+**Hook pattern**: "I take products from an unclear operating problem to a delivered system. At [company], I [specific delivered outcome]."
 
 **Proof metrics**:
 - 70M potential MTN subscribers reached by Bridge cross-border product
-- 3-month delivery of 2 consumer apps + 1 merchant app + API suite at Bridge
-- Sellogram 0→1 from idea to a product for social-commerce sellers
+- 2 consumer apps + 1 merchant app + 4 API product areas delivered at Bridge
+- First marketplace operating-system components delivered at Peach
 
 ---
 
-## Theme 2: LLM-Based Product Leadership
+## Theme 2: AI-Enabled Professional Delivery
 
-You design and ship products where language models are part of the core workflow. Use RAG, product context, DSPy and structured workflows when the product needs them.
+You make language models part of research, product definition, architecture, implementation and operational workflows. You use them for interpretation or generation. You use conventional software where rules, reliability and cost control matter.
 
 **When to lead with this**: AI/ML platform roles; roles where LLM behaviour is central to the product; roles that name AI strategy, LLMs or agents.
 
-**Roles to feature**:
-- Sellogram (current) — work agent for social commerce
-
-**CV headline pattern**: "Product & Technology Executive · LLM-Based Products"
-**Hook pattern**: "I'm building Sellogram, a work agent for social-commerce sellers. It handles [workflow]. Before that, [proof point], [proof point]."
+**CV headline pattern**: "Product & Technology Executive · AI-Enabled Delivery"
+**Hook pattern**: "For the past two years, I have made language models part of how I research, define and deliver products. I use them where interpretation or generation improves the work."
 
 **Proof to lean on**:
-- Current Sellogram work
+- Two years of user-confirmed applied practice across professional delivery
 - Capabilities section on language-model product delivery (LLMs, RAG, DSPy and LangGraph)
 
-**Note**: This theme depends on evidence from Sellogram. Add an achievement only when you can support it with a source.
+**Note**: Do not claim a launched AI product or measured AI result without a separate source.
 
 ---
 
@@ -52,8 +49,8 @@ You take engineering orgs from small team to multi-team with structure, process,
 **Roles to feature**:
 - Living Goods — Director, Software Engineering; grew geographically distributed team; introduced agile + continuous delivery
 - Radio Africa — Group Head of Development; led team of 12
-- Peach Tech — directed Product + Engineering + IT as executive
-- Bridge — identified HR gaps, created org structure, recruited team
+- Peach Tech — directed Product + Engineering + IT as executive; hired and managed Engineering Managers
+- Bridge — identified HR gaps, created org structure, and hired and managed Engineering Managers
 
 **CV headline pattern**: "Engineering Leader · Org Builder & Scaler"
 **Hook pattern**: "I've built engineering orgs at [N] companies, growing teams from [small] to [larger] with structure that survives growth. Most recently at [company]: [outcome]."
@@ -63,6 +60,7 @@ You take engineering orgs from small team to multi-team with structure, process,
 - Distributed engineering org at Living Goods (engineering + data + product + QA + designers)
 - Recruited team and built org structure at Bridge from scratch
 - Directed cross-functional Product/Engineering/IT group at Peach
+- 10+ years hiring and managing Engineering Managers across Peach Tech, Bridge Technologies, Living Goods and Radio Africa
 
 ---
 
@@ -77,7 +75,6 @@ You're not just an engineering leader — you partner with the CEO on company st
 - Bridge — partner with founders on strategic planning, governance, risk
 - Living Goods — partnered with C-Suite on strategy
 - Radio Africa — advisory to Group CEO and C-level on digital product development and the move to a digital-first business
-- Sellogram — co-founder and CEO
 
 **CV headline pattern**: "Technology Executive · Strategic Partner to CEO"
 **Hook pattern**: "I work with executive teams on product and business decisions. At [company], I partnered with the CEO on [specific strategic outcome]."
@@ -85,7 +82,7 @@ You're not just an engineering leader — you partner with the CEO on company st
 **Proof**:
 - Executive Team membership at Peach
 - C-Suite collaboration at Living Goods
-- Founder partnerships at Bridge and Sellogram
+- Founder partnership at Bridge
 - C-level advisory at Radio Africa
 
 ---

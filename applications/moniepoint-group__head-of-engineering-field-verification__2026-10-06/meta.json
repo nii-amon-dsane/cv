@@ -1,0 +1,32 @@
+{
+  "company": "Moniepoint Group",
+  "role": "Head of Engineering, Field Verification",
+  "date_created": "2026-10-06",
+  "source": "portal",
+  "recruiter": {
+    "name": null,
+    "linkedin": null
+  },
+  "status": "submitted",
+  "ats_optimize": true,
+  "fit_score": 80,
+  "fit_breakdown": {
+    "must_haves_met": 4,
+    "must_haves_missed": 0,
+    "nice_to_haves_met": 2,
+    "seniority_match": "exact",
+    "domain_match": "strong",
+    "stage_match": "strong"
+  },
+  "gaps": [
+    "Route optimisation and KYC-platform ownership are not explicit in the source CV."
+  ],
+  "angle_confirmed": true,
+  "linkedin_type": null,
+  "key_dates": {
+    "submitted": "2026-10-06",
+    "last_contact": "2026-10-06",
+    "next_follow_up": "2026-10-13"
+  },
+  "notes": "Lead with Genkey identity work, MFieldwork field-data systems, Java, APIs, operational products, and Engineering Manager leadership.\n[2026-10-06] Application submitted by user."
+}

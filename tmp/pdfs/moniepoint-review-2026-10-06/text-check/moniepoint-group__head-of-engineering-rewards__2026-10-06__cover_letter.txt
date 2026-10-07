@@ -1,0 +1,36 @@
+Nii Amon Dsane
+6 October 2026
+Hiring Team
+Moniepoint Group
+Dear Hiring Team,
+Moniepoint has the reach to make rewards part of how millions of customers experience
+the company, not only a cashback feature. Building that platform needs more than technical
+delivery. It needs product judgment, customer understanding and an engineering organisation
+that can learn quickly while protecting the reliability of a financial product. I have led that
+combination across consumer, marketplace, media and fintech businesses.
+At Bridge, I set the product and technology strategy for an API-driven, consumer-first fintech
+business. I rebuilt the team and led delivery of two consumer apps, a merchant portal and
+APIs for payments, remittances, wallets and currency swaps. I selected the mobile and
+web platforms, designed the microservices architecture and built the product roadmap and
+organisation around it.
+At Peach, I led Product, Engineering and IT for Kenya’s leading managed used-car marketplace. I worked with the executive team to define product strategy, then led delivery of the
+customer web application and the operating tools behind vehicle intake and assessment.
+My consumer-product experience started earlier. At Radio Africa, I led a 12-person digitalproduct team and architected a Kotlin-based music-streaming service, its content-ingestion
+pipeline and the mobile-money billing service behind it. At Rancard, I built and supported live
+messaging systems, including multi-country SMS voting for West African Idols.
+For the past two years, I have also made language models part of how I research, define
+and deliver products. I use them where interpretation or generation can improve customer
+understanding and product workflows, and conventional software where rules, reliability and
+cost control matter.
+I bring 20 years in software, 10+ years of production Java, Kotlin experience and 10+
+years hiring and managing Engineering Managers. For Rewards, I would start by making the
+current cashback experience reliable and measurable, then build the product units, technical
+foundations and operating cadence needed to expand into retention, engagement and personalisation.
+I would welcome a discussion about the product Moniepoint wants Rewards to become and
+the organisation needed to deliver it.
+Sincerely,
+Nii Amon Dsane
+
+1
+
+

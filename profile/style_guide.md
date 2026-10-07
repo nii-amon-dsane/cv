@@ -14,7 +14,7 @@ This is the v1 style guide derived from your CV's voice + sensible senior-exec d
    - ✅ "Led team of 12."
    - ❌ "Team of 12 was led by me."
 4. **Concrete over abstract.** Numbers, names, scales.
-   - ✅ "Reached 80% completion in 3 months."
+   - ✅ "Delivered two consumer apps, a merchant app and four API product areas."
    - ❌ "Made significant progress in a short timeframe."
 5. **Industry precision.** Use the right technical terms — they signal competence.
    - ✅ "Microservices orchestrated via AMQP message queues."
@@ -26,9 +26,10 @@ This is the v1 style guide derived from your CV's voice + sensible senior-exec d
    - CV: "Led team of 12" (no "I")
    - Cover letter: "I led a team of 12" (with "I")
 8. **Present tense for current role, past tense for prior.**
-   - Sellogram (current): "I'm building a work agent for social commerce sellers."
-   - Peach (prior): "I directed the Technology Group at Peach."
+   - Current role: "I lead product strategy and delivery."
+   - Prior role: "I directed the Technology Group at Peach."
 9. **Name the user, workflow, system, team or result before the technology.** Use AI, LLM, agent, generative or deterministic only when the term explains a specific product behaviour or technical decision.
+10. **Keep excluded work private.** Do not use a company or project listed under `application_exclusions` in `profile/preferences.yaml`.
 
 ## Signature patterns confirmed by samples
 
@@ -99,7 +100,7 @@ The agent must not use these. They smell AI-generated or generic.
 - "Architected music streaming service with microservices + Akka pipeline + serverless."
 
 **Paragraph opener (cover letter)**: `[Acknowledge something specific about the company/role in 1 sentence]. [Connect it to you in 1 sentence]. [Tell them what's coming next.]`
-- Example pattern: "Acme's work in logistics caught my attention. I'm currently building a work agent for social commerce sellers at Sellogram. Three outcomes from my last three roles that map to what you're hiring for:"
+- Example pattern: "Acme's work in logistics caught my attention. I build products that turn operating processes into reliable systems. Three outcomes from my last three roles map to what you need:"
 
 **Email opener (cold outreach)**: `[Hi Name,] [1-line pleasantry or context hook]. [Three bullets mapping their must-haves to your outcomes]. [Specific next-step proposal with concrete time/options]. [Many thanks, / Nii Amon]`
 
@@ -125,7 +126,7 @@ The agent must not use these. They smell AI-generated or generic.
 - Em-dashes (—) with no spaces around them, or en-dashes with spaces — pick one, be consistent. Use em-dashes without spaces (matches CV).
 - Bullets in CV use `-` (hyphen)
 - No Oxford comma unless needed for clarity
-- Numbers under 10 spelled out in prose ("three months", "five developers"), numerals in CV bullets ("3 months", "5 developers")
+- Numbers under 10 spelled out in prose ("five developers"), numerals in CV bullets ("5 developers")
 
 ## What "doesn't sound like you"
 

@@ -1,0 +1,46 @@
+# Nii Amon Dsane
+**Fintech Engineering Executive | Payments, Banking and API Platforms**
+
+Nairobi, Kenya · jazzyy@gmail.com · +254 700 689874 · https://www.linkedin.com/in/nii-amon-dsane-69737031a/
+
+## Executive profile
+
+Technology executive and hands-on engineer with 20 years of experience building and leading digital products across payments, banking, remittances, telecoms and marketplaces in Africa. Brings 10+ years of production Java, Kotlin experience and 10+ years hiring and managing Engineering Managers. Has led payment architecture, API platforms, cross-border integrations, core-banking products and distributed engineering organisations from strategy through production delivery. For the past two years, has made language models part of research, product definition, architecture, implementation and operational delivery.
+
+## Selected impact
+
+• Delivered MTN Group and MFS Africa integration for a cross-border remittance product intended for 70M subscribers in Nigeria.  • Led delivery of 2 consumer apps, 1 merchant app and APIs for payments, remittances, wallets and currency swaps at Bridge.  • Led architecture and delivery of core-banking operations at Kwara and card payment, cardless ATM and mobile-wallet products at CoreNett.  • Built and led engineering organisations across Peach, Bridge, Living Goods and Radio Africa, including hiring and managing Engineering Managers.  
+
+## Core expertise
+
+Payment systems · Banking platforms · Cross-border remittances · API-first products · Java · Kotlin · Spring Boot · Microservices · AMQP and RabbitMQ · AI-enabled product delivery · LLMs and RAG · Architecture and roadmaps · Engineering organisation design · Executive and commercial partnership
+
+## Leadership experience
+
+### Peach Tech Ltd // Nairobi, Kenya
+**CTO** | Dec 2023 – Mar 2025  
+• Led Product, Engineering and IT for Kenya's leading managed used-car marketplace as a member of the executive team.  • Defined technology and product strategy and led delivery of the web application and process-automation tools that formed the first parts of the marketplace operating system.  • Hired and managed Engineering Managers while directing architecture, delivery and technology operations.  
+
+### Bridge Technologies Limited // Nairobi, Kenya
+**CTO & VP of Engineering** | Jul 2022 – Jan 2023  
+• Set the strategy, roadmap and architecture for an API-driven fintech business.  • Delivered MTN Group/MFS Africa and KCB integrations for cross-border remittances.  • Rebuilt the team and led delivery of 2 consumer apps, a merchant app and APIs for payments, remittances, wallets and currency swaps.  • Designed the microservices architecture and hired and managed Engineering Managers and engineers.  
+
+### Living Goods // Nairobi, Kenya
+**Director, Software Engineering** | Oct 2019 – Apr 2021  
+• Led technology strategy execution and delivery across engineering, data science, QA, design, product and project management.  • Grew a geographically distributed organisation, hired and managed Engineering Managers and established an agile software delivery lifecycle with continuous delivery.  
+
+### Kwara // Nairobi, Kenya
+**CTO** | Oct 2018 – May 2019  
+• Owned architecture and technical delivery for a core-banking and daily-operations platform used by cooperative financial institutions and their members.  • Led 5 developers and designers, set performance targets and contributed directly to software development.  • Partnered with the CEO on product, marketing, sales, people and performance decisions.  
+
+### Radio Africa Limited // Nairobi, Kenya
+**Group Head of Development** | Jun 2016 – Oct 2018  
+• Led 12 developers, designers and web administrators delivering digital products across the media group.  • Architected a Kotlin-based music-streaming service using microservices, Akka, Spark, serverless computing and message queues.  • Built payment and billing services on Kill Bill, Safaricom SDP and mobile money.  • Hired and managed Engineering Managers and advised the Group CEO and C-suite on digital-product strategy.  
+
+## Earlier product and engineering experience
+
+**Consultant** | 2013 – 2016 — Built mobile field-data and trade-finance products in Djibouti, Ghana and Kenya.  
+**Genkey Africa, Lead Software Developer** | 2010 – 2012 — Led biometric product development for government identity programmes.  
+**CoreNett, Head of Software Development** | 2007 – 2010 — Owned architecture and delivery for card payments, electronic vouchers, Java-based cardless ATM services and a mobile wallet modelled after M-Pesa.  
+**Rancard Solutions, Product Manager, Mobile Platforms** | 2006 – 2007 — Built and supported live messaging products for telecoms and media.  
+**Education:** B.Sc. Computer Science (Cum Laude), Ashesi University College — Dec 2005

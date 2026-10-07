@@ -9,9 +9,10 @@
 
 ## Summary
 
-- Product and technology executive with multi-national experience across social commerce, fintech, banking, media and digital health
+- Product and technology executive with multi-national experience across fintech, banking, marketplaces, media and digital health
 - Leads product and technology strategy, execution and organisation design with founders, executive teams and operating leaders
 - Brings executive leadership, product development, technical architecture and hands-on engineering experience to new ventures and scale-ups
+- Has spent the past two years making language models a core part of professional delivery across research, product definition, architecture, implementation and operational workflows
 
 ## Capabilities
 
@@ -19,23 +20,15 @@
 Technology and engineering strategy formulation and execution, collaborating with functional leaders at C-level to deliver key initiatives, recruiting and developing technology and engineering leaders and building high performance teams, product roadmapping and competitive analysis.
 
 ### Language-model product delivery
-LLMs, RAG, DSPy and LangGraph for products that need language understanding, product context and structured workflows.
+Uses language models where products need interpretation or generation and conventional software where rules, reliability and cost control matter. Applies LLMs, RAG, DSPy and LangGraph to research, product context, language understanding and structured workflows.
 
 ### Enterprise and integration architectures
 Using open source middleware and enterprise integration patterns. Experienced with architecture, documenting and implementing large-scale, multi-partner integration projects in Fintech, healthcare, media, government, telecoms sectors.
 
 ### Languages, technologies and frameworks
-Kotlin, Java, Ruby, TypeScript, Python, Erlang/OTP, Elixir, Spring Boot, node.js, Ruby on Rails, Phoenix, Kotlin Coroutines, AMQP & message queues (RabbitMQ) within large scale systems handling complex task processing workflows, open source tools and integration, OTP (Erlang).
+Kotlin, Java, Ruby, TypeScript, Python, Erlang/OTP, Elixir, Spring Boot, node.js, Ruby on Rails, Phoenix, Kotlin Coroutines, AMQP & message queues (RabbitMQ) within large scale systems handling complex task processing workflows, open source tools and integration, OTP (Erlang). Java: 10+ years of production use from Rancard through Radio Africa and consulting work.
 
 ## Work Experience
-
-### Sellogram // Nairobi, Kenya
-**Co-founder & CEO** | Jul 2025 – present
-
-- Sellogram is a work agent for solopreneurs and teams selling on Instagram, Facebook and WhatsApp
-- Builds product strategy and delivery for customer conversations, product and stock questions, orders, payments and deliveries
-- Uses posts and reels to extract product information, enrich product metadata and expand the capacity of social sales teams
-- Provides always-on customer-contact handling during off hours and holidays
 
 ### Peach Tech Ltd // Nairobi, Kenya
 **CTO** | Dec 2023 – Mar 2025
@@ -44,6 +37,7 @@ Kotlin, Java, Ruby, TypeScript, Python, Erlang/OTP, Elixir, Spring Boot, node.js
 - In charge of the Technology Group within the org, comprising Product, Engineering and IT
 - Executive Team member responsible for defining and delivering on technology and product strategy
 - Researched, designed and led delivery of an improved web app and internal process-automation tools for vehicle intake and assessment. These were the first delivered components of the marketplace operating system
+- Hired and managed Engineering Managers as part of leading Product, Engineering and IT
 
 ### Bridge Technologies Limited // Nairobi, Kenya
 **CTO & VP of Engineering** | Jul 2022 – Jan 2023
@@ -58,9 +52,9 @@ Kotlin, Java, Ruby, TypeScript, Python, Erlang/OTP, Elixir, Spring Boot, node.js
 
 - Delivered a partner integration initiative for a network-wide cross-border remittance product for MTN Group in collaboration with MFS Africa. This product enables any MTN user to send money to MTN users in other op-cos. The product would be launched to 70M MTN subscribers in Nigeria
 - Delivered an integration with KCB to enable outbound remittances to Nigeria
-- Evaluated existing Brij products, identified engineering gaps, recruited a team and reached 80% completion towards releasing two consumer apps (Brij Send, Brij Mobile), a merchant app (Brij Merchant Portal) and a set of APIs (payments API, cross-border remittance API, wallets API, currency swaps API) within 3 months
+- Evaluated existing Brij products, identified engineering gaps, recruited a team and led delivery of two consumer apps (Brij Send and Brij Mobile), a merchant app (Brij Merchant Portal) and APIs for payments, cross-border remittances, wallets and currency swaps
 - Created and documented an architecture using microservices and open source middleware and APIs to power the product, services and market strategy
-- Identified key human resource gaps in the engineering organisation, created an org structure and recruited the right people into the roles
+- Identified key human resource gaps in the engineering organisation, created an org structure and hired and managed Engineering Managers and engineers
 - Created a product roadmap outlining product and service evolution over time
 
 ### Living Goods // Nairobi, Kenya
@@ -69,6 +63,7 @@ Kotlin, Java, Ruby, TypeScript, Python, Erlang/OTP, Elixir, Spring Boot, node.js
 - Responsible for tech strategy execution and monitoring towards improving technology offerings for direct operations and technical assistance programmes
 - Worked with C-Suite to discover new products and processes driven by analysis of the data collected from direct and technical assistance programs
 - Grew an effective, geographically-dispersed team of software engineers, data scientists, QA engineers, designers, product and project managers and contractors
+- Hired and managed engineering managers within the delivery organisation
 - Led delivery of systems for direct operations and technical-assistance programmes
 - Defined the software delivery life cycle with a focus on agile methodologies, continuous delivery and improvement
 
@@ -85,6 +80,7 @@ Kotlin, Java, Ruby, TypeScript, Python, Erlang/OTP, Elixir, Spring Boot, node.js
 **Group Head of Development** | Jun 2016 – Oct 2018
 
 - Led a team of 12 developers, designers and web administrators
+- Hired and managed engineering managers within the digital-product organisation
 - The team served as a shared services unit within the group providing software development, change management and production management services for new and existing digital products
 - Delivered digital products for all parts of the group as part of group-wide efforts at transitioning to a digital-first media business
 - Provided advisory services to the Group CEO and C-level executives on digital product development and the move to a digital-first media business

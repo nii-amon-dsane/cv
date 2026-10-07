@@ -1,0 +1,23 @@
+{
+  "company": "Moniepoint Group",
+  "role": "Head of Engineering, Rewards",
+  "date_created": "2026-10-06",
+  "source": "portal",
+  "recruiter": {
+    "name": null,
+    "linkedin": null
+  },
+  "status": "preparing",
+  "ats_optimize": true,
+  "fit_score": 77,
+  "fit_breakdown": {"must_haves_met": 6, "must_haves_missed": 1, "nice_to_haves_met": 1, "seniority_match": "exact", "domain_match": "strong", "stage_match": "strong"},
+  "gaps": ["A/B testing and feature-flag experimentation are not explicit in the source CV."],
+  "angle_confirmed": true,
+  "linkedin_type": null,
+  "key_dates": {
+    "submitted": null,
+    "last_contact": null,
+    "next_follow_up": null
+  },
+  "notes": "Lead with consumer product delivery, fintech, Java, organisation building, and product strategy. Do not claim A/B testing experience."
+}

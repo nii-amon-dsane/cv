@@ -1,0 +1,23 @@
+# Nii Amon Dsane
+
+6 October 2026
+
+Hiring Team  
+Moniepoint Group
+
+Dear Hiring Team,
+
+MonieCRM is not only a CRM. It is the operating system for a 50,000-person sales network, with commercial workflows, team management and money movement in one domain. I have spent my career building this kind of connective system: products that turn operating processes into software and give commercial teams the tools to run the business.
+
+At Peach, I led Product, Engineering and IT for Kenya's leading managed used-car marketplace. I worked with the executive team to define product and technology strategy, then researched, designed and led delivery of a new web application and internal tools for vehicle intake and assessment. These were the first components of the marketplace operating system. The work required us to understand how commercial and operating teams made decisions, then encode those workflows without losing the controls the business needed.
+
+At Bridge, I partnered with the founders on the business and technology strategy for an API-driven fintech platform. I rebuilt the team and led delivery of two consumer apps, a merchant portal and APIs for payments, remittances, wallets and currency swaps. At Kwara, I led a core-banking and daily-operations platform for cooperative financial institutions while supporting the CEO on marketing, sales, people and performance management.
+
+I also understand the organisational side of a shared commercial platform. At Radio Africa, I led 12 developers, designers and web administrators serving business units across the group. I advised the Group CEO and C-suite on the move to a digital-first business, built payment and billing services and architected a Kotlin-based streaming platform. Across Peach, Bridge, Living Goods and Radio Africa, I have spent more than 10 years hiring and managing Engineering Managers.
+
+For the past two years, I have made language models part of how I research, define and deliver products. I use them where interpretation or generation improves customer and commercial workflows. I use conventional software where rules, reliability and cost control matter.
+
+Moniepoint needs a leader who can modernise the platform without losing the business knowledge inside it. I would welcome a discussion about the technical roadmap, team structure and operating measures needed to make MonieCRM more dependable for the people who use it to sell, support customers and get paid.
+
+Sincerely,  
+Nii Amon Dsane

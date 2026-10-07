@@ -1,0 +1,32 @@
+# Job Description: Moniepoint Group — Head of Engineering, Payment Gateway
+
+Source: https://www.linkedin.com/jobs/view/4463992127/
+Captured: 2026-10-06
+
+## Role
+
+Lead Monnify, Moniepoint's online payment-acceptance platform. It connects merchants to card networks, banks and payment aggregators. The platform owns transaction reliability, routing, throughput, APIs, SDKs, documentation and integration experience. It is expanding toward multi-currency and multi-market operation.
+
+## Responsibilities
+
+- Own technical strategy, architecture and roadmap across Payment In, Payout, Commerce Tools and developer-facing features.
+- Lead multiple engineering teams through Engineering Managers.
+- Own developer experience: APIs, documentation, SDKs and integration ease.
+- Drive multi-currency and international expansion.
+- Ensure reliability, security and operational performance in a regulated environment.
+- Partner with product, commercial and operations teams.
+- Hire, mentor and develop Engineering Managers and senior engineers.
+
+## Requirements
+
+- 10+ years in software engineering and 5+ years in engineering leadership.
+- 5+ years of hands-on production Java.
+- 5+ years managing managers.
+- Payments, fintech or financial-services experience, including payment flows and compliance.
+- API-first product and developer-platform experience.
+- Backend depth in high-throughput, distributed transactional systems.
+- Payment-gateway or multi-currency-platform experience is an advantage.
+
+## Technology
+
+Java, Spring, Spring Boot, Docker, Kubernetes, PostgreSQL, DynamoDB, Elasticsearch, AWS and microservices.

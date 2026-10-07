@@ -17,16 +17,16 @@ Mark uncertain metrics with `[estimated]`. The agent will flag `[estimated — v
 
 ## Achievements
 
-### Built an AI agent for social-commerce sellers @ Sellogram | Jul 2025 – present
-- Metric: 3 supported sales channels: Instagram, Facebook and WhatsApp
-- Context: Co-founded and lead product strategy and delivery for an agent that handles customer conversations, product and stock questions, orders, payments and deliveries.
-- Source: `profile/cv.md`; user-confirmed role and company name
+### Built Java systems for more than 10 years | 2006 – present
+- Metric: 10+ years of production Java across Rancard, Radio Africa and consulting engagements
+- Context: Used Java for production software while also leading product and engineering organisations.
+- Source: user-confirmed on 2026-10-06
 - Verifiable: partially
 
-### Added product context from social content @ Sellogram | Jul 2025 – present
-- Metric: 2 source formats: posts and reels
-- Context: Built a product approach that extracts product information and enriches product metadata from seller content to support social sales teams.
-- Source: `profile/cv.md`
+### Hired and managed Engineering Managers across four organisations | 2016 – 2025
+- Metric: 10+ years; Peach Tech, Bridge Technologies, Living Goods and Radio Africa
+- Context: Recruited and managed Engineering Managers while leading product and engineering organisations.
+- Source: user-confirmed on 2026-10-06
 - Verifiable: partially
 
 ### Led Product, Engineering and IT @ Peach Tech | Dec 2023 – Mar 2025
@@ -47,10 +47,10 @@ Mark uncertain metrics with `[estimated]`. The agent will flag `[estimated — v
 - Source: `profile/cv.md`
 - Verifiable: partially
 
-### Reached 80% of a multi-product release in 3 months @ Bridge Technologies | Jul 2022 – Jan 2023
-- Metric: 80% completion; 2 consumer apps, 1 merchant app and an API suite
-- Context: Assessed existing Brij products, identified engineering gaps, recruited a team and led the release effort.
-- Source: `profile/cv.md`
+### Delivered consumer, merchant and API products @ Bridge Technologies | Jul 2022 – Jan 2023
+- Metric: 2 consumer apps, 1 merchant app and 4 API product areas
+- Context: Assessed the existing Brij products, identified engineering gaps, recruited a team and led delivery of Brij Send, Brij Mobile, Brij Merchant Portal and APIs for payments, cross-border remittances, wallets and currency swaps.
+- Source: user-confirmed on 2026-10-06
 - Verifiable: partially
 
 ### Enabled outbound remittances to Nigeria @ Bridge Technologies | Jul 2022 – Jan 2023

@@ -27,9 +27,7 @@ Nairobi / Remote
 
 I build products and the organisations that bring them to market.
 
-I am the Co-founder and CEO of Sellogram, a work agent for people who sell on Instagram. I lead product strategy and delivery. Sellogram handles customer conversations, product and stock questions, orders, payment confirmations and deliveries.
-
-Before Sellogram, I was CTO at Peach Tech where I led Product, Engineering and IT.
+I was CTO at Peach Tech where I led Product, Engineering and IT.
 
 I led the functional and ethnographic research, and product design, for the marketplace operating system. Vehicle intake, assessment and yard-management tools were its first delivered components.
 
@@ -37,19 +35,11 @@ At Bridge Technologies, I led product and engineering for payments and cross-bor
 
 I have 15+ years across fintech, marketplaces, digital health and media. I work with founders and executive teams on product strategy, new-product delivery, organisation design and software platforms.
 
-I design products with language models when they need interpretation or generation. I use conventional software where rules, reliability and cost control matter.
+For the past two years, I have made language models part of how I research, define, design and deliver products. I use them when products need interpretation or generation. I use conventional software where rules, reliability and cost control matter.
 
 I am open to CTO, VP or Head of Engineering, and product leadership conversations.
 
 ## Experience
-
-### Sellogram | Co-founder & CEO
-
-**Jul 2025 – Present | Nairobi, Kenya**
-
-- Lead the team and product strategy for a work agent that supports sellers on Instagram
-- Build customer-conversation workflows for product and stock questions, orders, payments and deliveries
-- Use posts and reels to extract product information and build product context for social sales teams
 
 ### Peach Tech Ltd | Chief Technology Officer
 
@@ -65,7 +55,7 @@ I am open to CTO, VP or Head of Engineering, and product leadership conversation
 
 - Set product and technology strategy for API-driven payments, remittances, wallets and currency-swap services
 - Delivered an MTN Group and MFS Africa cross-border remittance integration with potential reach to 70M subscribers in Nigeria
-- Recruited team and reached 80% completion of two consumer apps, a merchant app and a payments and remittance API suite in 3 months
+- Recruited the engineering team and led delivery of two consumer apps, a merchant app and APIs for payments, remittances, wallets and currency swaps
 - Delivered a KCB integration that enabled outbound remittances to Nigeria
 
 ### Living Goods | Director, Software Engineering
@@ -151,9 +141,8 @@ Add these in this order. Pin the first three.
 
 Add these only after each item is public and final.
 
-1. Sellogram public product page or short product demo.
-2. Product & Technology Executive CV PDF.
-3. One-page case study: MTN cross-border remittance or Peach marketplace operating system.
+1. Product & Technology Executive CV PDF.
+2. One-page case study: MTN cross-border remittance or Peach marketplace operating system.
 
 ## Job preferences
 
@@ -187,12 +176,11 @@ Each week:
 
 First post themes:
 
-1. What building Sellogram has taught you about work agents for social commerce.
-2. What product and engineering leaders need to get right when building a new operating system.
-3. Lessons from cross-border remittances and multi-partner product delivery.
+1. What product and engineering leaders need to get right when building a new operating system.
+2. Lessons from cross-border remittances and multi-partner product delivery.
+3. How to decide where language models improve delivery and where conventional software is the better choice.
 
 ## Review checklist
 
-- Confirm that the public Sellogram website or demo is ready before adding it to Featured.
 - Replace any achievement only if you can support it with a source.
 - Keep this file and the three base CVs aligned after every career update.

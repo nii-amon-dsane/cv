@@ -1,0 +1,26 @@
+# Job Description: Moniepoint Group — Head of Engineering, Field Verification
+
+Source: https://www.linkedin.com/jobs/view/4464537485/
+Captured: 2026-10-06
+
+## Role
+
+Lead the platform that performs in-person KYC checks for retail and business customers, owners, addresses and loan guarantors. The domain serves onboarding, loans, compliance and fraud. It includes a back office, field-officer web surface, APIs, webhooks, assignment logic and planned native mobile work.
+
+## Responsibilities
+
+- Own technical strategy, architecture and roadmap.
+- Move the platform from maintenance to planned product development.
+- Grow the cross-functional team and build Engineering Manager capacity.
+- Build route and trip optimisation, task allocation and capacity management.
+- Own APIs, webhooks and back-office tools.
+- Deliver a native mobile experience for field officers.
+- Keep verification data structured and auditable for compliance.
+- Build for multi-country expansion.
+
+## Requirements
+
+- 10+ years of software engineering with hands-on production and backend depth in Java and Spring Boot.
+- 5+ years of engineering leadership, including Engineering Manager management.
+- Strong product and business collaboration.
+- Location data, route optimisation, compliance data and KYC/verification experience are advantages, not requirements.

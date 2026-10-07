@@ -108,6 +108,11 @@ red_lines:
   # - "Companies without product-market-fit hiring a senior engineering leader"
   # - "Compensation below the floor above (fill in floor first)"
 
+# Do not include these companies or projects in public career material until
+# the user removes them from this list.
+application_exclusions:
+  - "Sellogram"
+
 # ============================================================
 # NICE-TO-HAVES (boost desirability but not required)
 # ============================================================

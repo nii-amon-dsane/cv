@@ -1,0 +1,23 @@
+# Job Description: Moniepoint Group — Head of Engineering, Sales & Marketing Tools
+
+Source: https://www.linkedin.com/jobs/view/4463984823/
+Captured: 2026-10-06
+
+## Role
+
+Lead MonieCRM, the in-house workforce-operations platform used by Moniepoint's 50,000-person sales network. The domain includes onboarding, network management, portfolios, performance, goals, compensation, sales support, wallets, commission attribution, cashout, welfare funds, partner management, rewards and marketing technology.
+
+## Responsibilities
+
+- Own the platform modernisation mandate and technical direction.
+- Build a high-performing engineering team with managers and senior engineers.
+- Deliver dependable tools for commercial teams.
+- Maintain financial correctness for wallets, commissions, attribution and cashout.
+- Work with commercial, product and operational leaders.
+
+## Evidence expected
+
+- Engineering leadership across multi-team operational platforms.
+- Strong business and stakeholder collaboration.
+- Financial-system correctness and reliability.
+- Organisation building and Engineering Manager leadership.

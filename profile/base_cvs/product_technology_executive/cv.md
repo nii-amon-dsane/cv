@@ -6,20 +6,13 @@ Nairobi, Kenya | jazzyy@gmail.com | +254 700 689874 | linkedin.com/in/nii-amon-d
 
 ## Summary
 
-Product and technology executive with 15+ years turning business goals into products, platforms and operating systems. I work with founders and executive teams on strategy, customer-facing products, operational tools and the organisations that deliver them. I am the co-founder and CEO of Sellogram, a work agent for social-commerce sellers.
+Product and technology executive with 15+ years turning business goals into products, platforms and operating systems. I work with founders and executive teams on strategy, customer-facing products, operational tools and the organisations that deliver them. For the past two years, I have made language models part of how I research, define, design and deliver products.
 
 ## Focus
 
 Product strategy • Product roadmaps • Marketplaces • Payments and remittances • Executive partnership • Operating systems • Technical architecture
 
 ## Experience
-
-### Sellogram | Nairobi, Kenya
-**Co-founder & CEO** | Jul 2025 – Present
-
-- Lead the strategy and delivery of a work agent for sellers on Instagram, Facebook and WhatsApp.
-- Shape the product for customer conversations, product discovery, stock questions, orders, payments and deliveries.
-- Use shop posts and reels to extract product information and enrich product metadata.
 
 ### Peach Tech Ltd | Nairobi, Kenya
 **Chief Technology Officer** | Dec 2023 – Mar 2025

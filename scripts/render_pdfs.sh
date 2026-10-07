@@ -39,6 +39,7 @@ TEMPLATE_DIR="$(cd "$(dirname "$0")/.." && pwd)/templates/pandoc"
 render() {
   local src="$1"
   local out="$2"
+  local font_size="$3"
   if [[ ! -f "$src" ]]; then
     return 0
   fi
@@ -46,7 +47,7 @@ render() {
   if pandoc "$src" -o "$out" \
       --pdf-engine=typst \
       -V geometry:margin=0.75in \
-      -V fontsize:10.5pt \
+      -V fontsize:"$font_size" \
       -V mainfont="Helvetica Neue" \
       2>"$src.render.err"; then
     rm -f "$src.render.err"
@@ -56,7 +57,7 @@ render() {
   fi
 }
 
-render "$APP_DIR/cv.md" "$APP_DIR/cv.pdf"
-render "$APP_DIR/cover_letter.md" "$APP_DIR/cover_letter.pdf"
+render "$APP_DIR/cv.md" "$APP_DIR/cv.pdf" "10pt"
+render "$APP_DIR/cover_letter.md" "$APP_DIR/cover_letter.pdf" "10.5pt"
 
 echo "Done."

@@ -6,20 +6,13 @@ Nairobi, Kenya | jazzyy@gmail.com | +254 700 689874 | linkedin.com/in/nii-amon-d
 
 ## Summary
 
-Technology executive with 15+ years building products, platforms and teams across social commerce, fintech, marketplaces, digital health and media. Co-founder and CEO of Sellogram, a work agent for social-commerce sellers. I lead product strategy, new-product delivery, product development and engineering organisations.
+Technology executive with 15+ years building products, platforms and teams across fintech, marketplaces, digital health and media. I lead product strategy, new-product delivery, product development and engineering organisations. For the past two years, I have made language models part of how I research, define, design and deliver products.
 
 ## Focus
 
 LLM-based product delivery • Product context and structured workflows • Product roadmaps • New-product delivery • Engineering leadership • Multi-partner integrations • Payments and marketplaces
 
 ## Experience
-
-### Sellogram | Nairobi, Kenya
-**Co-founder & CEO** | Jul 2025 – Present
-
-- Lead product strategy and delivery for a work agent that supports sellers on Instagram, Facebook and WhatsApp.
-- Built the product approach for customer conversations, product and stock questions, orders, payments and deliveries.
-- Use posts and reels to extract product information and build product context for social sales teams.
 
 ### Peach Tech Ltd | Nairobi, Kenya
 **Chief Technology Officer** | Dec 2023 – Mar 2025
@@ -32,7 +25,7 @@ LLM-based product delivery • Product context and structured workflows • Prod
 
 - Set product and technology strategy for API-driven payments, remittances, wallets and currency-swap services.
 - Delivered an MTN Group and MFS Africa cross-border remittance integration with potential reach to 70M subscribers in Nigeria.
-- Recruited a team and reached 80% completion of two consumer apps, a merchant app and a payments and remittance API suite in 3 months.
+- Recruited the engineering team and led delivery of two consumer apps, a merchant app and APIs for payments, remittances, wallets and currency swaps.
 
 ### Living Goods | Nairobi, Kenya
 **Director, Software Engineering** | Oct 2019 – Apr 2021

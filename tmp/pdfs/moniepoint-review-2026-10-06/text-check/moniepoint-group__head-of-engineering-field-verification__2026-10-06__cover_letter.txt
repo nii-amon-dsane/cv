@@ -1,0 +1,36 @@
+Nii Amon Dsane
+6 October 2026
+Hiring Team
+Moniepoint Group
+Dear Hiring Team,
+Field Verification sits at the intersection of identity, field operations, workflow design and
+platform engineering. My career has covered each part of that problem: national biometric
+programmes, mobile field-data systems, operational platforms, APIs and the engineering
+organisations needed to run them.
+At Genkey, I led product development for the Biometric Voter Register Adjudication Client.
+I built process models and interfaces, developed ABIS software for Ghana’s Electoral
+Commission, demonstrated the product to stakeholders and trained registration-kit trainers.
+I also supported the bid and AFIS client work for Kenya’s IEBC biometric voter-registration
+programme. That experience taught me that identity systems succeed only when software,
+evidence, field processes and institutional users work as one system.
+I later built the front end for MFieldwork, a platform used by NGOs and development
+organisations to capture data on mobile devices and move it to a server for analysis and
+visualisation. At Living Goods, I led technology delivery for direct operations and technicalassistance programmes. I grew a distributed organisation spanning engineering, data science,
+QA, design, product and project management, then established the delivery lifecycle that
+connected those disciplines.
+More recently, I led Product, Engineering and IT at Peach. I designed and delivered a web application and internal tools for vehicle intake and assessment. At Bridge, I set the architecture
+for API, mobile and web products while building the team and management structure around
+them. These roles required the same move Moniepoint needs: turn important operational work
+into deliberate product and platform development.
+For the past two years, I have also made language models part of how I research, define and
+deliver products. I use them where interpretation or generation improves the workflow, and
+conventional software where rules, reliability and cost control matter.
+I bring 20 years in software, 10+ years of production Java, Kotlin experience and 10+ years
+hiring and managing Engineering Managers. I would welcome a discussion about giving Field
+Verification clear technical direction and preparing it for Kenya and other markets.
+Sincerely,
+Nii Amon Dsane
+
+1
+
+

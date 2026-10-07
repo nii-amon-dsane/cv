@@ -1,0 +1,21 @@
+# Nii Amon Dsane
+
+6 October 2026
+
+Hiring Team  
+Moniepoint Group
+
+Dear Hiring Team,
+
+I have spent my career building the systems through which money moves: card payments, mobile wallets, core banking, billing, APIs and cross-border remittances. Monnify brings those threads together in one mandate. It needs technical depth, product judgment and an organisation that can operate a regulated platform while expanding across markets. I have led all three.
+
+At Bridge Technologies, I set the strategy and architecture for an API-driven fintech business. I delivered an MTN Group and MFS Africa integration for a cross-border remittance product intended for 70M subscribers in Nigeria, followed by a KCB integration for outbound remittances. After assessing the existing products and engineering gaps, I rebuilt the team and led delivery of two consumer apps, a merchant app and APIs for payments, remittances, wallets and currency swaps.
+
+That work sits on a longer payments foundation. At Kwara, I owned architecture and delivery for a core-banking and daily-operations platform serving cooperative financial institutions. At CoreNett, I led software architecture and product development for card payments, electronic vouchers, Java-based cardless ATM services and a mobile wallet modelled after M-Pesa. At Radio Africa, I built payment and billing services connected to Safaricom SDP and mobile money, alongside a Kotlin-based streaming platform.
+
+I remain close to engineering. I bring more than 10 years of production Java, Kotlin experience and direct architecture work across microservices, APIs and message-driven systems. For the past two years, I have also made language models part of how I research, define and deliver products. I use them where interpretation or generation is required and conventional software where rules, reliability and cost control matter. I also bring more than 10 years hiring and managing Engineering Managers. At Peach, Bridge, Living Goods and Radio Africa, I built the structure, management capacity and delivery practices around the systems my teams owned.
+
+Moniepoint's expansion into Kenya makes this role especially relevant. I would welcome a discussion about Monnify's technical roadmap, developer experience and the organisation needed to support multi-currency, multi-market growth.
+
+Sincerely,  
+Nii Amon Dsane
