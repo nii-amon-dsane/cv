@@ -30,6 +30,7 @@ This is the v1 style guide derived from your CV's voice + sensible senior-exec d
    - Prior role: "I directed the Technology Group at Peach."
 9. **Name the user, workflow, system, team or result before the technology.** Use AI, LLM, agent, generative or deterministic only when the term explains a specific product behaviour or technical decision.
 10. **Keep excluded work private.** Do not use a company or project listed under `application_exclusions` in `profile/preferences.yaml`.
+11. **Preserve career chronology in CVs.** Experience must always appear in strict reverse chronological order. Never reorder employers or roles to emphasize relevance. Tailoring may change bullet depth, wording or compression, but never role sequence.
 
 ## Signature patterns confirmed by samples
 
