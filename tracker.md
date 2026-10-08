@@ -2,12 +2,14 @@
 
 _Last regenerated: 2026-10-07_
 
-**Summary:** 7 active · 0 offers · 0 closed · 7 total
+**Summary:** 9 active · 0 offers · 0 closed · 9 total
 
 ## Active
 
 | Company | Role | Status | Source | Fit | Submitted | Next follow-up | Dir |
 |---------|------|--------|--------|-----|-----------|----------------|-----|
+| Hallé Search | Executive recruiter outreach - CPTO / CTO | preparing | recruiter_cold | — | — | — | `halle-search__nicki-halle-executive-recruiter-outreach__2026-10-08` |
+| Maxwell Marshall | Executive recruiter outreach - CPTO / CTO | preparing | recruiter_cold | — | — | — | `maxwell-marshall__charles-deacy-executive-recruiter-outreach__2026-10-08` |
 | Nuru Solutions | Head of Engineering & Data | preparing | portal | 82 | — | — | `nuru-solutions__head-of-engineering-data__2026-10-07` |
 | OpenFn | Managing Director, Services | preparing | portal | 89 | — | — | `openfn__managing-director-services__2026-10-07` |
 | Talent Safari | Executive recruiter outreach - CPTO / CTO | preparing | recruiter_cold | — | — | — | `talent-safari__executive-recruiter-outreach__2026-10-07` |
@@ -28,6 +30,8 @@ _No applications yet._
 
 | Company | Role | Status | Source | Fit | Submitted | Next follow-up | Dir |
 |---------|------|--------|--------|-----|-----------|----------------|-----|
+| Hallé Search | Executive recruiter outreach - CPTO / CTO | preparing | recruiter_cold | — | — | — | `halle-search__nicki-halle-executive-recruiter-outreach__2026-10-08` |
+| Maxwell Marshall | Executive recruiter outreach - CPTO / CTO | preparing | recruiter_cold | — | — | — | `maxwell-marshall__charles-deacy-executive-recruiter-outreach__2026-10-08` |
 | Nuru Solutions | Head of Engineering & Data | preparing | portal | 82 | — | — | `nuru-solutions__head-of-engineering-data__2026-10-07` |
 | OpenFn | Managing Director, Services | preparing | portal | 89 | — | — | `openfn__managing-director-services__2026-10-07` |
 | Talent Safari | Executive recruiter outreach - CPTO / CTO | preparing | recruiter_cold | — | — | — | `talent-safari__executive-recruiter-outreach__2026-10-07` |
