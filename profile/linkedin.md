@@ -136,8 +136,10 @@ Led software and digital-product development as Radio Africa expanded from tradi
 
 - Led a 12-person team of developers, designers and web administrators providing product development and production services across the group.
 - Advised the Group CEO and executive leadership on digital-product strategy and the transition towards a digital-first media business.
-- Architected and helped build a music-streaming platform using microservices, Kotlin, Akka, message queues and serverless infrastructure.
-- Designed an asynchronous music-ingestion pipeline with configurable processing capacity.
+- Architected and helped build a music-streaming platform ingesting catalogues from providers including Universal Music Group, Sony, Africori and MCSK.
+- Re-architected ingestion after large catalogue bursts exposed the limits of the original single-path pipeline, moving to asynchronous Kotlin/Akka processing with RabbitMQ, independently retryable media-rendition work and elastic serverless capacity.
+- Designed catalogue normalization for inconsistent formats, media quality and missing assets, including quality control and asset backfill.
+- Designed for DRM-protected access, playback attribution / rights reporting and partner catalogue-availability requirements.
 - Designed a billing and payments platform using Kill Bill, integrated with Safaricom services and mobile money.
 - Hired and managed engineering leadership and established regular technical training within the team.
 
@@ -260,11 +262,15 @@ Led Product, Engineering and IT as CTO and a member of the executive team.
 
 Led architecture and development work for Radio Africa's music-streaming platform as part of the group's transition towards digital products.
 
-Designed a microservices-based streaming architecture, an asynchronous content-ingestion pipeline and a billing and payments service integrated with Safaricom services and mobile money.
+The ingestion system had to normalize catalogues from providers including Universal Music Group, Sony, Africori, MCSK and smaller partners. Inputs varied in format, quality, transport mechanism and asset completeness, so ingestion included validation, missing-asset detection, quality control and backfill.
 
-The platform used technologies including Kotlin, Akka, message queues, serverless computing and Kill Bill.
+The first large Sony catalogue deliveries exposed limits in the original single-path processing design. I re-architected ingestion around asynchronous Kotlin/Akka processing and RabbitMQ, split media renditions into independently retryable work and made processing idempotent so completed renditions did not need to be regenerated after a failure.
 
-**Skills:** Software Architecture · Microservices · Kotlin · Apache Spark · Payment Systems · Mobile Payments
+We moved suitable processing from reserved AWS capacity to Lambda-based elastic execution so catalogue bursts could be processed without maintaining peak infrastructure continuously.
+
+The platform also had to satisfy DRM, subscription access, playback attribution / rights reporting and provider service-level requirements. Billing and payments were integrated with Safaricom services and mobile money.
+
+**Skills:** Software Architecture · Distributed Systems · Microservices · Kotlin · RabbitMQ · AWS Lambda · Media Processing · Payment Systems · Mobile Payments
 
 ### Islamic Trade Finance Marketplace and Mobile Payments Platform
 

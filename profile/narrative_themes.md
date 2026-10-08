@@ -9,6 +9,7 @@ You take products from an unclear problem to a delivered product. You work acros
 **When to lead with this**: pre-seed / seed roles; founder-CEO roles; greenfield product initiatives inside larger orgs; EIR/FIR roles; founder-of-new-venture roles.
 
 **Roles to feature**:
+- Radio Africa — greenfield music-streaming and ingestion platform; re-architected after production-scale catalogue failure
 - Bridge Technologies — rebuilt engineering and delivered consumer apps, a merchant app and APIs
 - Kwara — core banking platform, technical roadmap from scratch
 - Peach Tech — researched and delivered the first components of a marketplace operating system
@@ -17,6 +18,7 @@ You take products from an unclear problem to a delivered product. You work acros
 **Hook pattern**: "I take products from an unclear operating problem to a delivered system. At [company], I [specific delivered outcome]."
 
 **Proof metrics**:
+- Multi-provider music ingestion at Radio Africa spanning Universal Music Group, Sony, Africori, MCSK and smaller providers
 - 70M potential MTN subscribers reached by Bridge cross-border product
 - 2 consumer apps + 1 merchant app + 4 API product areas delivered at Bridge
 - First marketplace operating-system components delivered at Peach

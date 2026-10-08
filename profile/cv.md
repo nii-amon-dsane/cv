@@ -82,9 +82,10 @@ Java, Ruby, Python, TypeScript, Kotlin, Go, Erlang/OTP, Elixir, Spring Boot, Nod
 
 - Led a 12-person team of developers, designers and web administrators delivering digital products across the group
 - Advised the Group CEO and C-level executives on digital-product development and the transition to a digital-first media business
-- Architected and helped build a music-streaming service using microservices, Kotlin, Akka, message queues and serverless infrastructure
-- Designed the content-ingestion pipeline and a billing and payments service integrated with Safaricom services and mobile money
-- Hired and managed engineering leadership and established regular technical training
+- Architected and helped build a music-streaming platform ingesting heterogeneous catalogues from providers including Universal Music Group, Sony, Africori and MCSK
+- Re-architected the ingestion pipeline after large catalogue bursts exposed limits in the original single-path design, moving to asynchronous Kotlin/Akka processing with RabbitMQ, idempotent fan-out for media renditions and elastic AWS Lambda capacity
+- Designed for DRM-protected access, playback attribution / rights reporting, provider catalogue service levels and billing / payments integrated with Safaricom services and mobile money
+- Hired and managed engineering leadership and ran technical upskilling covering dependency injection, background processing, scalability and idempotency
 
 ### SafariFone Ltd // Djibouti
 **Software Architecture Consultant** | 2015 - 2016

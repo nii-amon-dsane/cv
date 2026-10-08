@@ -122,10 +122,11 @@ Read in this order:
 1. `/Users/niiamon/work/cv/profile/cv.md` — full career history
 2. `/Users/niiamon/work/cv/profile/preferences.yaml` — must-haves, red lines, target criteria
 3. `/Users/niiamon/work/cv/profile/achievements.md` — quantified wins (may be thin early on)
-4. `/Users/niiamon/work/cv/profile/narrative_themes.md` — story arcs to lean on
-5. `/Users/niiamon/work/cv/profile/style_guide.md` — voice rules
-6. The application folder's `jd.txt` — the job description
-7. The application folder's `company_research.md` — output of Step 2 (company research). **Skip if missing — research is required before match analysis.**
+4. `/Users/niiamon/work/cv/profile/case_studies/` — detailed canonical system / delivery stories. Read relevant case studies before drafting application questions or interview answers that ask what was built, what broke, how it scaled, or what changed.
+5. `/Users/niiamon/work/cv/profile/narrative_themes.md` — story arcs to lean on
+6. `/Users/niiamon/work/cv/profile/style_guide.md` — voice rules
+7. The application folder's `jd.txt` — the job description
+8. The application folder's `company_research.md` — output of Step 2 (company research). **Skip if missing — research is required before match analysis.**
 
 Then write `match_analysis.md` in the application folder using the template at `/Users/niiamon/work/cv/templates/match_analysis.md.tmpl`. The report has 5 sections:
 
@@ -278,7 +279,8 @@ Skip any section where the CV already answers it.
 - `profile/cv.md` — master CV
 - `profile/preferences.yaml` — must-haves, red lines, target criteria
 - `profile/achievements.md` — quantified achievements library (enrich over time)
-- `profile/narrative_themes.md` — 2-3 story arcs
+- `profile/case_studies/` — detailed canonical stories for architecture, production failures, scaling, technical leadership and interview/application questions
+- `profile/narrative_themes.md` — story arcs
 - `profile/style_guide.md` — voice rules
 - `profile/voice_samples/*.md` — writing samples
 

@@ -71,6 +71,30 @@ Mark uncertain metrics with `[estimated]`. The agent will flag `[estimated — v
 - Source: `profile/cv.md`
 - Verifiable: partially
 
+### Re-architected music ingestion after production-scale catalogue failure @ Radio Africa | Jun 2016 – Oct 2018
+- Metric: Multi-provider ingestion spanning Universal Music Group, Sony, Africori, MCSK and smaller providers; multiple media-quality renditions per item.
+- Context: The first large Sony catalogue dumps overwhelmed the original single mainline ingestion pipeline. FFmpeg failures, including memory-pressure / OOM failures, could force full reprocessing. Redesigned the system around asynchronous Kotlin/Akka processing with RabbitMQ, mainline-to-rendition fan-out and idempotent retries so completed qualities were not repeated.
+- Source: `profile/case_studies/radio-africa-music-streaming-platform.md`; user-confirmed on 2026-10-08
+- Verifiable: partially
+
+### Built elastic catalogue-processing capacity @ Radio Africa | Jun 2016 – Oct 2018
+- Metric: Processing capacity scaled with catalogue demand rather than relying on large permanently reserved processing servers.
+- Context: Moved suitable ingestion workloads from reserved AWS instances to AWS Lambda, reducing standing-capacity cost and allowing the platform to absorb large catalogue deliveries while meeting partner availability expectations.
+- Source: `profile/case_studies/radio-africa-music-streaming-platform.md`; user-confirmed on 2026-10-08
+- Verifiable: partially
+
+### Normalized heterogeneous music catalogues and commercial requirements @ Radio Africa | Jun 2016 – Oct 2018
+- Metric: Providers included Universal Music Group, Sony, Africori, MCSK and smaller catalogue partners.
+- Context: Designed intake and normalization for differing formats, quality levels, delivery mechanisms and incomplete assets. The workflow included missing-asset detection, quality control, web search and manual backfill, plus DRM, playback attribution and rights-reporting requirements.
+- Source: `profile/case_studies/radio-africa-music-streaming-platform.md`; user-confirmed on 2026-10-08
+- Verifiable: partially
+
+### Upskilled a young engineering team during platform rearchitecture @ Radio Africa | Jun 2016 – Oct 2018
+- Metric: 12-person digital-product team.
+- Context: Ran an intensive technical upskilling programme as the architecture moved towards distributed asynchronous processing. Topics included dependency injection, background processing, scalability and idempotency.
+- Source: `profile/case_studies/radio-africa-music-streaming-platform.md`; user-confirmed on 2026-10-08
+- Verifiable: partially
+
 ### Led a five-person product and engineering team @ Kwara | Oct 2018 – May 2019
 - Metric: 5 developers and designers
 - Context: Set technical objectives, provided architecture and mentoring, and supported product, marketing, sales and people decisions.

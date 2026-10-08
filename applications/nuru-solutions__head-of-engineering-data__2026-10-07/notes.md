@@ -22,3 +22,10 @@ Do not claim:
 - AWS-specific production ownership unless separately sourced
 
 Current ventures remain brief so they do not imply unavailability.
+
+
+## Application question evidence
+
+For questions about the most complex system taken from prototype to production, production failures, scaling, reliability or technical leadership, prefer the Radio Africa music-streaming / ingestion case study in `profile/case_studies/radio-africa-music-streaming-platform.md`.
+
+Key arc: heterogeneous multi-provider catalogues → custom normalization / DRM / reporting requirements → first large Sony catalogue dump broke the single mainline pipeline → RabbitMQ + Kotlin/Akka asynchronous fan-out + idempotent retries + Lambda elastic capacity → team upskilling.
