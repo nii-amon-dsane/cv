@@ -89,6 +89,31 @@ You're not just an engineering leader — you partner with the CEO on company st
 
 ---
 
+
+---
+
+## Theme 5: Government & Health Systems at Scale
+
+You have led and delivered technology in government-facing, public-service and digital-health environments where systems operate across regions, countries and national programmes.
+
+**When to lead with this**: govtech; digital public goods; digital health; public-sector technical services; government implementation; international development; national registries; interoperability and public-service delivery.
+
+**Roles to feature**:
+- Living Goods — led software engineering and technology teams supporting regional and national-scale community-health systems across Kenya, Uganda and other engagements
+- GenKey — national biometric voter-registration systems for Ghana's Electoral Commission and bid work for Kenya's IEBC
+- MFieldwork — field-data systems used by development and humanitarian organisations
+
+**CV headline pattern**: "Product & Technology Executive · Government & Digital Health Systems"
+**Hook pattern**: "I have led technology delivery in national and regional public-service systems, from biometric identity to digitally enabled community health."
+
+**Proof metrics**:
+- Living Goods supported more than 10,000 CHWs serving more than 8 million people across Kenya and Uganda by the end of 2020
+- Uganda operations reached 4,300+ CHWs across 20 districts during Nii's tenure
+- Kenya's national community-health digitization strategy and eCHIS work targeted approximately 95,000-100,000 CHWs across all 47 counties; Living Goods' Smart Health app was selected as the reference tool for the national prototype
+- Ghana's biometric voter-registration programme registered approximately 14M voters using 6,500 registration kits
+
+**Evidence rule**: distinguish Nii's personally confirmed leadership scope from organisation-level programme metrics. Do not imply sole ownership of national programmes.
+
 ## How the agent picks themes per application
 
 The agent reads the JD and `match_analysis.md` and picks 1-2 themes:
@@ -97,6 +122,7 @@ The agent reads the JD and `match_analysis.md` and picks 1-2 themes:
 - **JD emphasizes AI/ML/LLM/agents in the product** → Theme 2
 - **JD emphasizes scaling org/team/process for growth** → Theme 3
 - **JD emphasizes executive leadership, CEO partnership, board** → Theme 4
-- **JD is mixed** → combine (e.g., 1+2 for AI startup; 3+4 for scale-up CTO)
+- **JD emphasizes government, digital health, public-sector delivery or national-scale implementation** → Theme 5
+- **JD is mixed** → combine (e.g., 1+2 for AI startup; 3+4 for scale-up CTO; 3+5 for public-sector delivery leadership)
 
-The agent never invents themes. Only these 4 (until you add more).
+The agent never invents themes. Only these 5 (until you add more).
