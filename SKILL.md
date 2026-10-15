@@ -45,6 +45,16 @@ These rules protect the accuracy of Nii's career record and the quality of the w
 10. **CV readability is mandatory.** One achievement or responsibility per Markdown bullet line. Never join multiple bullets inline to fit a page. Shorten or prioritise material before changing typography.
 11. **Preserve a named CV baseline.** Keep its section structure, reverse-chronological role order and substantive evidence unless the user instructs otherwise. Tailoring changes emphasis and wording, not the underlying career record.
 12. **Preserve strict reverse chronology** across every CV, even when a less recent role is most relevant to the job.
+13. **Match the writing to the job, not a fixed length.** Nii's professional emails are generally concise, while his analytical, exploratory product and strategy writing can be detailed. Follow the confirmed overall voice in `profile/style_guide.md`; clarity of thought matters more than terseness. Do not over-compress reasoning or add polished executive filler.
+
+## Voice guidance across writing tasks
+
+Before drafting, distinguish the kind of writing being requested. Follow `profile/style_guide.md` (especially **Overall writing voice — confirmed**) and consult relevant original samples:
+
+- For messages and recruiter outreach, prefer direct, conversational prose and a concrete point or request. Do not force three bullets or an executive pitch.
+- For explanations, project narratives, consulting proposals, interviews and longer strategic documents, preserve the natural analytical development: context, problem, hypotheses, alternatives, implications and tests where relevant.
+- For CVs, prioritise accuracy and clear evidence over rhetoric.
+- Length should follow the content. Brevity is appropriate for short correspondence, not a rule imposed on every piece of writing.
 
 ## Workflow per application
 

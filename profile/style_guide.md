@@ -2,6 +2,35 @@
 
 This guide shapes how the agent writes on Nii's behalf. The writing samples in `profile/voice_samples/` are the primary reference. They outrank generic career-writing conventions.
 
+## Overall writing voice — confirmed
+
+This description reflects the user's own assessment of the original samples, confirmed on 15 October 2026. It applies beyond CVs and applications to professional correspondence, consulting material, product thinking and strategy documents.
+
+- **Direct and substantive.** Get to the point without elaborate introductions. Make the argument or request clear and give it sufficient substance.
+- **Conversational but professional.** Write in normal language. Avoid corporate phrasing, performative sophistication and unnatural polish.
+- **Analytical and exploratory.** Explain the problem, develop hypotheses, consider alternatives and identify decisions, trade-offs, risks or things to test. It is natural to explore an idea rather than lead immediately with a pre-packaged conclusion.
+- **Specific.** Prefer concrete examples, meaningful numbers, products, workflows and observable outcomes. Separate observations, hypotheses and known facts.
+- **Assertive without unnecessary aggression.** State disagreement, boundaries, preferences and specific requests plainly. Remain fair and respectful; do not hedge a clear position or manufacture hostility.
+- **Naturally structured.** Use headings, paragraphs and lists where they help readers follow the reasoning. Do not force material into an artificial template, formula or number of bullets.
+
+**The distinguishing feature is clarity of thought, not brevity.** Concise emails and detailed explanatory strategy documents are both authentic. Match length and structure to the purpose and complexity of the subject. Never reduce necessary reasoning just to make the writing terse; never add filler to make it look substantial.
+
+### How this changes with context
+
+- **Email and direct outreach:** normally concise, specific and conversational. Acknowledge the other person when warranted, state the point or request and propose a practical next step where useful.
+- **Long-form product, consulting and strategy writing:** allow detailed reasoning. Establish context and the current situation, explain the problem, distinguish hypotheses from evidence, examine alternatives and articulate implications, implementation considerations and measures of success as relevant. Do not turn exploratory work into a generic executive summary or a predetermined solution.
+- **Business analysis and working notes:** concrete and structured, often with nested points, quantities, assumptions and open questions. Preserve useful detail rather than polishing away the thinking.
+- **CVs and job applications:** factual and efficient, grounded in the work actually done, without slogans or inflated outcomes. These are shorter genres, not a universal template for the user's voice.
+
+### Original source material
+
+- `profile/voice_samples/sample_01_email_to_recruiter.md`: concise and practical correspondence.
+- `profile/voice_samples/sample_01_email_to_demand_settlement.md`: firm disagreement, acknowledgment of the other party and a specific proposal.
+- `profile/voice_samples/mira-mvp-gtm-funnels.md`: extended product reasoning, hypotheses, workflow design, alternatives and measurable outcomes.
+- `profile/voice_samples/Luxe Sugar Plum Writeup (1).md`: detailed, naturally structured business observations and analysis.
+
+Read the actual samples. Do not treat the examples above as interchangeable writing templates.
+
 ## Voice principles
 
 1. **Be direct and literal.** Say what happened, what the product does or what is being asked.
