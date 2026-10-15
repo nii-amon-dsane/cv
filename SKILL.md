@@ -31,15 +31,20 @@ If the user mentions a company they've applied to or are considering, check `/Us
 
 ## Hard rules — NEVER violate
 
-These are non-negotiable. Violating them destroys trust.
+These rules protect the accuracy of Nii's career record and the quality of the writing.
 
-1. **Never invent skills, job titles, dates, companies, degrees, or languages.** Use only what is in `profile/cv.md` or `profile/achievements.md`.
-2. **Never invent metrics.** Reuse numbers from the CV/achievements library only. If a metric seems plausible but isn't sourced, mark it `[estimated — verify]` so the user can confirm or remove.
-3. **ATS keyword weaving is per-application** (`meta.json: ats_optimize`). When enabled, weave JD keywords into bullets using only **truth** — never claim a skill the user doesn't have.
-4. **Voice**: keep the user's voice. Do not mimic the target company's voice. See `profile/style_guide.md`.
-5. **Comp floor**: never mention, echo, or imply the comp floor from `profile/preferences.yaml` in any generated artifact.
-6. **CV readability is a hard constraint.** One achievement/responsibility sentence per Markdown bullet line. Never collapse multiple bullets into inline `•` / `·`-separated prose or semicolon chains to fit a page. To stay within the 2-page cap, first shorten or remove lower-value content; if needed, use modestly tighter margins and approximately 9pt body text. Do not make the CV dense or hard to scan.
-7. **Baseline preservation is a hard constraint.** If the user identifies an existing application CV as the baseline, start from that CV. Preserve its section structure, role sequence and substantive role bullets unless the user explicitly asks to remove or compress them. Tailor the headline, summary, relevant strengths, bullet order within a role and wording for the new JD. Do not independently discard career evidence to hit page count.
+1. **Never invent skills, titles, dates, companies, degrees, languages, responsibilities or outcomes.** Use confirmed material from the profile, career evidence and the user's own corrections.
+2. **Never invent metrics.** If a number is not sourced, do not present it as a fact or manufacture an estimate to make a bullet impressive.
+3. **ATS terms must remain truthful and natural.** Use job-description vocabulary only when it accurately describes work that was done.
+4. **Use Nii's actual voice.** Read `profile/voice_samples/` and `profile/style_guide.md`. Samples outrank generic executive-writing formulas. Never mimic the target company's marketing language.
+5. **Compensation privacy:** never mention or imply the compensation floor in `profile/preferences.yaml` in outward-facing artifacts.
+6. **Avoid invented AI experience.** Do not attribute AI/LLM delivery to Peach Tech or Bridge Technologies. For current projects, describe the specific use of language models, software and workflows rather than using AI as a personal-brand slogan.
+7. **Peach factual boundary:** the broader unified system of record was designed but not completed. The delivered work included the customer web application and vehicle-intake, assessment and operating tools; distinguish research and product design from delivery.
+8. **Do not inflate evidence.** Architecture or design is not the same as launch. Partial delivery is not completion. Responsibility alone does not establish a result.
+9. **No career-brand slogans or forced pitch formulas.** Avoid archetypes such as `0→1 builder`, `org scaler` and `strategic partner to CEO`. Describe what was built, led or decided.
+10. **CV readability is mandatory.** One achievement or responsibility per Markdown bullet line. Never join multiple bullets inline to fit a page. Shorten or prioritise material before changing typography.
+11. **Preserve a named CV baseline.** Keep its section structure, reverse-chronological role order and substantive evidence unless the user instructs otherwise. Tailoring changes emphasis and wording, not the underlying career record.
+12. **Preserve strict reverse chronology** across every CV, even when a less recent role is most relevant to the job.
 
 ## Workflow per application
 
@@ -124,7 +129,7 @@ Read in this order:
 3. `/Users/niiamon/work/cv/profile/achievements.md` — quantified wins (may be thin early on)
 4. `/Users/niiamon/work/cv/profile/case_studies/` — detailed canonical system / delivery stories. Read relevant case studies before drafting application questions or interview answers that ask what was built, what broke, how it scaled, or what changed.
 5. `/Users/niiamon/work/cv/profile/narrative_themes.md` — story arcs to lean on
-6. `/Users/niiamon/work/cv/profile/style_guide.md` — voice rules
+6. `/Users/niiamon/work/cv/profile/style_guide.md` and `/Users/niiamon/work/cv/profile/voice_samples/` — voice rules and original examples
 7. The application folder's `jd.txt` — the job description
 8. The application folder's `company_research.md` — output of Step 2 (company research). **Skip if missing — research is required before match analysis.**
 
