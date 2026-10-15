@@ -11,7 +11,7 @@ Format each entry as:
 - Verifiable: [yes / no / partially]
 ```
 
-Mark uncertain metrics with `[estimated]`. The agent will flag `[estimated — verify]` in artifacts.
+Do not manufacture estimates for an outbound CV or message. Flag uncertainty privately and omit unsourced numbers until confirmed.
 
 ---
 
@@ -35,9 +35,10 @@ Mark uncertain metrics with `[estimated]`. The agent will flag `[estimated — v
 - Source: `profile/cv.md`
 - Verifiable: partially
 
-### Delivered the marketplace operating system @ Peach Tech | Dec 2023 – Mar 2025
-- Metric: 4 delivered system areas: web app, vehicle intake and assessment, system of record, and internal process tools
-- Context: Led delivery of a new web app and tools for listings, yard management and other operating processes.
+### Designed a marketplace operating system and delivered initial components @ Peach Tech | Dec 2023 – Mar 2025
+- Scope: Led functional, user and ethnographic research and product design for the broader marketplace operating system.
+- Delivered: Customer web application and vehicle intake, assessment and yard-management tools.
+- Boundary: The unified system of record was not completed before departure.
 - Source: `profile/cv.md`
 - Verifiable: partially
 
@@ -47,9 +48,9 @@ Mark uncertain metrics with `[estimated]`. The agent will flag `[estimated — v
 - Source: `profile/cv.md`
 - Verifiable: partially
 
-### Delivered consumer, merchant and API products @ Bridge Technologies | Jul 2022 – Jan 2023
-- Metric: 2 consumer apps, 1 merchant app and 4 API product areas
-- Context: Assessed the existing Brij products, identified engineering gaps, recruited a team and led delivery of Brij Send, Brij Mobile, Brij Merchant Portal and APIs for payments, cross-border remittances, wallets and currency swaps.
+### Led delivery of consumer, merchant and API products @ Bridge Technologies | Jul 2022 – Jan 2023
+- Scope: 2 consumer apps, 1 merchant app and 4 API product areas, reaching approximately 80% completion within 3 months.
+- Context: Assessed the existing products, identified engineering gaps, recruited a team and led work on Brij Send, Brij Mobile, Brij Merchant Portal and APIs for payments, cross-border remittances, wallets and currency swaps.
 - Source: user-confirmed on 2026-10-06
 - Verifiable: partially
 
@@ -73,7 +74,7 @@ Mark uncertain metrics with `[estimated]`. The agent will flag `[estimated — v
 
 ### Led a 12-person digital-product team @ Radio Africa | Jun 2016 – Oct 2018
 - Metric: 12 developers, designers and web administrators
-- Context: Led shared development services for group-wide digital products and advised executive leaders on digital transformation.
+- Context: Led shared development services for group-wide digital products and advised executive leaders during the move to a digital-first media business.
 - Source: `profile/cv.md`
 - Verifiable: partially
 
@@ -127,6 +128,6 @@ Mark uncertain metrics with `[estimated]`. The agent will flag `[estimated — v
 
 ### Independent Product & Technology Consultant / Builder | Mar 2025 – present
 - Metric: Current independent product and technology work since Mar 2025.
-- Context: Works across venture building, product strategy, software architecture and hands-on delivery, with a current focus on AI-native marketplaces and commerce. Uses language models for interpretation/generation and deterministic software for transactions, workflow state and rules.
+- Context: Works across venture building, product strategy, software architecture and hands-on delivery, with a current focus on marketplaces and social commerce. Uses language models for interpretation/generation and deterministic software for transactions, workflow state and rules.
 - Source: user-confirmed through LinkedIn profile work on 2026-10-07
 - Verifiable: partially
